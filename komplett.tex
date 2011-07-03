@@ -1,5 +1,5 @@
 % \documentclass[a4paper,10pt]{article}
-\documentclass[a4paper,10pt,twoside]{article}
+\documentclass[a4paper,10pt,twoside]{book} %article}
 \usepackage[utf8]{inputenc}
 
 \usepackage{ngerman}
@@ -8,6 +8,7 @@
 \usepackage{multicol}
 \usepackage{graphicx}
 \usepackage{url}
+\usepackage[pdftex,unicode]{hyperref} 
 
 % \newcommand{\picinclude}[1]{\includegraphics[width=0.5\textwidth,height=1.0\textheight]{#1}}
 \newcommand{\picinclude}[1]{\includegraphics[height=1.0\textheight]{#1}}
@@ -36,9 +37,12 @@ Nachbearbeitung: Olaf Radicke
 
 \tableofcontents
 
-\newpage 
+\newpage
 
-\section{Vorwort}
+\frontmatter 
+
+\chapter{Vorwort}
+% \section{Vorwort}
 \label{sec:vorwort}
 
 Diese Dokument basiert auf ein Scann des Werkes ``George Fox -- 
@@ -58,7 +62,8 @@ das ich mich entschlossenhabe trozdem den Text (wieder) zu veröffentlichen. Mei
 Textbearbeitung stelle ich unter einer \textit{Creative Commons-Lizenz lizenziert}: 
 Namensnennung-Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-SA 3.0).
 
-\subsection{Sie dürfen}
+% \subsection{Sie dürfen}
+\section{Sie dürfen}
 
 \begin{itemize}
  \item das Werk bzw. den Inhalt vervielfältigen, verbreiten und öffentlich zugänglich machen
@@ -66,15 +71,12 @@ Namensnennung-Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-SA 3.
  \item das Werk kommerziell nutzen
 \end{itemize}
 
-
-\subsection{Zu den folgenden Bedingungen}
-
-
+% \subsection{Zu den folgenden Bedingungen}
+\section{Zu den folgenden Bedingungen}
 
 \begin{description}
  \item[Namensnennung] Sie müssen den Namen des Autors/Rechteinhabers in der von ihm 
 festgelegten Weise nennen.
-
 
  \item[Weitergabe unter gleichen Bedingungen] Wenn Sie das lizenzierte Werk bzw. den 
 lizenzierten Inhalt bearbeiten oder in anderer Weise erkennbar als Grundlage für 
@@ -83,7 +85,8 @@ Inhalte nur unter Verwendung von Lizenzbedingungen weitergeben, die mit denen di
 Lizenzvertrages identisch oder vergleichbar sind.
  \end{description}
 
-\subsection{Wobei gilt}
+% \subsection{Wobei gilt}
+\section{Wobei gilt}
 
 \begin{description}
     \item[Verzichtserklärung] Jede der vorgenannten Bedingungen kann aufgehoben werden, 
@@ -116,7 +119,7 @@ Lizenz-Text erhalten Sie unter \url{http://creativecommons.org/licenses/by-sa/3.
 
 % \begin{multicols}{2}
 
-
+\mainmatter 
 
 
 % \input{./part_vorwort.tex}
