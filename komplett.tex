@@ -9,6 +9,7 @@
 \usepackage{graphicx}
 \usepackage{url}
 \usepackage[pdftex,unicode]{hyperref} 
+\usepackage{makeidx}
 
 % \newcommand{\picinclude}[1]{\includegraphics[width=0.5\textwidth,height=1.0\textheight]{#1}}
 \newcommand{\picinclude}[1]{\includegraphics[height=1.0\textheight]{#1}}
@@ -23,9 +24,12 @@ Nachbearbeitung: Olaf Radicke
 
 \date{Erstellungsdatum: \today}
 
+\makeindex
+
 \begin{document}
 
 \maketitle
+
 
 \begin{figure}[h!]
  \centering
@@ -159,6 +163,10 @@ Lizenz-Text erhalten Sie unter \url{http://creativecommons.org/licenses/by-sa/3.
 % \include{./part_000-009}
  
 % \end{multicols}
+\backmatter
+\appendix
+\cleardoublepage
+\printindex
 
 
 \end{document}
