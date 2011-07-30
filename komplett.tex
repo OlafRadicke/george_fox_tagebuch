@@ -1,5 +1,5 @@
 % \documentclass[a4paper,10pt]{article}
-\documentclass[a4paper,10pt,twoside]{book} %article}
+\documentclass[a4paper,12pt,twoside]{book} %article}
 \usepackage[utf8]{inputenc}
 
 \usepackage{ngerman}
@@ -7,9 +7,13 @@
 %\usepackage[a4paper]{geometry}
 \usepackage{multicol}
 \usepackage{graphicx}
+\usepackage{floatflt}
+\usepackage{float}
 \usepackage{url}
 \usepackage[pdftex,unicode]{hyperref} 
 \usepackage{makeidx}
+
+\pagestyle{plain}
 
 % \newcommand{\picinclude}[1]{\includegraphics[width=0.5\textwidth,height=1.0\textheight]{#1}}
 \newcommand{\picinclude}[1]{\includegraphics[height=1.0\textheight]{#1}}
@@ -130,7 +134,7 @@ Lizenz-Text erhalten Sie unter \url{http://creativecommons.org/licenses/by-sa/3.
 
 % \input{./part_vorwort.tex}
 \input{./part_000-009}
-% \input{./part_010-019}
+\input{./part_010-019}
 \input{./part_020-029}
 \input{./part_030-039}
 \input{./part_040-049}
@@ -169,6 +173,8 @@ Lizenz-Text erhalten Sie unter \url{http://creativecommons.org/licenses/by-sa/3.
 \appendix
 \cleardoublepage
 \printindex
+
+
 
 
 \end{document}
