@@ -1,3 +1,8 @@
+% Für das erstellen von PDFs, benutze das bash-skript make_pdf.sh
+% Für das Erstellen von eBooks benutze den Befehl:
+% pandoc -s komplett.tex -o komplett.epub
+% Zum lesen benutze das Programm fbreader
+
 % \documentclass[a4paper,10pt]{article}
 \documentclass[a4paper,12pt,twoside]{book} %article}
 \usepackage[utf8]{inputenc}
@@ -19,6 +24,9 @@
 \newcommand{\picinclude}[1]{\includegraphics[height=1.0\textheight]{#1}}
 \newcommand{\zitat}[1]{"`\textit{#1}"'}
 \newcommand{\grosszitat}[1]{\bigskip \begin{quote}#1\end{quote} \bigskip}
+\newcommand{\ort}[1]{\index{Orte!#1}}
+\newcommand{\person}[1]{\index{Personen!#1}}
+\newcommand{\bibel}[1]{\index{Bibel!#1}}
 
 %opening
 \title{George Fox -- Aufzeichnungen und Briefe des ersten Quäkers}
