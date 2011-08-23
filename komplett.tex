@@ -18,27 +18,27 @@
 \usepackage[pdftex,unicode]{hyperref} 
 
 \usepackage{index}
-%  \newindex{default}{idx}{ind}{Schlagwortverzeichnis}
-  \newindex{brief}{brdx}{brnd}{Briefe}
+  \newindex{default}{idx}{ind}{Schlagwortverzeichnis}
+  \newindex{bibel}{bidx}{bind}{Bibelstellen}
+  \newindex{brief}{brdx}{brnd}{Briefverzeichnis}
+  \newindex{buch}{budx}{bund}{Bücherverzeichnis}
   \newindex{ort}{odx}{ond}{Ortsverzeichnis}
   \newindex{person}{pdx}{pnd}{Personenverzeichnis}
 
-%\usepackage{makeidx}
 
 \pagestyle{plain}
 
-% \newcommand{\picinclude}[1]{\includegraphics[width=0.5\textwidth,height=1.0\textheight]{#1}}
 \newcommand{\picinclude}[1]{\includegraphics[height=1.0\textheight]{#1}}
 \newcommand{\zitat}[1]{"`\textit{#1}"'}
 \newcommand{\grosszitat}[1]{\bigskip \begin{quote} #1\end{quote} \bigskip}
-%\newcommand{\brief}[2]{\bigskip \begin{quote}\index{Brief an!#1} #2\end{quote} \bigskip}
-\newcommand{\brief}[2]{\bigskip \begin{quote}\index[brief]{#1} #2\end{quote} \bigskip}
-%\newcommand{\ort}[1]{\index{Orte!#1}}
-\newcommand{\ort}[1]{\index[ort]{#1}}
-%\newcommand{\person}[1]{\index{Personen!#1}}
-\newcommand{\person}[1]{\index[person]{#1}}
 
-\newcommand{\bibel}[1]{\index{Bibel!#1}}
+% Index-Relevante Befehle.
+\newcommand{\bibel}[1]{\index[bibel]{#1}}
+\newcommand{\brief}[2]{\bigskip \begin{quote}\index[brief]{#1} #2\end{quote} \bigskip}
+\newcommand{\buch}[1]{\index[buch]{#1}}
+\newcommand{\buchtitel}[1]{"`\textit{#1}"'\index[buch]{#1}}
+\newcommand{\ort}[1]{\index[ort]{#1}}
+\newcommand{\person}[1]{\index[person]{#1}}
 
 %opening
 \title{George Fox -- Aufzeichnungen und Briefe des ersten Quäkers}
@@ -50,7 +50,7 @@ Nachbearbeitung: Olaf Radicke
 
 \date{Erstellungsdatum: \today}
 
-\makeindex
+% \makeindex
 
 \begin{document}
 
@@ -75,12 +75,7 @@ Nachbearbeitung: Olaf Radicke
 
 \newpage 
 
-% \centering
-
-% \begin{multicols}{2}
-
 \mainmatter 
-
 
 % \input{./part_vorwort.tex}
 \input{./part_000-009}
@@ -118,34 +113,42 @@ Nachbearbeitung: Olaf Radicke
 \input{./part_320-329}
 % \include{./part_000-009}
  
-% \end{multicols}
 \backmatter
 
-\chapter{Anhang}
+\chapter{Anhang/Verzeichnis}
 \input{./bildnachweis}
 
 
-\appendix
+% \appendix
 \cleardoublepage
 
-% http://www.jr-x.de/publikationen/latex/tipps/verzeichnisse.html
 % Index soll Stichwortverzeichnis heissen
-\renewcommand{\indexname}{Stichwortverzeichnis}
+%\renewcommand{\indexname}{Stichwortverzeichnis}
 
 % Stichwortverzeichnis soll im Inhaltsverzeichnis auftauchen
-\addcontentsline{toc}{section}{Stichwortverzeichnis}
+% \addcontentsline{toc}{section}{Stichwortverzeichnis}
 \cleardoublepage
 
 \printindex
-  \addcontentsline{toc}{section}{Briefverzeichnis}
+
+  \printindex[bibel]
+\cleardoublepage
+
+%   \addcontentsline{toc}{section}{Briefverzeichnis}
   \printindex[brief]
 \cleardoublepage
 
-  \addcontentsline{toc}{section}{Ortsverzeichnis}
-  \printindex[ort]
+%   \addcontentsline{toc}{section}{Briefverzeichnis}
+  \printindex[buch]
+\cleardoublepage
 
-  \addcontentsline{toc}{section}{Personenverzeichnis}
+%   \addcontentsline{toc}{section}{Ortsverzeichnis}
+  \printindex[ort]
+\cleardoublepage
+
+%   \addcontentsline{toc}{section}{Personenverzeichnis}
   \printindex[person]
+\cleardoublepage
 
 
 \end{document}

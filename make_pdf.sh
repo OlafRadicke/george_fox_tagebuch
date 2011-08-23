@@ -1,23 +1,31 @@
 #!/bin/bash
 
 pdflatex komplett.tex
-makeindex komplett.idx
+makeindex -L komplett.idx
+# Index "bibel"
+makeindex -L komplett.bidx -o komplett.bind
 # Index "brief"
-makeindex komplett.brdx -o komplett.brnd
+makeindex -L komplett.brdx -o komplett.brnd
+# Index "buch"
+makeindex -L komplett.budx -o komplett.bund
 # Index "ort"
-makeindex komplett.odx -o komplett.ond
+makeindex -L komplett.odx -o komplett.ond
 # Index "person"
-makeindex komplett.pdx -o komplett.pnd
+makeindex -L komplett.pdx -o komplett.pnd
 
 # 2
 pdflatex komplett.tex
-makeindex komplett.idx
+makeindex -L komplett.idx
+# Index "bibel"
+makeindex -L komplett.bidx -o komplett.bind
 # Index "brief"
-makeindex komplett.brdx -o komplett.brnd
+makeindex -L komplett.brdx -o komplett.brnd
+# Index "buch"
+makeindex -L komplett.budx -o komplett.bund
 # Index "ort"
-makeindex komplett.odx -o komplett.ond
+makeindex -L komplett.odx -o komplett.ond
 # Index "person"
-makeindex komplett.pdx -o komplett.pnd
+makeindex -L komplett.pdx -o komplett.pnd
 
 # 3
 pdflatex komplett.tex
