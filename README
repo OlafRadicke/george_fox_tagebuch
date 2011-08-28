@@ -1,0 +1,2 @@
+Um ein PDF-Dokument zu erstellen wird das make_pdf.sh in einer Bash ausgeführt. 
+Benötigt wird eine LaTeX-Umgebeung.
