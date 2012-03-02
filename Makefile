@@ -2,9 +2,8 @@ BUILD_NAME=komplett.pdf
 RELEASE_NAME=fox_tagebuch.pdf
 
 
-all: komplett.pdf
 
-komplett.pdf:
+komplett.pdf: komplett.tex
 	pdflatex komplett.tex
 	makeindex -L komplett.idx
 	# Index "bibel"
@@ -33,16 +32,31 @@ komplett.pdf:
 	# Durchgang 3
 	pdflatex komplett.tex
 
-clean:
+clean :
 	$(RM) *.tex~
 	$(RM) *.ond
 	$(RM) *.out
+	$(RM) *.aux
 	$(RM) *.log
+	$(RM) *.idx
+	$(RM) *.ilg
+	$(RM) *.ind
+	$(RM) *.odx
+	$(RM) *.budx
+	$(RM) *.bund
+	$(RM) *.budx
+	$(RM) *.bind
+	$(RM) *.bidx
+	$(RM) *.backup
 
-clean-all: clean
+clean-all : clean
 	$(RM) $(BUILD_NAME) 
 	$(RM) $(RELEASE_NAME)
 
-dist: all
+dist : all
 	$(CP) $(BUILD_NAME) $(RELEASE_NAME)
 
+
+all : komplett.pdf
+
+.PHONY : clean dist clean-all  dist-pdf
