@@ -1,18 +1,29 @@
+/*
+Taplate
+<!-- Schlagwörter -->
+<div class="keyword">
+    <b>Schlagworte</b><br> 
+    <i>Jahreszahlen:</i><br> 
+    <i>Orte:</i> <br> 
+    <i>Personen:</i> <br> 
+    <i>Sonstiges:</i> 
+</div>
+
+<!-- Randbemerkungen -->
+<sup>[]</sup>
+<div class="randnotiz">
+    <b>[]</b>: 
+</div>
+*/
+
 body {
     align: center;
-/*     color: Black; */
     color: black;
     background: white;
-/*     font: 69% Arial; */
     font: 100% Arial; 
     width: 90%;
     margin: 2%;
     padding: 2%;
-    
-
-/*    background: #000080;
-    background:  -moz-linear-gradient(top, #B3D7FF, #000080);
-    background:  -webkit-gradient(linear, left top, left bottom, from(#B3D7FF), to(#000080));*/
 }
 
 small{
@@ -87,10 +98,11 @@ br.clear {
   clear:both;
 }
 
-span.smallcite{
+span.shortcite{
     font-family:  Verdana;
     font: 80% Arial; 
-    background-color:#F2F2F2;
+    font-style:italic;
+    background-color: #CFD762;
     padding:2px 20px 2px 20px; 
     margin: 0px 4px 0px 4px;
     border-radius: 5px;
@@ -102,7 +114,8 @@ span.smallcite{
 div.bigcite{
     width: 70%;
     font-family: Verdana;
-    background-color:#F2F2F2;
+    font-style:italic;
+    background-color: #CFD762;
     padding: 20px 40px 20px 40px;
     margin: 0px 40px 0px 140px;
     border-radius: 10px;
