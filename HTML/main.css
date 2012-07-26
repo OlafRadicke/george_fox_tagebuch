@@ -14,13 +14,16 @@ Taplate
 <div class="randnotiz">
     <b>[]</b>: 
 </div>
+
+<!-- Zitat -->
+<span class="shortcite">
 */
 
 body {
     align: center;
     color: black;
     background: white;
-    font: 100% Arial; 
+    font: 100% Verdana; 
     width: 90%;
     margin: 2%;
     padding: 2%;
@@ -46,8 +49,17 @@ p.center{
     padding: 5px;
 }
 
+p.intro{
+    font: bold 60% Verdana;
+    align: center;
+    text-align: center;
+    width: 90%;
+    margin: 10px; 
+    padding: 5px;
+}
+
 div.randnotiz {
-    font: 80% Verdana;
+    font: 80% Arial;
 /*     font: 70% Arial; */
     background-color: #FFFFFF;
     color: black;
@@ -73,7 +85,7 @@ sup {
 }
 
 div.keyword {
-    font: 80% Verdana;
+    font: 80% Arial;
 /*     font: 70% Arial; */
     background-color: #FFFFFF;
     color: white;
@@ -99,8 +111,7 @@ br.clear {
 }
 
 span.shortcite{
-    font-family:  Verdana;
-    font: 80% Arial; 
+    font: 80% Verdana; 
     font-style:italic;
     background-color: #CFD762;
     padding:2px 20px 2px 20px; 
