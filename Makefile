@@ -1,6 +1,6 @@
 BUILD_NAME=komplett.pdf
 RELEASE_NAME=fox_tagebuch.pdf
-
+CP = cp
 
 
 komplett.pdf: komplett.tex
@@ -54,7 +54,7 @@ clean-all : clean
 	$(RM) $(RELEASE_NAME)
 
 dist : all
-	$(CP) $(BUILD_NAME) $(RELEASE_NAME)
+	$(CP) ./$(BUILD_NAME) ./$(RELEASE_NAME)
 
 
 all : komplett.pdf

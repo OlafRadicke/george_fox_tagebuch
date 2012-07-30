@@ -1,2 +1,21 @@
-Um ein PDF-Dokument zu erstellen wird das make_pdf.sh in einer Bash ausgeführt. 
-Benötigt wird eine LaTeX-Umgebeung.
+== Urheber ==
+
+Autor:        George Fox
+Übersetzerin: Margrit Stähelin
+Satz (LaTeX): Olaf Radicke
+
+== Lizenz ==
+
+Creative Commons-Lizenz lizenziert (CC BY-SA 3.0)
+Namensnennung-Weitergabe unter gleichen Bedingungen 3.0 
+
+== Erstellung ==
+
+Es werden volgende Programme gebraucht:
+
+* Eine LaTeX-Umgebung
+* Das Programm GNU Make
+
+Wenn beides vorhanden ist, muss in das Hauptverzeichnis gewechselt werden
+und der Befehl "make" aufgerufen werden. Dieses erstellt dann ein PDF.
+
