@@ -1,12 +1,6 @@
 /*
 Taplate
-<!-- Schlagwörter -->
-<div class="keyword">
-    <b>Jahreszahlen:</b><br> 
-    <b>Orte:</b> <br> 
-    <b>Personen:</b> <br> 
-    <b>Sonstiges:</b>  <br> 
-</div>
+
 
 <!-- Schlagwörter -->
 <div class="keyword">
@@ -35,8 +29,11 @@ Taplate
 
 <!-- Randbemerkungen -->
 <sup>[]</sup>
+
 <div class="randnotiz">
-    <b>[]</b>: 
+    <ul>
+        <li><b>[]</b>: </li>
+    </ul>
 </div>
 
 <!-- Zitat -->
