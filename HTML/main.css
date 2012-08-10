@@ -97,6 +97,9 @@ div.randnotiz {
     box-shadow: 15px 15px 15px rgba(0,0,0, .25);
 }
 
+div.randnotiz li {
+    width: 85%;
+}
 
 
 /* span.note_nr { */
