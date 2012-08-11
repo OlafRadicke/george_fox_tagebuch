@@ -2,7 +2,7 @@
 Taplate
 
 
-<!-- Schlagwörter -->
+<!-- Box für Schlagwörter -->
 <div class="keyword">
     <ul>
         <li class="main-item">Jahreszahlen:</li> 
@@ -30,6 +30,7 @@ Taplate
 <!-- Randbemerkungen -->
 <sup>[]</sup>
 
+<!-- Box für Randbemerkungen -->
 <div class="randnotiz">
     <ul>
         <li><b>[]</b>: </li>
@@ -86,7 +87,7 @@ div.randnotiz {
     color: black;
     float: right; 
     clear: right; 
-    margin: 10px; 
+    margin: 5px; 
     padding: 5px;
     width: 40%;
     border-radius: 10px;
@@ -99,7 +100,11 @@ div.randnotiz {
 
 div.randnotiz li {
     width: 85%;
+    list-style-type: none;
+    margin: 1px; 
+    padding: 1px;
 }
+
 
 
 /* span.note_nr { */
