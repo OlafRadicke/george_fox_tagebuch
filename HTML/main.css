@@ -121,7 +121,7 @@ div.keyword {
     background-color: #FFFFFF;
     color: white;
     float: right; 
-    margin: 10px; 
+    margin: 5px; 
     padding: 5px;
     width: 40%;
     border-radius: 10px;
@@ -225,6 +225,17 @@ ul.index {
 ul.index li{
     width: 90%;
     list-style-type: upper-roman;
+    padding:2px 20px 2px 20px; 
+}
+
+ul.chapter_index {
+    width: 90%;
+    padding:30px 0px 40px 0px; 
+    margin: 0px 40px 0px 80px; 
+}
+ul.chapter_index li{
+    width: 90%;
+    list-style-type: decimal;
     padding:2px 20px 2px 20px; 
 }
 
