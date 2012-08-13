@@ -222,6 +222,7 @@ ul.index {
     padding:30px 0px 40px 0px; 
     margin: 0px 40px 0px 80px; 
 }
+
 ul.index li{
     width: 90%;
     list-style-type: upper-roman;
@@ -236,6 +237,19 @@ ul.chapter_index {
 ul.chapter_index li{
     width: 90%;
     list-style-type: decimal;
+    padding:2px 20px 2px 20px; 
+}
+
+ul.chapter_index ul.sub_index {
+    width: 90%;
+    list-style-type: upper-roman;/*
+    padding:30px 0px 40px 0px; 
+    margin: 0px 40px 0px 80px; */
+}
+
+ul.chapter_index ul.sub_index li{
+    width: 90%;
+    list-style-type: upper-roman;
     padding:2px 20px 2px 20px; 
 }
 
