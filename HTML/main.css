@@ -37,8 +37,6 @@ Taplate
     </ul>
 </div>
 
-<!-- Zitat -->
-<span class="shortcite">
 */
 
 body {
@@ -160,11 +158,10 @@ span.textit{
 }
 
 span.shortcite{
-/*     font: 80% Verdana;  */
-    font-style:italic;
-/*     background-color: #CFD762; */
+    font: bold italic 95% Verdana;
+/*     background-color: #CFD762; 
     padding:2px 20px 2px 20px; 
-    margin: 0px 4px 0px 4px;
+    margin: 0px 4px 0px 4px;*/
 }
 
 span.person{
@@ -189,12 +186,15 @@ span.person{
 }
 
 div.bigcite{
-    width: 70%;
+    width: 45%;
+    padding: 20px 20px 20px 40px;
+    margin: 10px 10px 10px 40px;
+    
     font-family: Verdana;
     font-style:italic;
     background-color: #CFD762;
-    padding: 20px 40px 20px 40px;
-    margin: 0px 40px 0px 140px;
+/*    padding: 20px 40px 20px 40px;
+    margin: 0px 40px 0px 140px;*/
     border-radius: 10px;
     -moz-box-shadow: 3px 3px 3px rgba(0,0,0, .25);
     -webkit-box-shadow: 3px 3px 3px rgba(0,0,0, .25);
