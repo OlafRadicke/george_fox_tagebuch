@@ -1,0 +1,13 @@
+HTNL-UMWANDLUNG
+===============
+
+- Absätze mit <p>
+- Index und Fußnoten mit <span> maskerien
+- Fußnoten durchnummerieren
+- Index in den Kopf der Absatz
+- Fußnoten in den Kopf des Ansatzes
+- Anführungszeichen in den Kurzzitaten setzen.
+- Kapitel setzen
+- Katitelverzeichnis erstellen
+- Hauptverzeichnis ergänzen.
+- <br class="clean"> setzen 

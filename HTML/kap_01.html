@@ -1,0 +1,78 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html>
+<head>
+    <link href="static/main.css"  type="text/css"  rel="stylesheet"  >
+    <title>webOBR4release</title>
+    <meta content="text/html;  charset=utf-8"  http-equiv="content-type"  >
+    <link href="static/favicon.ppm"  type="image/x-icon"  rel="shortcut icon"  >
+    <link href="main.css"  type="text/css"  rel="stylesheet"  >
+</head>
+<body>
+
+
+
+    <h1>Projektdokumentation webOBR4releas</h1>
+
+        <h3 id="index" >INDEX</h3>
+            <ul>
+            <li><a href="#requirement">Voraussetzungen</a></li>
+            <li><a href="#install_make">Installation per GNU Make</a></li>
+            <li><a href="#install_rpm">Installation per RPM</a></li>
+            <li><a href="#conf_extra">Erweiterte Konfigurationsmöglichkeiten</a></li>
+            <ul>
+                <li><a href="#conf_edit">Über die Konfigurationsdatei</a></li>
+                <li><a href="#initd_script">Das init.d-Script</a></li>
+                <li><a href="#init_db">Die Datenbank für ACLs</a></li>
+                <li><a href="#db_table">Die Datenbank Struktur</a></li>
+            </ul>
+            <li><a href="#webgui_acl">Login, Authentifizierung und Sessoin Handling</a></li>
+            <ul>
+                <li><a href="#webgui_acl_edit">User-Account-Verwaltung</a></li>
+                <li><a href="#new_account">Neuen Account anlegen</a></li>
+                <li><a href="#delete_account">Account löschen</a></li>
+                <li><a href="#group_edit">Benutzer-Gruppe ändern</a></li>
+            </ul>
+            <li><a href="#webgui_logs">Logs und Protokolle ansehen</a></li>
+            <li><a href="webgui_acl_edit">User-Account-Verwaltung</a></li>
+            <li><a href="#webgui_release">Release freigeben</a></li>
+            <li><a href="#webgui_release_status">Release-Prozess-Status</a></li>
+            <li><a href="#lizenz">Lizenz</a></li>
+            </ul>
+
+
+<!-- ################################################################### -->
+
+<h2 id="webgui_acl">Login, Authentifizierung und Sessoin Handling</h2>
+
+<div class="rightside"><a href="#index">nach oben</a></div>
+
+<p>
+<!-- Schlagwörter -->
+<div class="keyword"><b>Schlagwort:</b>Sonnenuntergang.</div>
+<!-- Randbemerkungen -->
+<div class="randnotiz"><b>Eine Randnotiz!</b>: Bla bla</div>
+<!-- Absatz -->
+Die Authentifizierung bzw. das Session Handling wird mit Cookies 
+realisiert. Das heißt: diese müssen im Browser eingeschaltet beziehungsweise 
+zugelassen werden um sich anzumelden. 
+<!-- Clean -->
+<br class="clear" >
+</p>
+
+<p>
+<!-- Schlagwörter -->
+<div class="keyword"><b>Schlagwort:</b>Sonnenuntergang.</div>
+<!-- Randbemerkungen -->
+<div class="randnotiz"><b>Eine Randnotiz!</b>: Bla bla</div>
+<!-- Absatz -->
+Ohne Anmeldung ist nur der Bereich der <span class="bash">Dokumentation</span> zugänglich. Solang
+die Anmeldung nicht erfolgreich war, wird der Benutzer immer die Einlog-Maske
+sehen. Bei dem Versuch unautorisiert auf die <span class="bash">Benutzerverwaltung</span>
+zuzugreifen, wird eine Fehlermeldung erscheinen. Diese erscheint auch wenn
+der Benutzer angemeldet ist, aber sein Account keine ausreichenden Rechte hat.
+<!-- Clean -->
+<br class="clear" >
+</p>
+
+
+</body>
+</html>

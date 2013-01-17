@@ -1,0 +1,282 @@
+/*
+Taplate
+
+
+<!-- Box für Schlagwörter -->
+<div class="keyword">
+    <ul>
+        <li class="main-item">Jahreszahlen:</li> 
+        <ul class="jahr">
+            <li></li>
+        </ul>
+        
+        <li class="main-item">Orte:</li>
+        <ul classe="ort">
+            <li></li>
+        </ul>
+        
+        <li class="main-item">Personen:</li>
+        <ul class="person">
+            <li></li>
+        </ul>
+        
+        <li class="main-item">Sonstiges:</li>
+        <ul class="tags">
+            <li></li>
+        </ul>
+    </ul>
+</div>
+
+<!-- Randbemerkungen -->
+<sup>[]</sup>
+
+<!-- Box für Randbemerkungen -->
+<div class="randnotiz">
+    <ul>
+        <li><b>[]</b>: </li>
+    </ul>
+</div>
+
+*/
+
+body {
+    align: center;
+    color: black;
+    background: white;
+    font: 100% Verdana; 
+    width: 90%;
+    margin: 2%;
+    padding: 2%;
+}
+
+small{
+    font: 70% Arial; 
+}
+
+
+p{
+    width: 100%;
+    text-align: justify;
+    padding: 5px;
+    margin: 5px;
+    padding: 10px 0px 10px 0px;
+}
+
+p.center{
+    align: center;
+    text-align: center;
+/*     width: 50%; */
+    margin: 10px; 
+    padding: 5px;
+}
+
+p.intro{
+    font: bold 110% Verdana;
+    align: center;
+    text-align: center;
+/*     width: 50%; */
+    padding: 5px;
+    margin: 5px;
+}
+
+div.randnotiz {
+    font: 80% Arial;
+/*     font: 70% Arial; */
+    background-color: #FFFFFF;
+    color: black;
+    float: right; 
+    clear: right; 
+    margin: 5px; 
+    padding: 5px;
+    width: 40%;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #4e3603;
+    -moz-box-shadow: 15px 15px 15px rgba(0,0,0, .25);
+    -webkit-box-shadow: 15px 15px 15px rgba(0,0,0, .25);
+    box-shadow: 15px 15px 15px rgba(0,0,0, .25);
+}
+
+div.randnotiz li {
+    width: 85%;
+    list-style-type: none;
+    margin: 1px; 
+    padding: 1px;
+}
+
+
+
+/* span.note_nr { */
+sup {
+    font: bold 60% Verdana;
+    line-height: 5px;
+/*    margin: 20px 0px 20px 0px; 
+    padding: 20px 0px 20px 0px;*/
+}
+
+div.keyword {
+    display: none;
+}
+
+
+
+
+br.clear {
+  clear:both;
+}
+
+span.textit{
+    font-style:italic;
+}
+
+span.shortcite{
+    font: bold italic 95% Verdana;
+}
+
+span.person{
+    display: none;
+}
+span.ort{
+    display: none;
+}
+span.index{
+    display: none;
+}
+span.jahr{
+    display: none;
+}
+
+
+div.bigcite{
+    width: 75%;
+    padding: 20px 20px 20px 40px;
+    margin: 10px 10px 10px 40px;
+    
+    font-family: Verdana;
+    font-style:italic;
+    background-color: #CFD762;
+/*    padding: 20px 40px 20px 40px;
+    margin: 0px 40px 0px 140px;*/
+    border-radius: 10px;
+    -moz-box-shadow: 3px 3px 3px rgba(0,0,0, .25);
+    -webkit-box-shadow: 3px 3px 3px rgba(0,0,0, .25);
+    box-shadow: 3px 3px 3px rgba(0,0,0, .25);
+}
+
+div.rightside {
+/*     display: none; */
+    text-align: right ;
+    align: right ;
+    padding: 0px 30px 30px 0px;
+/*    margin: 5px;*/
+}
+
+
+div.rightside a {
+    -moz-box-shadow: 15px 15px 15px rgba(0,0,0, .25);
+    -webkit-box-shadow: 15px 15px 15px rgba(0,0,0, .25);
+    box-shadow: 15px 15px 15px rgba(0,0,0, .25);
+/*    margin: 5px;*/
+}
+
+ul.index {
+    width: 90%;
+    list-style-type: upper-roman;
+/*    padding:30px 0px 40px 0px; 
+    margin: 0px 40px 0px 80px; */
+    padding: 5px; 
+    margin: 5px; 
+}
+
+ul.index li{
+    width: 90%;
+    list-style-type: upper-roman;
+    padding:2px 20px 2px 20px; 
+}
+
+ul.chapter_index {
+    width: 90%;
+    padding:30px 0px 40px 0px; 
+    margin: 0px 40px 0px 80px; 
+}
+ul.chapter_index li{
+    width: 90%;
+    list-style-type: decimal;
+    padding:2px 20px 2px 20px; 
+}
+
+ul.chapter_index ul.sub_index {
+    width: 90%;
+    list-style-type: upper-roman;/*
+    padding:30px 0px 40px 0px; 
+    margin: 0px 40px 0px 80px; */
+}
+
+ul.chapter_index ul.sub_index li{
+    width: 90%;
+    list-style-type: upper-roman;
+    padding:2px 20px 2px 20px; 
+}
+
+li{
+/*     width: 50%; */
+    text-align: justify;
+    margin: 3px ; 
+    padding: 3px;
+}
+
+dt{
+    margin:  0px 0px 0px 20px;
+/*     width: 50%; */
+    text-align: justify;
+    margin: 5px ; 
+    padding: 5px;
+}
+
+dd{
+/*     width: 50%; */
+    text-align: justify;
+    margin: 5px ; 
+ /*   padding: 5px;*/
+}
+
+h1 {
+    -moz-box-shadow: 15px 15px 15px rgba(0,0,0, .25);
+    -webkit-box-shadow: 15px 15px 15px rgba(0,0,0, .25);
+    box-shadow: 15px 15px 15px rgba(0,0,0, .25); 
+    color: black;
+    background-color:#ccac66;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #4e3603;
+/*     padding: 5px 5px 5px 40px; */
+    padding: 5px;
+    margin: 5px;
+}
+
+h2 {
+    -moz-box-shadow: 15px 15px 15px rgba(0,0,0, .25);
+    -webkit-box-shadow: 15px 15px 15px rgba(0,0,0, .25);
+    box-shadow: 15px 15px 15px rgba(0,0,0, .25); 
+    color: black;
+    background-color:#ccac66;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #4e3603;
+/*     padding: 5px 5px 5px 40px; */
+    padding: 5px;
+    margin: 5px;
+}
+
+h3 {
+/*     padding: 5px 5px 5px 40px; */
+    padding: 5px;
+    margin: 5px;
+}
+
+img{
+    width: 70%;
+    height: 70%;
+    align: center;
+    vertical-align: middle;
+}
