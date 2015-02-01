@@ -1,5 +1,3 @@
-<!-- METDATA -->
-
 ---
 title:
   - type: main
@@ -11,4 +9,7 @@ creator:
     text: Olaf Radicke
 publisher:  Olaf Radicke
 language: de-DE
+rights: public domain
+date: Mohr, 1908
 ...
+<!-- METDATA -->

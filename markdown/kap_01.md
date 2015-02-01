@@ -81,16 +81,12 @@ das der, welcher nicht trinken würde, alles bezahlen sollte.
 tat; sie taten mir sehr weh, denn es war mir dergleichen noch
 nie vorgekommen bei keiner Art von Menschen; darum stand ich
 auf um zu gehen, indem ich meine Hand in die Tasche steckte,
-einen Groschen vor sie aus den Tisch legte und sagte: *wenn es
-so ist, will ich euch Verlassen.* So kehrte ich nach Hause zurück,
+einen Groschen vor sie aus den Tisch legte und sagte:
+**"wenn es so ist, will ich euch Verlassen."** So kehrte ich nach Hause zurück,
 aber ich ging in jener Nacht nicht zu Bett, denn ich konnte nicht
 schlafen; bald ging ich im Zimmer auf und ab, bald betete und
 <!-- % \picinclude{./000-009/p_s003.jpg} -->
-schrie ich zum Herrn, welcher also zu mir redete: *Du siehst, wie
-junge Leute zusammengehen in Eitelkeit und alte Leute in die
-Erde. Du musst dich von ihnen abwenden und dich von ihnen,
-den jungen wie den alten, fern halten und ihnen allen ein
-Fremdling werden.*
+schrie ich zum Herrn, welcher also zu mir redete: **"Du siehst, wie junge Leute zusammengehen in Eitelkeit und alte Leute in die Erde. Du musst dich von ihnen abwenden und dich von ihnen, den jungen wie den alten, fern halten und ihnen allen ein Fremdling werden."**
 
 Darauf, am 9. Tage des 7. Monats 1643 verließ ich nach Gottes Befehl meine
 Verwandtschaft und brach allen Umgang und alle Kameradschaft mit jung und alt
@@ -106,7 +102,7 @@ meinem Zimmer, und bald wanderte ich einsam durch die Fluren, um auf den Herrn
 zu warten.
 
 Ich fragte mich, warum mir solches widerfahren müsse? Ich
-prüfte mich und sagte zu mir selber: *War ich je zuvor so gewesen?*
+prüfte mich und sagte zu mir selber: **"War ich je zuvor so gewesen?"**
 Ich dachte, ich hätte mich vielleicht gegen meine Angehörigen
 verfehlt, weil ich sie verlassen hatte. Ich musste immerwährend
 darüber nachdenken, dass ich solches getan hatte, und
@@ -139,7 +135,7 @@ betrübt über meine Abwesenheit.
 Als ich nach Leicestershire kam, wollten meine Leute, das ich
 mich verheirate; aber ich sagte ihnen, ich sei noch ein Knabe und
 müsse weise werden. Andre hätten mich gerne bei der Hilfstruppe
-im [Militär][3] gesehen, aber ich weigerte mich; und es betrübte mich,
+im [Militär][1.3] gesehen, aber ich weigerte mich; und es betrübte mich,
 das sie mir solche Dinge vorschlugen, denn ich war ein Gottseliger
 (engl. tender) Jüngling. Darauf ging ich nach Coventry, wo ich auf
 einige Zeit ein Zimmer im Hause eines *Frommen* hatte, bis
@@ -148,18 +144,17 @@ Leute in jener Stadt. Nach einiger Zeit ging ich wieder
 in meine Heimat und blieb etwa ein Jahr dort, in großer Trübsal;
 während mancher Nacht irrte ich einsam umher.
 
-[3]: "Es war der Anfang der Bürgerkriege."
+[1.3]: "Es war der Anfang der Bürgerkriege."
 
 Danach kam der Priester von Drayton, Nathanael
 Stevens, oft zu mir und ich ging oft zu ihm; und ein anderer Priester
 kam oft mit ihm und sie verschmähten nicht, mich anzuhören; ich
 stellte ihnen Fragen und diskutierte mit ihnen. Dieser Priester
 Stevens stellte mir folgende Frage: warum Christus am Kreuz
-gerufen habe: *mein Gott, mein Gott, warum hast
-du mich verlassen?*
-und warum er gesagt habe: *wenn es möglich, so gehe
-dieser Kelch an mir vorüber, aber nicht wie ich will, sondern wie
-du willst.* Ich erwiderte ihm, das zu der Zeit die Sünde der
+gerufen habe: **"mein Gott, mein Gott, warum hast du mich verlassen?"**
+und warum er gesagt habe:
+**"wenn es möglich, so gehe dieser Kelch an mir vorüber, aber nicht wie ich will, sondern wie du willst."**
+Ich erwiderte ihm, das zu der Zeit die Sünde der
 ganzen Menschheit auf ihm gelegen habe und er ihre Missetat
 und Übertretung tragen und für sie geopfert und verwundet
 werden musste, sofern er Mensch war; aber er starb nicht, sofern
@@ -172,11 +167,11 @@ Antwort, eine, wie er sie noch nie gehört habe. Zu jener Zeit
 <!-- % \picinclude{./000-009/p_s005.jpg} -->
 pflegte er mich zu loben und anerkennend von mir zu andern zu
 sprechen; und das, was ich ihm während der Woche im Gespräch
-mitteilte, predigte er dann am [Ersten Tage][4]; deswegen mochte
+mitteilte, predigte er dann am [Ersten Tage][1.4]; deswegen mochte
 ich ihn nicht leiden. Später wurde dieser Priester ein großer
 Verfolger.
 
-[4]: "Fox hat den Grundsatz, statt Sonntag, Erster Tag zu sagen, da es für
+[1.4]: "Fox hat den Grundsatz, statt Sonntag, Erster Tag zu sagen, da es für
 ihn keine heiligen Tage gibt."
 
 Darauf ging ich zu einem andern Priester in Mancetter in
@@ -244,14 +239,12 @@ das war die allgemeine Meinung der Leute. Aber ich sah es
 vollständig ein, als der Herr es mir offenbarte und war überzeugt
 davon und pries die Güte Gottes, die mir solches an diesem
 Morgen geoffenbart hatte. Es griff das Amt des Priesters Stevens
-an, das: *in Oxford oder Cambridge erzogen zu sein noch nicht
-genüge, um tüchtig und fähig zum Dienst Christi zu machen*; es
+an, das: **"in Oxford oder Cambridge erzogen zu sein noch nicht genüge, um tüchtig und fähig zum Dienst Christi zu machen"**; es
 wurde mir klar, das das, was mir geoffenbart worden war, das
 priesterliche Amt angreife. Meine Angehörigen waren sehr betrübt,
 das ich nicht mit ihnen kommen wollte, um den Priester zu hören.
 Ich ging eben lieber allein ins Freie mit einer Bibel. Ich fragte sie,
-ob nicht der Apostel zu den Gläubigen sage, *sie bedürfen nicht, das
-sie jemand lehre, die Salbung lehre sie* (1. Joh. 2). Aber wie wohl
+ob nicht der Apostel zu den Gläubigen sage, **"sie bedürfen nicht, das sie jemand lehre, die Salbung lehre sie"** (1. Joh. 2). Aber wie wohl
 sie wussten, das solches in der Schrift steht, und das es
 <!-- % \picinclude{./000-009/p_s007.jpg} -->
 wahr ist, waren sie doch betrübt, das ich mich in diesem Punkte
@@ -259,10 +252,10 @@ nicht unterwerfen und mit ihnen den Priester anhören konnte.
 Ich sah ein, das es ein anderes Ding ist, ein wahrer Gläubiger
 zu sein, als das worauf es diesen ankommt [...] Warum sollte
 ich also diesen anhängen? Weder diesen noch irgendwelchen
-[Dissenter][5] konnte ich mich anschließen, sondern war allein, ein
+[Dissenter][1.5] konnte ich mich anschließen, sondern war allein, ein
 Fremdling, und hielt mich einzig an den Herrn Jesus Christus.
 
-[5]: "Engl. *Abweichler* oder *anders Denkene*."
+[1.5]: "Engl. *Abweichler* oder *anders Denkene*."
 
 Ein andermal hatte ich die Offenbarung, das Gott, der die
 Welt gemacht hat, nicht in Tempeln mit Händen gemacht wohne.
@@ -296,29 +289,28 @@ die Heiligen früherer Zeiten gerichtet, aber die Apokalypse handle
 von den künftigen Dingen.
 
 Ich traf mit Leuten zusammen, welche die Ansicht hatten,
-die Frauen hätten keine Seelen, *nicht mehr als eine Gans*,
+die Frauen hätten keine Seelen, **"nicht mehr als eine Gans"**,
 <!-- % \picinclude{./000-009/p_s008.jpg} -->
 setzten sie leichtfertig hinzu. Aber ich tadelte sie und sagte ihnen,
-das sei nicht recht, denn Maria sage: *Meine Seele erhebet den
-Herrn und mein Geist freuet sich Gottes seines Heilandes* (Luc. 1:47).
+das sei nicht recht, denn Maria sage: **"Meine Seele erhebet den Herrn und mein Geist freuet sich Gottes seines Heilandes"** (Luc. 1:47).
 
 Ein andermal traf ich solche, die Viel auf Träume gaben.
 Ich sagte ihnen, wenn sie nicht unterscheiden könnten zwischen
 Träumen und Träumen, so würden sie große Verwirrung anrichten;
 denn es gäbe dreierlei Arten von Träumen: erstens:
-*viele Sorgen machen oft Träume* (Pred. 5:2); sodann habe der
+**"viele Sorgen machen oft Träume"** (Pred. 5:2); sodann habe der
 Mensch oft bei Nacht Einflüsterungen des Satan, und endlich
 spreche Gott zum Menschen im Traum. Schließlich ließen auch
-diese Leute von solchen Dingen ab und wurden [Freunde][6].
+diese Leute von solchen Dingen ab und wurden [Freunde][1.6].
 
-[6]: "*Freunde* ist bis heute die Selbstbezeichnung der Quäker: Das Wort
+[1.6]: "*Freunde* ist bis heute die Selbstbezeichnung der Quäker: Das Wort
 *Freund* ist also hier immer in diesem Sinn zu verstehen."
 
 Trotz vieler großer Offenbarungen, die ich hatte, kamen doch
 oft schwere Anfechtungen über mich, so das ich bei Tag wünschte,
 es wäre Nacht, und bei Nacht wünschte ich den Tag. Mit meinen
-Offenbarungen war es wie David sagt: *ein Tag sagt es dem
-andern, und eine Nacht tut es kund der andern* (Psalm 19:3).
+Offenbarungen war es wie David sagt:
+**"ein Tag sagt es dem andern, und eine Nacht tut es kund der andern"** (Psalm 19:3).
 Denn meine Offenbarungen bezogen sich immer eine auf die
 andere: sie bezogen sich aber auch auf die Schrift, über die ich
 große Offenbarungen hatte, und die Anfechtungen, die über mich
@@ -332,7 +324,7 @@ traf ich noch mehr Gleichgesinnte, worunter aber auch solche, die
 eitle, hochfahrende Ideen hatten. In der Gegend von Nottinghamshire
 und Leicestershire traf ich ebenfalls Gottselige (engl. tender people);
 unter anderen auch eine sehr gottselige (engl. tender) Frau,
-[Elisabeth Hooten][7]; ich hatte mehrere Versammlungen mit ihnen. Aber
+[Elisabeth Hooten][1.7]; ich hatte mehrere Versammlungen mit ihnen. Aber
 meine Trübsal dauerte fort, und ich war oft in großen Versuchungen.
 Ich fastete viel und ging oft manchen Tag draußen umher an einsamen Orten,
 und nahm oft eine Bibel und setzte mich in hohle Bäume und an verlassene Plätze,
@@ -341,7 +333,7 @@ bis die Nacht kam; häufig lief ich in der Nacht traurig umher; denn ich war
 ein Mann der Schmerzen, in den Zeiten, da der Herr sein Werk
 in mir anfing.
 
-[7]: "Elisabeth Hooten, eine Frau aus den angesehensten Gesellschaftskreisen
+[1.7]: "Elisabeth Hooten, eine Frau aus den angesehensten Gesellschaftskreisen
 schloss sich später den Quäkern als Predigerin an."
 
 Während dieser ganzen Zeit hatte ich mich nie mit irgend
@@ -367,8 +359,7 @@ Barmherzigkeit beschreiben, die Gott in diesem Elend an mir getan
 hat [...]
 
 Nachdem ich die Offenbarung vom Herrn empfangen hatte,
-*das in Oxford oder Cambridge erzogen zu sein noch nicht zum
-Dienst des Herrn befähige*, achtete ich die Priester weniger und
+**"das in Oxford oder Cambridge erzogen zu sein noch nicht zum Dienst des Herrn befähige"**, achtete ich die Priester weniger und
 sah mehr auf die Dissenter; ich sah, das unter diesen einige
 Gottseligkeit sei, und viele von ihnen kamen auch später, zu einer
 festen Überzeugung, weil sie Offenbarungen hatten. Aber wie
@@ -377,14 +368,14 @@ Separatistenprediger und solche, welche als die Erfahrensten angesehen
 wurden; denn ich sah, das keiner unter ihnen allen war, der zu meinem
 Zustand sprechen konnte. Als alle meine Hoffnungen auf sie und alle
 Menschen dahin waren, so das ich nichts hatte, das mir von außen
-half, und ich nicht wusste, was tun — da! o da hörte ich eine
-Stimme: \zitat{es ist Einer, der zu deinem Zustand sprechen kann,
-nämlich Jesus Christus.} Und als ich das hörte, hüpfte mein
+half, und ich nicht wusste, was tun — da! o da hörte ich eine Stimme:
+**"es ist Einer, der zu deinem Zustand sprechen kann, nämlich Jesus Christus."**
+Und als ich das hörte, hüpfte mein
 Herz vor Freude. Dann zeigte mir der Herr, warum niemand
 auf der Welt mir in meinem damaligen Zustand helfen konnte,
-% \picinclude{./010-019/p_s010.jpg}
+<!-- % \picinclude{./010-019/p_s010.jpg} -->
 
-nämlich —— damit ihm die Ehre allein gebühre. Alle sind mit
+nämlich damit ihm die Ehre allein gebühre. Alle sind mit
 Sünde und Unglauben behaftet, damit Christus, der erleuchtet
 und Gnade, Glauben und Kraft gibt, den Vorrang habe [...].
 Mein Verlangen nach dem Herrn wurde immer stärker und der
@@ -392,8 +383,7 @@ Eifer nach der Erkenntnis Christi und Gottes, ohne jegliche Hilfe
 von Menschen oder Büchern. Denn obwohl ich die Schrift las,
 die von Gott und Christus sprach, so kannte ich ihn doch nur
 durch Offenbarung, als den, der den Schlüssel hat und auftut
-(Offb. 3:7\bibel{Offb. 03:07@Offb. 3:7}), und als den Vater
-des Lebens, der mich durch seinen
+(Offb. 3:7), und als den Vater des Lebens, der mich durch seinen
 Geist zum Sohne zog. Dann führte mich der Herr freundlich
 weiter und lies mich seine ewige, unendliche Liebe sehen, die
 alles übertrifft, was die Menschen in ihrem natürlichen Zustand,
@@ -401,7 +391,7 @@ oder durch Bücher oder die Geschichte erkennen können;
 und diese Liebe zeigte mir auch, wie ich selber war ohne ihn.
 Ich zog mich zurück von allen anderen, denn durch die Liebe
 Gottes sah ich deutlich, wie es um sie stand. Ich hatte keinen
-Umgang mit irgendjemand, Priester oder \textit{Frommen}, oder
+Umgang mit irgendjemand, Priester oder *Frommen*, oder
 irgendwelchen Separatisten; sondern nur mit Christus, der der
 Schlüssel ist, und der mir die Tür zum Licht und zum Leben
 geöffnet hatte. Ich fürchtete mich vor allem Reden über irdische Dinge;
@@ -411,9 +401,8 @@ Druck, da glaubte ich nicht, das ich je wieder darüber Herr werden
 würde; meine Trübsal, Bekümmernis und Versuchung war so
 groß, das ich oft glaubte, verzweifeln zu müssen, so sehr ward
 ich versuchet; als aber Christus mir offenbarte, wie er vom gleichen
-Satan\index{Satan} war versuchet worden, und wie er über ihn Herr geworden
-war und ihm den Kopf zertreten hatte
-(1. Mos. 3:15\bibel{Mos. 1. 03:15@1. Mos. 3:15}), und wie durch
+Satan war versuchet worden, und wie er über ihn Herr geworden
+war und ihm den Kopf zertreten hatte (1. Mos. 3:15), und wie durch
 ihn, seine Kraft, sein Licht und seine Gnade und seinen Geist ich
 auch siegen werde, da vertraute ich ihm. So war er es, der mir
 auftat als ich eingeschlossen war und weder Hoffnung noch Glauben
@@ -425,11 +414,11 @@ Herr im tiefsten Elend und Jammer, die oft über mich kamen.
 Ich sand in mir zweierlei Durst: nach der Kreatur, um dort
 Hilfe und Kraft zu suchen, und nach Gott, dem Schöpfer, und
 seinem Sohn Jesus Christus. Ich sah, das die ganze Welt mir
-% \picinclude{./010-019/p_s011.jpg}
+<!-- % \picinclude{./010-019/p_s011.jpg} -->
 nicht helfen konnte; wenn ich die Kost, den Palast und die
 Dienerschaft eines Königs gehabt hätte, so wäre es mir nichts
 nütze gewesen; denn nichts konnte mich trösten, als die Kraft
-des. Herrn. Ich sah, das die Priester und die ,\textit{Frommen}
+des. Herrn. Ich sah, das die Priester und die ,*Frommen*
 und überhaupt die Menschen hohl waren und ganz zufrieden
 in dem Zustand, der mich elend machte; und das sie das
 liebten, wovon ich gerne los geworden wäre. Aber der Herr,
@@ -438,26 +427,22 @@ ich warf meine Sorgen auf ihn allein. Darum wartet alle
 geduldig aus den Herrn, in welchem Zustand ihr auch sein möget;
 wartet in der Gnade und Wahrheit, die von Christus kommt;
 wenn ihr das tut, so habet ihr eine Verheißung, die der Herr
-an euch erfüllen wird. Wahrlich, \zitat{selig sind alle, die da hungert
-und dürstet nach Gerechtigkeit, denn sie sollen satt
-werden}\footnote{Matth. 5}\bibel{Matth. 5} [...]
+an euch erfüllen wird. Wahrlich,
+**"selig sind alle, die da hungert und dürstet nach Gerechtigkeit, denn sie sollen satt werden"** (Matth. 5) [...]
 
-Wiederum hörte ich eine Stimme, welche sagte: \zitat{Du, Schlange,
-du suchst das Leben umzubringen, aber kannst es nicht; denn das
-Schwert, das den Baum des Lebens
-(1. Mos. 3.\bibel{Mos. 1. 03@1. Mos. 3}) bewacht, wird
-dich umbringen.} Christus, das Wort Gottes, das der Schlange,
-dem Mörder, den Kopf zertrat, behütete mich, weil mein Inneres »
+Wiederum hörte ich eine Stimme, welche sagte:
+**"Du, Schlange, du suchst das Leben umzubringen, aber kannst es nicht; denn das Schwert, das den Baum des Lebens (1. Mos. 3.) bewacht, wird dich umbringen."**
+Christus, das Wort Gottes, das der Schlange,
+dem Mörder, den Kopf zertrat, behütete mich, weil mein Inneres
 empfänglich war für seinen guten Samen, diesen Samen, der der
 Schlange, dem Mörder, den Kopf zertrat. Dieses inwendige
 Leben sproste in mir empor, also das ich auf alle Einwände der
-Priester und der \textit{Frommen} antworten konnte, und brachte mir
+Priester und der *Frommen* antworten konnte, und brachte mir
 Schriftworte ins Gedächtnis, um sie zu widerlegen.
 
 Einmal sah ich die große Liebe Gottes und ich wurde mit
 Bewunderung über ihre Unendlichkeit erfüllt; ich sah, wer von
-Gott ausgestoßen war, und wer ins Reich \index{Vision}
-Gottes\index{Reich Gottes} einging, und
+Gott ausgestoßen war, und wer ins Reich Gottes einging, und
 wie man Einlass bekommt durch Jesum, der mit seinem
 himmlischen Schlüssel die Tür öffnet; und ich sah den Tod, wie er
 über alle Menschen hingegangen war und den Samen Gottes in
@@ -470,51 +455,47 @@ gesündigt hätte. Ich war in großer Bangigkeit und Trübsal
 tagelang. Dennoch verließ ich mich ganz auf den Herrn.
 Einmal als ich von einem einsamen Gang zurück kam, wurde ich so
 von der Liebe Gottes eingehüllt, das ich unaufhörlich die Größe
-% \picinclude{./010-019/p_s012.jpg}
+<!-- % \picinclude{./010-019/p_s012.jpg} -->
 seiner Liebe anstaunen musste. Während ich in diesem Zustand
-war, eröffnete mir die ewige Klarheit und Kraft, das: alles %---
+war, eröffnete mir die ewige Klarheit und Kraft, das: alles
 geschehen muss in und durch Christum; und das er jenen Versucher,
-den Teufel\index{Teufel} besiegt und umbringt und alle seine Werke und über
+den Teufel besiegt und umbringt und alle seine Werke und über
 ihm steht; und das alle diese Trübsal gut für mich war, und
 die Versuchungen zur Prüfung meines Glaubens dienten, den
 Christus mir gegeben. Der Herr schenkte es mir, das ich durch
 alle diese Trübsal und Versuchungen hindurch sehen konnte;
 mein lebendiger Glaube wurde erweckt, das ich sah, wie alles
 durch Christus, das Leben, geschah, und ich glaubte an ihn. Wenn
-irgend einmal meine Stimmung getrübt\index{Trübsal} war, so blieb mein innerer
+irgend einmal meine Stimmung getrübt war, so blieb mein innerer
 Glaube fest, und meine tief gegründete Hoffnung hielt mich wie
 ein Anker im Meeresgrund und ankerte meine unsterbliche Seele
-in ihren Bischof (1. Petr. 2:25\bibel{Petr. 1. 02:25@1. Petr. 2:25}),
-indem sie ihr half über den Wassern
+in ihren Bischof (1. Petr. 2:25), indem sie ihr half über den Wassern
 der Welt, ihren wilden Wogen, Stürmen und Versuchungen zu
 schwimmen. Ach, da wurden mir meine Trübsal, Anfechtungen
 und Versuchungen klarer, denn je zuvor. Wenn es Licht ward
 in mir, da wurde alles, was nicht vom Licht war — Finsternis
 Tod, Versuchung, Unrecht und Gottlostgkeit — offenbar und kam
-ans Licht. Darnach entstand ein Feuer in mir, und ich sah \zitat{ihn
-sitzen wie das Feuer eines Goldschmieds und wie die Seife eines
-Wäschers}. (Mal. 3:2\bibel{Mal. 3:2@Mal. 3:2}). Der Geist
-der Unterscheidung kam über
+ans Licht. Danach entstand ein Feuer in mir, und ich sah
+**"ihn sitzen wie das Feuer eines Goldschmieds und wie die Seife eines Wäschers"**.
+(Mal. 3:2). Der Geist der Unterscheidung kam über
 mich, durch welchen ich erkannte, was meine eigenen Gedanken,
 mein Seufzen und mein Stöhnen bedeutete, und was mir die
 Erkenntnis trübte, und woher mir die Offenbarungen kamen.
-Alles was sich nicht in der Geduld\index{Geduld} bewähren und das Feuer
+Alles was sich nicht in der Geduld bewähren und das Feuer
 nicht erdulden konnte, erkannte ich im Licht als Seufzer des
 Fleisches, das sich nicht in Gottes Willen fügen wollte: dieses
 hatte mich so verdunkelt, das ich nicht geduldig sein konnte in
 Anfechtung, Trübsal und Verwirrung. Ich konnte mein eigenes
-Ich nicht in den Tod ans Kreuz\index{Kreuz} geben, das uns die Kraft
+Ich nicht in den Tod ans Kreuz geben, das uns die Kraft
 verleiht, Gott zu leben; sie bewirkt, das alles was uns
 die Gegenwart Christi verhüllt, was das Schwert des Geistes
 niederschlägt und tötet, nicht weiter leben kann. Ich
 unterschied auch das Seufzen des Geistes, der mir Offenbarungen
-eingab und der mich bei Gott vertrat
-(Röm. 8:20\bibel{Röm. 08:20@Röm. 8:20}). In diesem
-Geiste ist das wahre Warten im Herrn\index{Warten im Herrn}
-auf die Erlösung des
+eingab und der mich bei Gott vertrat (Röm. 8:20). In diesem
+Geiste ist das wahre Warten im Herrn auf die Erlösung des
 Leibes und der ganzen Kreatur. Durch diesen unsichtbaren Geist,
 in dem das wahre Seufzen geschieht, erkannte ich auch das
-% \picinclude{./010-019/p_s013.jpg}
+<!-- % \picinclude{./010-019/p_s013.jpg} -->
 verkehrte Seufzen und Flehen. Durch diesen unsichtbaren Geist
 Unterschied ich in allem, was ich hörte, sah und schmeckte, das
 Falsche, das sich über den Geist erhebt und ihn dämpft und
@@ -526,21 +507,21 @@ watet und bittet, aber nicht empfängt; denn sie hassen sein
 Licht und widerstreben dem heiligen Geist, sie verwandeln die
 Gnade in Wollust und lehnen sich auf wider den heiligen Geist;
 und wenden sich ab vom Glauben, in welchem sie beten sollten,
-und vom Geist, in dem sie bitten sollten (Jud.\bibel{Jud.}) [...]
+und vom Geist, in dem sie bitten sollten (Jud.) [...]
 
-Ich hörte von einer Frau in Lancashire, die 22 Tage gefastei
+Ich hörte von einer Frau in Lancashire, die 22 Tage gefastet
 hatte und ich ging hin, um sie zu sehen; aber als ich zu
 ihr kam, sah ich, das sie unter großer Versuchung war.
 Nachdem ich zu ihr geredet von dem, was ich vom Herrn empfangen
 hatte, verließ ich sie denn ihr Vater war ein Großer unter den
-\textit{Frommen}. Von da ging ich zu den \textit{Frommen} in Duckingfield
-und Manchester\ort{Manchester}, wo ich einige Zeit blieb und die Wahrheit unter
+*Frommen*. Von da ging ich zu den *Frommen* in Duckingfield
+und Manchester, wo ich einige Zeit blieb und die Wahrheit unter
 ihnen verkündete. Es wurden etliche von ihr überzeugt und nahmen
 die Lehre des Herrn an und wurden durch dieselbe fest gemacht und
-blieben in der Wahrheit. Aber die \textit{Frommen} waren wütend;
-denn sie eiferten alle für die Lehre von der Sündhaftigkeit\index{Sündhaftigkeit} und
-konnten es nicht ertragen, von Vollkommenheit\index{Vollkommenheit} sprechen zu hören
-und von einem heiligen, sündlosen Leben\index{Sündloses Leben}. Aber des Herrn Macht
+blieben in der Wahrheit. Aber die *Frommen* waren wütend;
+denn sie eiferten alle für die Lehre von der Sündhaftigkeit und
+konnten es nicht ertragen, von Vollkommenheit sprechen zu hören
+und von einem heiligen, sündlosen Leben. Aber des Herrn Macht
 war über allen, wenn sie gleich in Finsternis gebunden waren
 und in der Sünde, für die sie eiferten und das Gottselige in sich
 erstickten. Es war zu der Zeit eine große Versammlung der
@@ -550,57 +531,51 @@ Richtungen hin und ich ging auch; es waren nicht viele Baptisten
 aber viele andere dort. Der Herr öffnete mir den Mund und
 die ewige Wahrheit wurde unter ihnen verkündet, und die Macht
 des Herrn war über ihnen allen. In diesen Tagen fing die Macht
-des Herrn an zu treiben und ich hatte große Offenbarungen\index{Offenbarungen} über die
+des Herrn an zu treiben und ich hatte große Offenbarungen über die
 Schrift. Es wurden etliche in dieser Gegend gewonnen und kehrten
 sich von der Finsternis zum Licht, von der Macht des Satans zu
 Gott, und manche werden erweckt zu Gottes Preis. Ob ich mich an
-\textit{Frommen} oder andere wandte, stets wurden etliche gewonnen.
-% \picinclude{./010-019/p_s014.jpg}
+*Frommen* oder andere wandte, stets wurden etliche gewonnen.
+<!-- % \picinclude{./010-019/p_s014.jpg} -->
 
 Ich war damals noch in großen Versuchungen und meine
 inneren Leiden waren schwer; aber ich fand keinen, dem ich meinen
 inneren Zustand hätte eröffnen können, als allein den Herrn, zu
 dem ich Tag und Nacht schrie. Ich ging zurück nach
-Nottinghamshire\ort{Nottinghamshire}, und dort zeigte mir
-der Herr, das das Böse, das sich
+Nottinghamshire, und dort zeigte mir der Herr, das das Böse, das sich
 in den äußeren Dingen zeigt, inwendig in den Herzen und
 Gedanken unserer bösen Menschennatur ist. Ich sah die Natur der
 Hunde, Schweine, Schlangen, die Natur von Sodom und Ägypten,
 von Pharao, Kain, Ismael, Esau usw. inwendig in den Menschen,
 während andere sie im Äußern suchten. Ich schrie zum Herrn:
-\zitat{Warum muss mir solches geschehen, da ich mich doch nie solchen
-Lastern ergeben werde?} Und der Herr antwortete mir, ich
-müsse einen Begriff bekommen von diesen Zuständen; wie sollte
+**"Warum muss mir solches geschehen, da ich mich doch nie solchen Lastern ergeben werde?"** Und der Herr antwortete mir, ich müsse einen Begriff bekommen von diesen
+Zuständen; wie sollte
 ich sonst zu allen den verschiedenen Zuständen sprechen können?
 und ich erkannte die unendliche Liebe Gottes darin. Ich erkannte,
-das es einen Ozean des Todes\index{Ozean des Todes}
-und der Finsternis gibt, aber
-auch einen unendlichen, unerschöpflichen Ozean des
-Lichts\index{Ozean des Lichts} und
+das es einen Ozean des Todes und der Finsternis gibt, aber
+auch einen unendlichen, unerschöpflichen Ozean des Lichts und
 der Liebe, der über den Ozean der Finsternis fließt. Ich sah
 auch darin die unendliche Liebe Gottes, und ich hatte große
-Offenbarungen.\index{Offenbarung}
+Offenbarungen.
 
-Als ich beim Turmhaus (steeplehouse)\footnote{Fox gebraucht
-die Bezeichnung \zitat{Turmhaus} statt Kirche, weil: \zitat{die
-Schrift unter Kirche nicht ein Gebäude, sondern die Gemeinde
-der Gläubigen verstehe.}} von Mansfield vorbei kam, sagte
-der Herr zu mir: \zitat{Das, was die Leute mit Füßen
-treten, muss deine Nahrung sein}. Und während der Herr also
-zu mir sprach, offenbarte er mir, das das Volk und die \textit{Frommen}
-das Leben von Christus [...] das Blut des Sohnes Gottes, welches
-mein Leben war, mit Füßen treten und von ihren Einfällen leben,
-wenn sie gleich von ihm schwatzen. Es schien mir zuerst
-merkwürdig, das ich mich nähren sollte mit dem, was die großen
-\textit{Frommen} mit Füßen traten; aber der Herr offenbarte es mir
-deutlich durch seinen ewigen Geist und seine Macht.
+Als ich beim [Turmhaus][1.8] (engl. steeplehouse) von Mansfield vorbei kam, sagte
+der Herr zu mir:
+**"Das, was die Leute mit Füßen treten, muss deine Nahrung sein"**.
+Und während der Herr also zu mir sprach, offenbarte er mir, das das Volk und
+die *Frommen* das Leben von Christus [...] das Blut des Sohnes Gottes, welches
+mein Leben war, mit Füßen treten und von ihren Einfällen leben, wenn sie gleich
+von ihm schwatzen. Es schien mir zuerst merkwürdig, das ich mich nähren sollte
+mit dem, was die großen *Frommen* mit Füßen traten; aber der Herr offenbarte es
+mir deutlich durch seinen ewigen Geist und seine Macht.
+
+[1.8]: "Fox gebraucht die Bezeichnung 'Turmhaus' statt Kirche, weil: 'die Schrift unter Kirche nicht ein Gebäude, sondern die Gemeinde der Gläubigen verstehe.'"
 
 Die Leute kamen von nah und fern um mich zu sehen;
 aber ich vermied, von ihnen aufgesucht zu werden; doch ich musste
 reden und ihnen allerlei eröffnen. Einer, namens Brown, hatte
-große Weissagungen und Gesichte(Vorsehung) über mich auf dem Totenbett.
+große Weissagungen und Gesichte (Vorsehung) über mich auf dem Totenbett.
 Er sprach von nichts andrem, als was ich schaffen werde als
-% \picinclude{./010-019/p_s015.jpg}
+<!-- % \picinclude{./010-019/p_s015.jpg} -->
 Werkzeug des Herrn, und von andern sagte er, das sie in
 Verderben geraten werden; es erfüllte sich bei einigen, die damals
 viel gegolten hatten. Als dieser Mann begraben war, legte sich
@@ -626,7 +601,7 @@ Christi; und selbst durch jene Finsternis wurde ich gebracht, welche
 die ganze Welt bedeckt und alles gebunden hält und alle dem Tode
 preis gibt. Es war die gleiche Kraft Gottes, die mich durch
 solches alles hindurch brachte, welche nachher das ganze Land,
-die Priester wie die \textit{Frommen} und das Volk ergriff.
+die Priester wie die *Frommen* und das Volk ergriff.
 
 Ich konnte von mir sagen, ich sei im geistigen Babylon, Sodom,
 Ägypten und im Grabe gewesen; aber durch die ewige Kraft Gottes
@@ -638,19 +613,19 @@ Tränen.
 
 Es ging das Gerücht über mich, ich sei einer, der den Geist
 der Unterscheidung hätte; daraufhin kamen Viele zu mir von nah
-und fern, \textit{Frommen}, Priester und Volk. Die Macht des Herrn
-brach hervor, und ich hatte große Weissagungen\index{Weissagungen}; ich redete zu
+und fern, *Frommen*, Priester und Volk. Die Macht des Herrn
+brach hervor, und ich hatte große Weissagungen; ich redete zu
 ihnen von den göttlichen Dingen; sie hörten aufmerksam und
 andächtig zu, gingen hinweg und machten es ruchbar.
 
 
-% \picinclude{./010-019/p_s016.jpg}
+<!-- % \picinclude{./010-019/p_s016.jpg} -->
 Dann kam der Versucher und setzte mir wieder zu und
 klagte mich nn, ich hätte wider den heiligen Geist gesündigt; aber
 ich muste nicht, worin. Da kam mir der Zustand Paulus-’ in
 den Sinn, wie er in den dritten Himmel verzückt gewesen undf
 Dinge gesehen hatte, welche kein Mensch sagen kann, und wie
 darauf ein Bote des Satans gesandt worden war, ihn mit
-Fäusten zu schlagen. So überwand ich durch die Krast Christi
+Fäusten zu schlagen. So überwand ich durch die Kraft Christi
 auch diese Versuchung.
 
