@@ -498,7 +498,7 @@ und alle ihre abergläubischen Gebräuche und sagte ihm, Gott sei
 gekommen, sein Volk selbst zu lehren; das brachte den Papisten
 dergestalt auf, das es ihn aus seinem eigenen Hause trieb [...].
 
-## Kampf gegen Ausbeutung}
+## Kampf gegen Ausbeutung ##
 
 Obgleich zu der Zeit der Schnee sehr tief war, fuhr ich fort
 herumzureisen und kam zu einem Marktflecken, wo ich viele
@@ -579,7 +579,7 @@ Schweigen gebracht. Denn obgleich es innerlich in ihnen kochte,
 so hielt die Kraft sie doch gebunden, so das sie nicht losbrechen
 konnten [...].
 
-## Fox wird der gefürchtete Mann in der Lederkleidung #
+## Fox wird der gefürchtete Mann in der Lederkleidung ##
 
 Ein anderer Priester lies mich holen, um mit mir zu reden,
 und etliche *Freunde* gingen mit mir nach seinem Haus. Als
@@ -605,43 +605,39 @@ ewigen Kraft Gottes ergriffen [...].
 
 [4.5]: "Fox trug immer Kleider aus Leder, die er wegen ihrer Einfachheit und Dauerhaftigkeit allen andern Kleidungsstücken vorzog. (Vgl. Carlyles, Sartor Refartus: Ein Ereignis in der neuen Geschichte.)"
 
-## Widerwillen gegen das Predigen in Kirchen und auf Kanzeln}
+## Widerwillen gegen das Predigen in Kirchen und auf Kanzeln ##
 
 Von hier gingen wir über Scarborough\ort{Scarborough}
 [...] nach Malton\ort{Malton} [...]
 Am Ersten Tag kam eine Frau, eine der angesehensten *Frommen*
-unter den Independenten\index{Independenten}, welche ein
-solches Vorurteil gegen mich
+unter den Independenten, welche ein solches Vorurteil gegen mich
 hatte, das sie sagte, ehe sie kam, sie würde sich freuen, mich
 erhängt zu sehen; aber als sie kam, wurde sie gewonnen und
-gehört seither zu den \textit{Freunden}.
+gehört seither zu den *Freunden*.
 
 
 Darauf hatte ich hier große Versammlungen; es hätten noch
 mehr Leute daran teil genommen, aber sie wagten es nicht, aus
 Furcht vor ihren Angehörigen. Es wurde damals als
-etwas\index{Gottesdienst!Form}\index{Gottesdienst!Zu Hause}
-Unerhörtes angesehen, das man in Häusern predigte statt in der
-\zitat{Kirche}, wie sie es nannten; darum wurde sehr gewünscht, das
+etwas Unerhörtes angesehen, das man in Häusern predigte statt in der
+*Kirche*, wie sie es nannten; darum wurde sehr gewünscht, das
 ich ins Turmhaus gehe und dort rede. Einer der Priester schrieb
 mir und lud mich ein, im Turmhaus zu predigen, und nannte
 mich seinen Bruder. Ein anderer Priester, eine bekannte
 Persönlichkeit, hielt dort eine Stunde. Nun hatte mir der Herr während
 meiner Gefangenschaft in Derby kund getan, ich solle in den
 Turmhäusern predigen, um die Leute von denselben abzubringen,
-und es kamen mir auch zuweilen Bedenken
-wegen der Kanzeln\index{Kanzeln},
-in denen die Priester herumfaulenzten\index{Beleidigung}.
-Die Turmhäuser und
+und es kamen mir auch zuweilen Bedenken wegen der Kanzeln,
+in denen die Priester herumfaulenzten. Die Turmhäuser und
 Kanzeln verletzten mein Gefühl, weil sowohl die Priester als auch
 das Volk sie Gotteshäuser nannten und im Wahn waren, das
 Gott da in äußern sichtbaren Häusern wohne, statt im Gegenteil
-% \picinclude{./050-059/p_s050.jpg}
+<!-- % \picinclude{./050-059/p_s050.jpg} -->
 Verlangen zu tragen, das Gott und Christus in ihren Herzen
 und Leibern wohne, auf das sie Tempel Gottes würden. Denn
-der Apostel sagt: \zitat{Gott wohnet nicht in Tempeln mit Händen
-gemacht} (Act. 7:48\bibel{Act. 07:48@Act. 7:48}). Weil
-man aber diese Stätten nun einmal
+der Apostel sagt:
+**"Gott wohnet nicht in Tempeln mit Händen gemacht"**
+(Act. 7:48). Weil man aber diese Stätten nun einmal
 heilig hielt, so fand man es schrecklich, wenn man etwas dagegen
 sagte. Als ich ins Turmhaus kam, waren nicht mehr als 11
 Zuhörer dort, und der Priester hielt ihnen die Predigt. Als nun
@@ -656,8 +652,9 @@ Leute sehen könnten. Ich lies ihm darauf sagen, man sehe mich
 gut genug, da wo ich sei, ich sei nicht gekommen, solche Stätten
 noch aufrecht zu erhalten und ihr Bestehen und den Handel, der
 damit getrieben wird. Als ich dies gesagt hatte, fingen sie an,
-böse zu werden und sagten: \zitat{Das sind die falschen Propheten
-der letzten Zeiten}. Diese Rede Verletzte etliche und sie murrten
+böse zu werden und sagten:
+**"Das sind die falschen Propheten der letzten Zeiten"**.
+Diese Rede Verletzte etliche und sie murrten
 darüber; nun stand ich auf und hieß alle ruhig sein; ich stieg
 auf einen hohen Stuhl und erklärte ihnen, woran man die falschen
 Propheten erkenne, und das sie schon gekommen seien; und dann
@@ -671,16 +668,15 @@ Propheten seien. Nachdem ich so ein reiches Wirken unter ihnen
 gehabt hatte, zog ich im Frieden von dannen [...].
 
 
-Hierauf kam ich nach Pickering\ort{Pickering}, wo die Richter im
-Turmhaus ihre Sitzungen hielten; Friedensrichter
-Robinson\person{Friedensrichter Robinson} war
+Hierauf kam ich nach Pickering, wo die Richter im
+Turmhaus ihre Sitzungen hielten; Friedensrichter Robinson war
 Vorsitzender. Ich hatte zur gleichen Zeit eine Versammlung im
 Schulhaus und viele *Fromme* und Priester wohnten ihr bei
 und stellten allerlei Fragen, die zu ihrer Zufriedenheit beantwortet
 wurden. Es war gerade die Zeit der Gerichtsitzungen, und da
 wurden auch vier Oberkonstabler bekehrt. Es kam Richter
 Robinson zu Ohren, das der Priester, den er allen andern Priestern
-% \picinclude{./050-059/p_s051.jpg}
+<!-- % \picinclude{./050-059/p_s051.jpg} -->
 vorzog, besiegt und überzeugt worden war. Wir gingen nach
 der Versammlung in eine Herberge; Richter Robinson’s Priester
 war sehr bescheiden und lieb und wollte sogar durchaus mein
@@ -692,16 +688,14 @@ Leute von diesen Dingen ab und zu Christus zu bringen.
 Am folgenden Morgen ging ich mit den vier Konstablern und
 andern, um Richter Robinson zu besuchen, der mir unter der
 Türe seines Zimmers entgegenkam. Ich sagte ihm, ich könne ihm
-keine menschliche Ehre erweisen\index{Ehrerbietung};
-er sagte, er sehe nicht auf das.
+keine menschliche Ehre erweisen; er sagte, er sehe nicht auf das.
 Ich ging nun mit ihm ins Zimmer und tat ihm den Unterschied
 zwischen wahren und falschen Propheten dar, und wie die wahren
 höher stehen als die falschen, und richtete seinen Sinn auf
 Christus seinen Lehrer. Ich deutete ihm die Gleichnisse, und
-wie es sich mit der Erwählung\index{Erwählung} und
-Verwerfung\index{Verwerfung} verhalte, wie
+wie es sich mit der Erwählung und Verwerfung verhalte, wie
 man in der ersten Geburt in der Verwerfung sei und in der
-zweiten in der Erwählung. Ich zeigte ihm, wer die Verheisungen
+zweiten in der Erwählung. Ich zeigte ihm, wer die Verheißungen
 Gottes habe und wen sein Gericht verdamme. Er gab alles zu
 und war so offen für die Wahrheit, das, wenn ein anderer
 anwesender Richter eine kleine Einwendung machen wollte, er ihn
@@ -721,14 +715,12 @@ damit ich im Turmhaus predige. Bald darauf trieb es mich
 dorthin. Als ich kam, sah ich die Leute auf dem Turmhausplatze
 versammelt; der alte Priester wollte, das ich ins Turmhaus gehe,
 ich sagte, es sei nicht nötig. Es befremdete die Leute, das
-ich nicht in das gehen wollte, das sie \zitat{Gotteshaus} nannten. Ich
+ich nicht in das gehen wollte, das sie *Gotteshaus* nannten. Ich
 stellte mich auf den Platz des Turmhauses und erklärte den Leuten,
-ich sei nicht gekommen, ihre
-götzendienerischen\index{Götzendienst} Tempel aufrecht
-% \picinclude{./050-059/p_s052.jpg}
+ich sei nicht gekommen, ihre götzendienerischen Tempel aufrecht
+<!--- % \picinclude{./050-059/p_s052.jpg} -->
 zu erhalten, noch die Priester mit ihren Zehnten, Zulagen,
-Abgaben und Pfründen, noch ihre jüdischen\index{Zeremonie!jüdische}
-und heidnischen\index{Zeremonie!heidnische}
+Abgaben und Pfründen, noch ihre jüdischen und heidnischen
 Zeremonien und Traditionen; denn die gelten mir alle nichts. Ich
 erklärte ihnen, dieses Stück Boden sei nicht heiliger, als irgend ein
 anderes Stück Land\index{Heiligkeit!von Kirchen}. Ich zeigte
@@ -742,19 +734,17 @@ Aposteln gepredigten Christusglaubten, hätten sich nachher in
 den Wohnhäusern versammelt. Ich sagte ihnen, das alle, welche
 Christus, das Wort des Lebens, predigen, es umsonst tun sollen
 wie die Apostel, und wie Christus es geboten habe. So war ich
-gesandt\person{Fox!von Gott gesand} worden von Gott
+gesandt worden von Gott
 dem Herrn Himmels und der Erden
 umsonst zu predigen und die Leute von diesen äußeren Tempeln
 mit Händen gemacht, worin Gott nicht wohnt, abzubringen, damit
 sie erkennen, das ihre Leiber Tempel Gottes werden sollen. Ich
 musste die Leute abbringen von ihren jüdischen Zeremonien,
-abergläubischen\index{Aberglaube} und heidnischen Gebräuchen,
+abergläubischen und heidnischen Gebräuchen,
 Traditionen und Menschensatzungen, von der Lehre
-all der Mietlinge\footnote{Von \zitat{mieten}, also Leute
-die sich mieten lassen.}, die Zehnten nehmen
+all der [Mietlinge][4.6], die Zehnten nehmen
 und große Pfründen, die um Bestechung predigen und für Geld
-weissagen\index{weissagen}, die gar nicht von Gott und
-von Christus gesandt
+weissagen, die gar nicht von Gott und von Christus gesandt
 sind, wie sie ja selber bekennen, wenn sie sagen, sie haben nie
 die Stimme Gottes noch Christi vernommen. So ermahnte ich
 denn die Leute, abzulassen von alle dem, und wies sie auf den
@@ -764,41 +754,38 @@ möchten, Christum zu kennen, der sie umsonst lehre und ihnen
 Rettung bringe und ihnen die Schrift öffne. Alles war ruhig
 und viele wurden gewonnen, der Herr sei gepriesen.
 
-\index{Versammlung!im Freien}\index{Versammlung!-länge}
+[4.6]: "Von 'mieten', also Leute die sich mieten lassen."
+
 Ich kam daraus in eine andere Stadt, wo wieder eine große
 Versammlung war; der vorhin erwähnte Priester begleitete mich
 und allerlei *Fromme* kamen dazu herbei. Ich saß mehrere
-Stunden auf einem Heuschober und sagte
-nichts\person{Fox!schweigt}, denn sie sollten
+Stunden auf einem Heuschober und sagte nichts, denn sie sollten
 nach Worten hungern. Die *Fromme* kamen immer wieder
 zu dem alten Priester und fragten ihn, wann ich beginnen werde
 zu reden. Er hieß sie warten und sagte ihnen, das Volk habe
 immer lange gewartet, bis Christus gesprochen habe. Schließlich
-% \picinclude{./050-059/p_s053.jpg}
+<!-- % \picinclude{./050-059/p_s053.jpg} -->
 trieb mich der Herr zu reden, und sie wurden von der Kraft des
 Herrn erfasst; das Wort des Lebens erreichte sie und es geschah
-eine allgemeine Bekehrung unter ihnen.\index{Bekehrung}
-
+eine allgemeine Bekehrung unter ihnen.
 
 Ich zog weiter; der alte Priester und einige andere waren
 mit mir. Unterwegs riefen ihn ein paar Leute an:
-\zitat{Mr. Bones\person{Bones},
-wir sind euch Geld schuldig für Zehnten; kommt doch und nehmt
-es!} Aber er wehrte mit der Hand ab und sagte, er habe genug,
+**"Mr. Bones, wir sind euch Geld schuldig für Zehnten; kommt doch und nehmt
+es!"**
+Aber er wehrte mit der Hand ab und sagte, er habe genug,
 er wolle nichts davon, sie sollten es nur behalten; und er pries
 Gott, das er solches sagen konnte. Schließlich kamen wir zu dem
 Turmhaus dieses alten Priesters im Moor; als wir eingetreten
 waren, ging er voraus und öffnete die Kanzeltür, aber ich sagte ihm,
 ich würde nicht hineingehen. Das Turmhaus war stark bemalt;
 ich sagte ihm und den Leuten, die dabei waren, das gemalte Tier
-(Offb. 17:3\bibel{Offb. 17:03@Offb. 17:3}) habe ein gemaltes
-Haus. Dann erklärte ich ihnen die
+(Offb. 17:3) habe ein gemaltes Haus. Dann erklärte ich ihnen die
 Entstehung aller dieser Häuser und ihre abergläubischen Gebräuche;
 ich zeigte ihnen, das die Apostel nicht in die Tempel gegangen
 seien, um diese aufrecht zu erhalten, sondern um die Leute zu
 Christus, dem wahren Gut, zu führen; ich zeigte ihnen den wahren
-Gottesdienst\index{Gottesdienst!wahrer}, den Christus
-gegründet hat; ich zeigte den Unterschied
+Gottesdienst, den Christus gegründet hat; ich zeigte den Unterschied
 zwischen Christus dem wahren Weg und allen verkehrten
 Wegen, indem ich ihnen die Gleichnisse deutete und sie von der
 Finsternis zum wahren Lichte wies; damit sie durch dasselbe sich
@@ -806,30 +793,23 @@ selbst erkennen möchten und ihre Sünden und ihren Erlöser und
 durch den Glauben an ihn erlöst würden von ihren Sünden [...].
 
 
-Nun kam ich nach Cranstick\ort{Cranstick}, zu
-Hauptmann Pursloe\person{Hauptmann Pursloe} und
-Friedensrichter Hotham\person{Friedensrichter Hotham},
-die mich beide freundlich empfingen, weil
+Nun kam ich nach Cranstick, zu Hauptmann Pursloe und
+Friedensrichter Hotham, die mich beide freundlich empfingen, weil
 sie sich freuten, das die Kraft des Herrn erschienen war und das
 die Wahrheit sich ausbreitete und so viele sie aufnahmen, und das
-Friedensrichter Robinson\person{Friedensrichter Robinson}
-so freundlich gewesen war. Hotham
+Friedensrichter Robinson so freundlich gewesen war. Hotham
 sagte, wenn Gott nicht diese Anschauungen von Licht und Leben
 hätte kund werden lassen, so wäre das ganze Land von den
-Rantern\index{Ranter} überschwemmt worden und
+Rantern überschwemmt worden und
 alle Richter des Landes mit
-allen ihren Gesetzen hätten ihnen nicht zu wehren
-vermocht. \zitat{Denn},
-sagte er, \zitat{wenn sie auch gesagt und getan hätten,
-was wir ihnen
-befehlen, so hätten sie doch nicht von ihren Ansichten gelassen.
-Aber eure Grundsätze der Wahrheit werfen alle ihre Grundsätze
-und das, worauf sie die ihrigen gründen, über den Haufen}.
+allen ihren Gesetzen hätten ihnen nicht zu wehren vermocht.
+**"Denn"**, sagte er,
+**"wenn sie auch gesagt und getan hätten, was wir ihnen befehlen, so hätten sie doch nicht von ihren Ansichten gelassen. Aber eure Grundsätze der Wahrheit werfen alle ihre Grundsätze und das, worauf sie die ihrigen gründen, über den Haufen"**.
 Darum war er so froh, das Gott diese Grundsätze des Lebens
 und der Wahrheit hatte durch mich kund werden lassen [...].
-% \picinclude{./050-059/p_s054.jpg}
+<!-- % \picinclude{./050-059/p_s054.jpg} -->
 
-## Fox ruft zu Buße auf}
+## Fox ruft zu Buße auf ##
 
 Als am folgenden Tage die Freunde mich verlassen hatten,
 reiste ich allein weiter und verkündete den Tag des Herrn überall,
@@ -849,7 +829,7 @@ verlangte Unterkunft für die Nacht, aber sie wurde mir verweigert.
 Darauf bat ich um etwas Fleisch und Milch, ich wolle es bezahlen;
 aber auch das wollte man mir nicht geben. So verließ ich die
 Stadt; einige junge Leute kamen hinter mir drein und fragten
-mich, was es neues gebe. Ich hieß sie Buße\index{Buße} tun und Gott
+mich, was es neues gebe. Ich hieß sie Buße tun und Gott
 fürchten. Als ich eine Strecke weiter gegangen war, kam ich wieder
 an ein Haus und bat, man solle mir etwas Fleisch und Milch
 geben und Nachtherberge, gegen Bezahlung; aber sie schlugen es
@@ -859,7 +839,7 @@ dunkel geworden, das ich die Landstraße nicht mehr sehen konnte;
 ich endeckte einen Wassergraben und schöpfte etwas Wasser um
 mich zu erfrischen; dann überschritt ich den Graben und da ich
 von der Reise müde war, setzte ich mich unter einen Ginsterstrauch
-und wartete bis es Tag war.\person{Fox!Im Freien schlafen}
+und wartete bis es Tag war.
 
 Mit Tagesanbruch erhob ich mich
 und ging weiter. Hinter mir drein kam ein Mann mit einer
@@ -869,8 +849,7 @@ die Polizei gegen mich aufgehetzt; ich verkündete Gottes ewige
 Wahrheit unter ihnen und warnte sie vor dem Tag des Herrn,
 der kommen würde über alle Sünde und Ungerechtigkeit, und er
 mahnte sie, Buße zu tun. Aber sie griffen mich und brachten
-mich nach Patrington\ort{Patrington} zurück, etwa drei
-Meilen weit, und
+mich nach Patrington zurück, etwa drei Meilen weit, und
 bewachten mich mit Stöcken, Heugabeln und Hellebarden. Als ich
 nach Patrington kam, war die ganze Stadt in Aufruhr. Die
 Priester und das Volk berieten sich zusammen; so konnte ich
@@ -880,7 +859,7 @@ Mann, mit in sein Haus, wo ich mich an etwas Brot und Milch
 erlabte, denn ich hatte seit mehreren Tagen nichts gegessen.
 
 
-% \picinclude{./050-059/p_s055.jpg}
+<!-- % \picinclude{./050-059/p_s055.jpg} -->
 Dann schleppten sie mich etwa neun Meilen weit zu einem Richter.
 Als wir nahe bei dessen Haus waren, kam einer hinter uns her
 geritten und fragte mich, ob ich der sei, der verhaftet worden
@@ -890,20 +869,18 @@ sei; darauf ritt er voraus zum Richter. Meine Begleiter sagten,
 hoffentlich sei der Richter nicht betrunken, wenn wir zu ihm
 kämen; denn er pflegte schon frühmorgens betrunken zu sein.
 
-Als ich vor ihn trat und meinen Hut\index{Hut!abnehmen}
-nicht abnahm und ihn mit
-\textit{Du}\index{Anrede!Du} anredete, fragte er den,
-welcher uns vorgeritten war, ob ich
+Als ich vor ihn trat und meinen Hut nicht abnahm und ihn mit
+**"Du"** anredete, fragte er den, welcher uns vorgeritten war, ob ich
 verrückt sei, aber er sagte ihm, nein, es sei mein Grundsatz. Ich
 ermahnte den Richter, Buße zu tun und sich zum Licht zu
 bekehren, mit dem Christus ihn erleuchtet, damit er durch dasselbe
 alle seine bösen Worte und Taten erkennen möge, und zu Christus
-zurückzukehren, solange es noch Zeit sei. \zitat{Ja, ja}, sagte er, \zitat{das Licht von dem im dritten Kapitel des
-Johannes gesprochen wird}\bibel{Johannes 3}.
+zurückzukehren, solange es noch Zeit sei.
+**"Ja, ja"**, sagte er,
+ **"das Licht von dem im dritten Kapitel des Johannes gesprochen wird"**.
 Ich bat ihn, er möge doch auf dieses Licht achten und ihm
 gehorchen. Während ich ihn ermahnte, legte ich ihm
-die Hand auf\person{Fox!Handauflegen}\index{Handauflegen},
-und er ward übernommen von der Kraft des Herrn und die
+die Hand auf und er ward übernommen von der Kraft des Herrn und die
 Wächter waren bestürzt.
 
 Er führte mich nun in ein kleines Gemach,
@@ -919,18 +896,16 @@ gehe oder mich doch aufs Bett lege; dies wünschte er namentlich,
 damit er sagen könne, man habe mich in oder doch wenigstens
 auf einem Bett gesehen; denn es ging das Gerücht, ich wolle
 in keinem Bett schlafen, weil ich damals oft im Freien
-übernachtete.\person{Fox!Im Freien
-schlafen}\person{Fox!Im Bett schlafen}
+übernachtete.
 
 Als der Erste Tag kam, ging ich ins Turmhaus
-und verkündete dem Priester und dem Volk die
-Wahrheit\index{Wahrheit}; und
+und verkündete dem Priester und dem Volk die Wahrheit; und
 die Leute taten mir nichts, denn die Kraft Gottes war über sie
 gekommen. Gleich nachher hatte ich eine große Versammlung in
 dem Hause des Mannes, der mich beherbergte, und viele wurden
 von Gottes ewiger Wahrheit überzeugt und sind derselben treu
 geblieben bis aus den heutigen Tag. Sie bereuten es sehr, das
-% \picinclude{./050-059/p_s056.jpg}
+<!-- % \picinclude{./050-059/p_s056.jpg} -->
 sie mich nicht aufgenommen und beherbergt hatten, als ich zuerst
 bei ihnen gewesen war [...].
 
