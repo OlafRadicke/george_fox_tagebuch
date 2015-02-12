@@ -34,7 +34,7 @@ und darum konnten sie nicht zu Gott und Christus kommen.
 Von Friedensrichter West ging ich nach Swarthmore, wo
 die Kraft des Herrn die Verfolger nieder hielt. Es trieb mich,
 verschiedene Briefe von hier aus an die Magistrate, Priester und
-\textit{Frommen} der Umgegend, die sich früher an den Verfolgungen
+*Frommen* der Umgegend, die sich früher an den Verfolgungen
 beteiligt hatten, zu schreiben [...] und hernach trieb es mich, an
 die Leute in Uloerstone im allgemeinen einen Mahnbrief zu
 schreiben [...]
@@ -45,39 +45,30 @@ verdorbener Mensch, der gerne die Wahrheit und ihre Anhänger
 vernichtet hätte, wenn er gekonnt hätte. Es trieb mich, an diesen
 also zu schreiben:
 
-\brief{}{
-    Adam Sands!
 
-    \bigskip
+> Adam Sands!
+>
+>
+> Ich wende mich an das Licht in deinem Gewissen, du Kind
+> des Teufels, du Feind der Gerechtigkeit. Der Herr wird dich
+> darniederwerfen, wenn du schon eine Zeitlang jetzt herrschest. Die
+> Strafe Gottes muss dich treffen, der du dich in deiner Bosheit gegen
+> die reine Wahrheit Gottes verhärtest. Durch die reine Wahrheit
+> Gottes, die du verfolgst und der du widerstrebst, wirst du
+> vernichtet werden; sie ist ewig und schließt auch dich ein; du wirst
+> in dem Lichte, das du verachtest, gesehen und in demselben
+<!--  % \picinclude{./070-079/p_s073.jpg} -->
+> verdammt, du in deinem tierischen Wesen und dein Weib in seiner
+> Heuchelei; euer Morden der Gerechtigkeit wird erkannt werden;
+> das Licht in deinem Gewissen wird dir das, was ich dir hier
+> schreibe, bezeugen und wird dich erkennen lassen, das du nicht
+> aus Gott geboren bist, sondern das du fern von der Wahrheit
+> noch in einem tierischen Wesen bist. Wenn je einmal deine Augen
+> die aufgehen werden und du bereust, so wirst du sehen, das ich
+> ein Freund deiner Seele bin und dein ewiges Heil will.
+>
+> G. F.
 
-    Ich wende mich an das Licht in deinem Gewissen, du Kind
-    des Teufels\person{Fox!Beschimpfung}\index{Beschimpfung}
-    \index{Beleidigung}, du Feind der Gerechtigkeit. Der Herr wird dich
-    darniederwerfen, wenn du schon eine Zeitlang jetzt herrschest. Die
-    Strafe Gottes\index{Strafe Gottes} muss dich treffen, der
-    du dich in deiner Bosheit gegen
-    die reine Wahrheit Gottes verhärtest. Durch die reine Wahrheit
-    Gottes, die du verfolgest und der du widerstrebst, wirst du
-    vernichtet werden; sie ist ewig und schließt auch
-    dich ein; du wirst
-    in dem Lichte, das du verachtest, gesehen und in demselben
-    % \picinclude{./070-079/p_s073.jpg}
-    verdammt\index{Verdammung}, du in deinem tierischen Wesen
-    und dein Weib in seiner
-    Heuchelei; euer Morden der Gerechtigkeit wird erkannt werden;
-    das Licht in deinem Gewissen wird dir das, was ich dir hier
-    schreibe, bezeugen und wird dich erkennen lassen, das du nicht
-    aus Gott geboren bist\index{Wiedergeboren}, sondern das du
-    fern von der Wahrheit
-    noch in einem tierischen Wesen\index{tierisches Wesen} bist.
-    Wenn je einmal deine Augen
-    die aufgehen werden und du bereust, so wirst du sehen, das ich
-    ein Freund deiner Seele bin und dein ewiges Heil will.
-
-    \bigskip
-
-    \begin{flushright}G. F.\end{flushright}
-}
 
 Dieser Adam Sands kam später elendiglich um [...].
 Ich ging nach Swarthmore\ort{Swarthmore} zurück. Ich hatte große
@@ -427,53 +418,53 @@ von Carlisle, die mich ins Gefängnis geworfen und die die
 Freunde auf Anstiften der zehntengierigen Priester verfolgten:
 
 \brief{die Behörden von Carlisle}{
-    Freunde! Thomas Crafton\person{Crafton, Thomas} und
-    Cuthbert Stadholm\person{Cuthbert, Stadholm},
+> Freunde! Thomas Crafton\person{Crafton, Thomas} und
+> Cuthbert Stadholm\person{Cuthbert, Stadholm},
 
-    \bigskip
+> \bigskip
 
-    Euer Tun ist in London bei den Gutgesinnten bekannt
-    geworden. Was habt ihr alles geleistet an Gefangennehmen,
-    Güterschändungen, Metzeleien und anderen Scheuslichkeiten in den
-    letzten paar Jahren! ganz menschenunwürdig, wie wenn ihr
-    noch nie die Schrift gelesen und zu Herzen genommen hättet!
-    Ist das das Ziel der Religion Carlisles und seiner Kirche und
-    seiner Christlichkeit? ihr habt es zu schanden gemacht mit eurer
-    Blindheit, eurem tollen Treiben und eurem verkehrten Eifern.
-    War es nicht immer die Art der blinden Leiter und der falschen
-    Propheten zu zanken (Jes. 56\bibel{Jes. 56}), mit denen,
-    die ihnen den Mund
-    nicht füllen wollen? Seid ihr nicht die Lasttiere und Diener der
-    Priester gewesen? Wenn sie euch anspornen, das Schwert gegen
-    den Unschuldigen zu gebrauchen, so rennt ihr auf solche, die nach
-    den Befehlen der Schrift die Waffe nicht gebrauchen dürfen, los.
-    Und doch wollt ihr eure unheiligen Hände und gemeinen Lippen
-    zu Gott erheben, und gebet vor, zu fasten und seid doch voll
-    Hader und Zank (Jes. 58:4\bibel{Jes. 58:04@Jes. 58:4}).
-    Brannte nie euer Herz in euch?
-    habt ihr nie über euren Zustand nachgedacht? Seid ihr ganz
-    der Lust des Teufels, dem Verfolgen, anheimgefallen? Wo ist
-    eure Feindesliebe? (Matth. 5\bibel{Matth. 05@Matth. 5}).
-    Wo ist euer Beherbergen der
-    Fremdlinge? (Matth. 25:35\bibel{Matth. 25:35}). Wie überwindet
-    ihr Böses mit
-    Gutem? (Röm. 12:21\bibel{Röm. 12:21}). Wo sind eure Lehrer,
-    die \zitat{durch heilsame Lehre die Widersprecher strafen?}
-    (Tit. 1:9\bibel{Tit. 01:09@Tit. 1:9}) [...] Leset die
-    Schrift und sehet, wie unähnlich ihr den Aposteln und Propheten
-    seid; und wie ihr denen gleichet, die die Propheten, die Apostel
-    und Christus verfolgten. Ihr gehet in ihren Fusstapfen und
-    kämpfet mit \zitat{Fleisch und Blut, nicht mit den Fürsten der Welt,
-    die in der Finsternis dieser Welt herrschen, und mit den bösen
-    Geistern unter dem Himmel} (Eph. 6:12). In keinem anderen
-    Lande geschehen solche Gräuel, das man den Leuten ihr Gut
-    raubt, ihnen ihre Ochsen und Rinder nimmt, ihre Schafe, ihr
-    Getreide und ihr Hausgeräte und gibt es den Priestern, die doch
-    nichts für sie gearbeitet haben. Ihr seid eher Straßenräuber
-    % \picinclude{./080-089/p_s081.jpg}
-    als Diener Gottes gegen die Freunde; ihr verklagt sie bei euren
-    Gerichten und legt ihnen Busen auf, weil sie die Gebote Christi
-    nicht übertreten, also nicht schwören wollen.
+> Euer Tun ist in London bei den Gutgesinnten bekannt
+> geworden. Was habt ihr alles geleistet an Gefangennehmen,
+> Güterschändungen, Metzeleien und anderen Scheuslichkeiten in den
+> letzten paar Jahren! ganz menschenunwürdig, wie wenn ihr
+> noch nie die Schrift gelesen und zu Herzen genommen hättet!
+> Ist das das Ziel der Religion Carlisles und seiner Kirche und
+> seiner Christlichkeit? ihr habt es zu schanden gemacht mit eurer
+> Blindheit, eurem tollen Treiben und eurem verkehrten Eifern.
+> War es nicht immer die Art der blinden Leiter und der falschen
+> Propheten zu zanken (Jes. 56\bibel{Jes. 56}), mit denen,
+> die ihnen den Mund
+> nicht füllen wollen? Seid ihr nicht die Lasttiere und Diener der
+> Priester gewesen? Wenn sie euch anspornen, das Schwert gegen
+> den Unschuldigen zu gebrauchen, so rennt ihr auf solche, die nach
+> den Befehlen der Schrift die Waffe nicht gebrauchen dürfen, los.
+> Und doch wollt ihr eure unheiligen Hände und gemeinen Lippen
+> zu Gott erheben, und gebet vor, zu fasten und seid doch voll
+> Hader und Zank (Jes. 58:4\bibel{Jes. 58:04@Jes. 58:4}).
+> Brannte nie euer Herz in euch?
+> habt ihr nie über euren Zustand nachgedacht? Seid ihr ganz
+> der Lust des Teufels, dem Verfolgen, anheimgefallen? Wo ist
+> eure Feindesliebe? (Matth. 5\bibel{Matth. 05@Matth. 5}).
+> Wo ist euer Beherbergen der
+> Fremdlinge? (Matth. 25:35\bibel{Matth. 25:35}). Wie überwindet
+> ihr Böses mit
+> Gutem? (Röm. 12:21\bibel{Röm. 12:21}). Wo sind eure Lehrer,
+> die \zitat{durch heilsame Lehre die Widersprecher strafen?}
+> (Tit. 1:9\bibel{Tit. 01:09@Tit. 1:9}) [...] Leset die
+> Schrift und sehet, wie unähnlich ihr den Aposteln und Propheten
+> seid; und wie ihr denen gleichet, die die Propheten, die Apostel
+> und Christus verfolgten. Ihr gehet in ihren Fusstapfen und
+> kämpfet mit \zitat{Fleisch und Blut, nicht mit den Fürsten der Welt,
+> die in der Finsternis dieser Welt herrschen, und mit den bösen
+> Geistern unter dem Himmel} (Eph. 6:12). In keinem anderen
+> Lande geschehen solche Gräuel, das man den Leuten ihr Gut
+> raubt, ihnen ihre Ochsen und Rinder nimmt, ihre Schafe, ihr
+> Getreide und ihr Hausgeräte und gibt es den Priestern, die doch
+> nichts für sie gearbeitet haben. Ihr seid eher Straßenräuber
+> % \picinclude{./080-089/p_s081.jpg}
+> als Diener Gottes gegen die Freunde; ihr verklagt sie bei euren
+> Gerichten und legt ihnen Busen auf, weil sie die Gebote Christi
+> nicht übertreten, also nicht schwören wollen.
 \bigskip
 \begin{flushright}G.F.\end{flushright}
 }
@@ -484,54 +475,54 @@ Gefängnis besuchen, obwohl sie Friedensrichter waren. Sie
 schrieben darum an die Magistrate und Priester von Carlisle:
 
 \brief{die Behörden von Carlisle}{
-    Wir bezeugen, das dieser George Fox, der von den Magistraten,
-    von den Friedensrichtern, den Priestern und dem Volt
-    verfolgt wird und gegenwärtig als Gotteslästerer und Verführer
-    gefangen gesetzt ist, ein Prediger des Wortes Gottes ist und das
-    ewige Evangelium verkündet; durch sein mächtiges Predigen hat
-    der große Vater der Heiligen den Blinden die Augen geöffnet,
-    den Tauben die Ohren aufgetan, die Gefangenen erlöst und die
-    Toten auferweckt (Jes. 35:5\bibel{Jes. 35:05@Jes. 35:5}).
-    Christus wird jetzt gepredigt unter
-    den Seinen, wie er war und ist; und weil er nun, in der Gestalt
-    seines getreuen Dieners, wieder erscheint, so verfolgen ihn die
-    Abgefallenen, Fürsten, Herrscher, Priester und Volk. Nicht als
-    ein Übeltäter leidet er von euch, ihr Magistrate, sondern weil er
-    nicht abgefallen ist und gegen das Treiben der Welt und das
-    Böse auftritt. Es ist immer so gewesen, das, wo die verderbte
-    Natur den Samen Gottes unterdrückte, die Verderbten suchen die,
-    in denen dieser Same aufging, gefangen zu nehmen [...]. Wie
-    Christus das, was man einem der Geringsten erweist, als ihm
-    getan ansieht (Matth. 5:25\bibel{Matth. 05:25@Matth. 5:25}),
-    also siehet er auch das, was man
-    ihnen nicht tut, als ihm nicht getan an. Wenn ihr nun soweit
-    geht, das ihr nicht einmal anderen gestatten wollt, einen gefangenen
-    Bruder in seinen Leiden zu besuchen, so werdet ihr in den feurigen
-    Pfuhl, der mit Schwefel brennt, geworfen
-    (Offb. 19:20\bibel{Offb. 19:20@Offb. 19:20}). Der
-    Herr ist gekommen, die Berge zu stürzen und zu Staub zu
-    zermalmen (Jes. 41:15\bibel{Jes. 41:15@Jes. 41:15}), und
-    er wird rächen die Unterdrückung der
-    Gewissen seines Volkes an allen ungerechten Herrschern, Beamten
-    und Gesetzen. Er wird seinem Volke sein Gesetz geben nicht nach
-    dem, was vor Augen ist, sondern nach Recht und Gerechtigkeit.
-    Man hat nun gesehen, wie eure Herzen voll Hass sind gegen die
-    Wahrheit Gottes, die er durch sein von der Welt verachtetes und
-    zum Spott \zitat{Quäker} genanntes Volk verkünden lässt. Ihr seid
-    ärger als die Heiden, die Paulus ins Gefängnis warfen; denn
-    niemand hat damals seinen Freunden verboten, ihn zu besuchen,
+> Wir bezeugen, das dieser George Fox, der von den Magistraten,
+> von den Friedensrichtern, den Priestern und dem Volt
+> verfolgt wird und gegenwärtig als Gotteslästerer und Verführer
+> gefangen gesetzt ist, ein Prediger des Wortes Gottes ist und das
+> ewige Evangelium verkündet; durch sein mächtiges Predigen hat
+> der große Vater der Heiligen den Blinden die Augen geöffnet,
+> den Tauben die Ohren aufgetan, die Gefangenen erlöst und die
+> Toten auferweckt (Jes. 35:5\bibel{Jes. 35:05@Jes. 35:5}).
+> Christus wird jetzt gepredigt unter
+> den Seinen, wie er war und ist; und weil er nun, in der Gestalt
+> seines getreuen Dieners, wieder erscheint, so verfolgen ihn die
+> Abgefallenen, Fürsten, Herrscher, Priester und Volk. Nicht als
+> ein Übeltäter leidet er von euch, ihr Magistrate, sondern weil er
+> nicht abgefallen ist und gegen das Treiben der Welt und das
+> Böse auftritt. Es ist immer so gewesen, das, wo die verderbte
+> Natur den Samen Gottes unterdrückte, die Verderbten suchen die,
+> in denen dieser Same aufging, gefangen zu nehmen [...]. Wie
+> Christus das, was man einem der Geringsten erweist, als ihm
+> getan ansieht (Matth. 5:25\bibel{Matth. 05:25@Matth. 5:25}),
+> also siehet er auch das, was man
+> ihnen nicht tut, als ihm nicht getan an. Wenn ihr nun soweit
+> geht, das ihr nicht einmal anderen gestatten wollt, einen gefangenen
+> Bruder in seinen Leiden zu besuchen, so werdet ihr in den feurigen
+> Pfuhl, der mit Schwefel brennt, geworfen
+> (Offb. 19:20\bibel{Offb. 19:20@Offb. 19:20}). Der
+> Herr ist gekommen, die Berge zu stürzen und zu Staub zu
+> zermalmen (Jes. 41:15\bibel{Jes. 41:15@Jes. 41:15}), und
+> er wird rächen die Unterdrückung der
+> Gewissen seines Volkes an allen ungerechten Herrschern, Beamten
+> und Gesetzen. Er wird seinem Volke sein Gesetz geben nicht nach
+> dem, was vor Augen ist, sondern nach Recht und Gerechtigkeit.
+> Man hat nun gesehen, wie eure Herzen voll Hass sind gegen die
+> Wahrheit Gottes, die er durch sein von der Welt verachtetes und
+> zum Spott \zitat{Quäker} genanntes Volk verkünden lässt. Ihr seid
+> ärger als die Heiden, die Paulus ins Gefängnis warfen; denn
+> niemand hat damals seinen Freunden verboten, ihn zu besuchen,
 % \picinclude{./080-089/p_s082.jpg}
-    darum treten sie gegen euch als Zeugen auf. Es ist offenbar
-    geworden, das ihr denen gleich seid, die Christus töteten und die
-    Apostel gefangen nahmen unter dem gleichen Vorwand, nämlich
-    das sie den Irrtum Wahrheit und die Diener Gottes
-    Gotteslästerer nannten. Aber das Gericht\index{Gottesgericht},
-    das über euch kommen wird,
-    ist schrecklich, ihr ungerechten Magistrate und Priester und ihr
-    alle, die ihr mit Worten die Wahrheit bekennet, und doch die
-    Kraft der Wahrheit und die, die in der Wahrheit sind und für die
-    Wahrheit einstehen, verfolget. Gehet in euch, dieweil es Zeit
-    ist, und bedenket, was Jesaias 17\bibel{Jesaia 17} geschrieben steht!
+> darum treten sie gegen euch als Zeugen auf. Es ist offenbar
+> geworden, das ihr denen gleich seid, die Christus töteten und die
+> Apostel gefangen nahmen unter dem gleichen Vorwand, nämlich
+> das sie den Irrtum Wahrheit und die Diener Gottes
+> Gotteslästerer nannten. Aber das Gericht\index{Gottesgericht},
+> das über euch kommen wird,
+> ist schrecklich, ihr ungerechten Magistrate und Priester und ihr
+> alle, die ihr mit Worten die Wahrheit bekennet, und doch die
+> Kraft der Wahrheit und die, die in der Wahrheit sind und für die
+> Wahrheit einstehen, verfolget. Gehet in euch, dieweil es Zeit
+> ist, und bedenket, was Jesaias 17\bibel{Jesaia 17} geschrieben steht!
 .
 \bigskip
 
