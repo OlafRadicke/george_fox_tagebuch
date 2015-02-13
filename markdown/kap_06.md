@@ -71,77 +71,62 @@ also zu schreiben:
 
 
 Dieser Adam Sands kam später elendiglich um [...].
-Ich ging nach Swarthmore\ort{Swarthmore} zurück. Ich hatte große
-Offenbanmgen\index{Offenbanmg} vom Herrn, nicht nur über
-göttliche Dinge, sondern
-auch über Äußere, die die Regierung\index{Regierung}
-betrafen. Eines Tages,
-als ich im Gerichtssaal Richter Fell\person{Fell, Richter}
-und Friedensrichter Benson\person{Benson, Friedensrichter}
+Ich ging nach Swarthmore zurück. Ich hatte große
+Offenbanmgen vom Herrn, nicht nur über
+göttliche Dinge, sondern auch über Äußere, die die Regierung
+betrafen. Eines Tages, als ich im Gerichtssaal Richter Fell
+und Friedensrichter Benson
 über die jüngsten Ereignisse sprechen hörte und vom Parlament,
-das damals tagte, und das man das \zitat{lange Parlament} nannte,
+das damals tagte, und das man das **"lange Parlament"** nannte,
 trieb es mich, ihnen zu sagen, das, ehe zwei Wochen um seien,
 das Parlament aufgelöst und der Redner von seinem Stuhl herunter
 gerissen sein werde. Und als nach zwei Wochen Friedensrichter
 Benson wieder kam, sagte er zu Richter Fell, jetzt sehe er, das
-George Fox ein wahrer Prophet\person{Fox!Prophet}\index{Prophet}
-sei: Oliver Cromwell\person{Cromwell, Oliver} habe das
-Parlament ausgelöst! (20. April 1653\jahr{1653}.)
+George Fox ein wahrer Prophet sei: Oliver Cromwell habe das
+Parlament ausgelöst! (20. April 1653.)
 
-## Heilung von Richard Myer}
+## Heilung von Richard Myer ###
 
-Um diese Zeit fastete\person{Fox!fastet}\index{Fasten}
-ich etwa 10 Tage lang, weil mein
+Um diese Zeit fastete ich etwa 10 Tage lang, weil mein
 Geist um der Wahrheit willen schwer heimgesucht war; denn
-James Milner\person{Milner, Jame} und Richard
-Nyer\person{Nyer, Richard} hatten Einbildungen\index{Einbildungen}
-und viele
+James Milner und Richard Nyer hatten Einbildungen und viele
 machten es ihnen nach. Dieser James Milner und einige seiner
-Anhänger hatten zuerst wahre
-Offenbarungen\index{Offenbarungen!wahre}; aber da sie in
+Anhänger hatten zuerst wahre Offenbarungen; aber da sie in
 Hochmut und Selbstüberhebung gerieten, irrten sie von der
 Wahrheit ab. Der Herr trieb mich, zu ihnen zu gehen und ihnen
 Ihre Verirrungen vorzustellen; und sie kamen dazu, ihre Torheit
-inzusehen, und gaben sie auf und kamen auf den Weg der
-Wahrheit zurück\index{Konflikte!in Gemeinschaft}. Darauf
-begab ich mich in eine Versammlung
-in Arn-Side\ort{Arn-Side}, der Richard Myer beiwohnte;
-er hatte lange einen
+einzusehen, und gaben sie auf und kamen auf den Weg der
+Wahrheit zurück. Darauf begab ich mich in eine Versammlung
+in Arn-Side, der Richard Myer beiwohnte; er hatte lange einen
 lahmen Arm gehabt. Der Herr trieb mich, ihm vor allen
-Anwesenden zu sagen: \zitat{Stehe auf!} und er stand auf und streckte
+Anwesenden zu sagen: **"Stehe auf!"** und er stand auf und streckte
 seinen Arm, der so lange lahm gewesen war, aus und sagte:
-\zitat{Wisset, alle ihr Leute, das ich heute geheilt worden bin.} Seine
+**"Wisset, alle ihr Leute, das ich heute geheilt worden bin."** Seine
 Eltern wollten es kaum glauben, und als die Versammlung
 vorbei war, nahmen sie ihn auf die Seite und zogen ihm sein
-% \picinclude{./070-079/p_s074.jpg}
-Wams aus da sahen sie, das es wahr sei.\person{Fox!Wunderheilung}
+<!-- % \picinclude{./070-079/p_s074.jpg} -->
+Wams aus da sahen sie, das es wahr sei.
 
-Er kam bald darauf
-in eine Versammlung in Swarthmore\ort{Swarthmore} und
+Er kam bald darauf in eine Versammlung in Swarthmore und
 berichtete da, wie
-der Herr ihn geheilt habe. Darnach befahl ihm der Herr, nach
-York\ort{York} zu gehen in seinem Auftrag; aber er gehorchte dem Herrn
+der Herr ihn geheilt habe. Danach befahl ihm der Herr, nach
+York zu gehen in seinem Auftrag; aber er gehorchte dem Herrn
 nicht; und der Herr schlug ihn abermals, das er etwa dreiviertel
-Jahr darauf starb [...]\index{Gottesstrafe}.
+Jahr darauf starb [...].
 
-## Gegen die Kirchensteuer}
+## Gegen die Kirchensteuer ###
 
-Um diese Zeit wurde Anthony
-Pearson\person{Pearson, Friedensrichter
-Anthony}\footnote{Friedensrichter Pearson wurde \zitat{bekehrt,
-als er auf dem Richterstuhl saß}.}, der ein Gegner der
+Um diese Zeit wurde [Anthony Pearson][6.1], der ein Gegner der
 Freunde gewesen war, gewonnen. Er kam nach Swarthmore,
 und da ich gerade dort bei Oberst West war, holte man mich.
-Oberst West sagte: \zitat{Geht, Fox, denn Ihr könnt dem Mann zu
-großem Nutzen gereichen}. Also ging ich, und die Kraft des
-Herrn ergriff ihn.
+Oberst West sagte:
+**"Geht, Fox, denn Ihr könnt dem Mann zu großem Nutzen gereichen"**.
+Also ging ich, und die Kraft des Herrn ergriff ihn.
 Um diese Zeit tat der Herr auch etlichen den Mund auf,
 das sie den Priestern und dem Volk die Wahrheit verkündeten,
 und viele wurden deswegen ins Gefängnis geworfen. Ich ging
-nun nach Cumberland\ort{Cumberland}, wo Anthony Pearson,
-seine Frau und
-mehrere Freunde mich nach Bootle\ort{Bootle} begleiteten;
-Anthony Pearson
+nun nach Cumberland, wo Anthony Pearson, seine Frau und
+mehrere Freunde mich nach Bootle begleiteten; Anthony Pearson
 verließ uns dann, um zur Gerichtssitzung nach Carlisle zu gehen;
 denn er war Friedensrichter in drei Grafschaften. An einem
 Ersten Tage ging ich ins Turmhaus von Bootle, und als der
@@ -152,10 +137,10 @@ glaubte, er hätte meine Hand in Stücke geschlagen. Der
 Konstabler hätte gern den Frieden wieder hergestellt und einige, die
 mich geschlagen, eingesteckt; aber ich lies es nicht zu. Nachdem
 ich zu ihnen geredet, ging ich nach der Wohnung des Joseph
-Nicolson\person{Nicolson, Joseph} und der Konstabler
-begleitete mich, um mich vor der
+Nicolson und der Konstabler begleitete mich, um mich vor der
 Menge zu schützen.
 
+[6.1]: "Friedensrichter Pearson wurde 'bekehrt, als er auf dem Richterstuhl saß'."
 
 Am Nachmittag hatte der Priester einen andern Priester
 kommen lassen, einen sehr angesehenen Mann aus London. Ehe
