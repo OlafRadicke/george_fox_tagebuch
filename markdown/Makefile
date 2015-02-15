@@ -25,6 +25,7 @@ epub: cleanepub cleanetmp
         -o ./g_fox_tagebuch.epub \
         -t epub \
         -f markdown \
+        --normalize \
         --number-sections \
         --epub-chapter-level=1 \
         ./*.md

@@ -1,19 +1,14 @@
 
-% \picinclude{./080-089/p_s083.jpg}
+<!-- % \picinclude{./080-089/p_s083.jpg}
 
 %%%%%%%%%%%%%%%%%%% Kapitel 7. %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+-->
 
-\chapter[Begegnung mit Oliver Cromwell]{Begegnung mit Oliver Cromwell}
+# Kämpfe mit schwärmerischen Ranters und zehntengierigen Priestern. Fox in Wetstone verhaftet und vor Cromwell geschickt. #
 
-\begin{center}
-\textbf{Kämpfe mit schwärmerischen Ranters und
-zehntengierigen Priestern.
-Fox in Wetstone verhaftet und vor Cromwell geschickt.}
-\end{center}
+## Quaker im geschäftlichen Umgang ##
 
-\section{Quaker im geschäftlichen Umgang}
-
-Die Priester und \textit{Frommen} traten aufs neue mit ihren
+Die Priester und *Frommen* traten aufs neue mit ihren
 Prophezeiungen gegen uns auf. Schon lange hatten sie
 vorausgesagt, das wir binnen eines Monats vernichtet sein werden;
 hernach verlängerten sie die Frist auf ein halbes Jahr; als aber
@@ -22,43 +17,41 @@ zunahmen, streuten sie aus, wir werden einander gegenseitig
 verzehren. Es kam nämlich oft vor, das nach den Versammlungen
 manche, die einen weiten Heimweg hatten, bei Freunden blieben,
 es waren oft mehr Leute als Betten vorhanden, so das Viele auf
-dem Heu übernachten mussten. Da wurden die \textit{Frommen} von
+dem Heu übernachten mussten. Da wurden die *Frommen* von
 der Furcht Cains gepackt; sie hatten Angst, das, wenn wir
 einander zu Grunde gerichtet hätten, wir dann der Gemeinde zur
 Last fallen und uns von ihr unterhalten lassen werden. Als sie
 aber sahen, wie der Herr den Freunden Segen und Gedeihen
-gab, wie dem Abraham, \zitat{beim Acker und beim Korb, beim
-Eingehen und beim Ausgehen, beim Aufstehen und beim Niederliegen}
-(5. Mose 28\bibel{Mose 5. 28@5. Mose 28}), da erkannten sie
-die Ungerechtigkeit ihrer Prophezeiungen, und das man
-\zitat{umsonst flucht, wo der Herr segnet}
-(4. Mose 23\bibel{Mose 4. 23@4. Mose 23}). Als nach den
+gab, wie dem Abraham,
+**"beim Acker und beim Korb, beim Eingehen und beim Ausgehen, beim Aufstehen und beim Niederliegen"**
+(5. Mose 28), da erkannten sie die Ungerechtigkeit ihrer Prophezeiungen, und das man
+**"umsonst flucht, wo der Herr segnet"**
+(4. Mose 23). Als nach den
 ersten Bekehrungen die Freundes
 den Hut nicht vor den Leuten abnahmen, einer einzelnen Person
-nicht mit \zitat{ihr}, sondern mit \zitat{du}\index{Anrede} und
-\zitat{dich} antworteten, sich nicht
+nicht mit **ihr"**, sondern mit **"du"** und
+**"dich"** antworteten, sich nicht
 verneigten und nicht bei der Begrüßung schmeichelhafte Worte
 gebrauchten und nicht die Art und Weise der Welt mitmachten, da
 verloren viele von ihnen in ihren Geschäften die Kundschaft; man
 scheute sich vor ihnen und wollte keine Geschäfte mit ihnen machen,
 so das eine Zeit lang die Freunde kaum ihr Brot verdienten. Aber
 als die Leute sahen, wie treu und ehrlich die Freunde waren,
-und das ihr \zitat{ja — ja} und ihr \zitat{nein — nein} war;
-das sie Wort hielten \index{Zeugnis!Wahrhaftigkeit}
-im Verkehr und niemanden hintergingen noch betrogen, und wie
+und das ihr **"ja — ja"** und ihr **"nein — nein"** war;
+das sie Wort hielten im Verkehr und niemanden hintergingen noch betrogen, und wie
 der Herr ihnen Segen und Gedeihen gab; wie ein Kind, das sie
 schickten, um einen Einkauf zu machen, gerade so gut bedient
 wurde wie sie selbst, da predigte das Leben und der Wandel der
 Freunde, und es traf das, was von Gott kam, in ihren Gewissen.
 Nun wandelten sich die Dinge dermaßen, das man beständig
-fragen hörte: \zitat{Wo ist ein Krämer, ein Tuchhändler, ein
-Schneider,
-% \picinclude{./080-089/p_s084.jpg}
+fragen hörte:
+**"Wo ist ein Krämer, ein Tuchhändler, ein Schneider,**
+<!-- % \picinclude{./080-089/p_s084.jpg} -->
 ein Schuster, ein Handwerker, der Quäker ist?}
 \index{Geschäftlicher Erfolg} Die Freunde
 bekamen mehr Arbeit als manche andere Handwerker und
 beteiligten sich reger am geschäftlichen Verkehr. Nun schlugen die
-gehässigen \textit{Frommen} einen anderen Ton an und fingen an zu
+gehässigen *Frommen* einen anderen Ton an und fingen an zu
 murren: \zitat{Wenn wir diese Quäker gewähren lassen, so werden sie
 uns den Handel des ganzen Landes an sich reisen.} Also tat
 der Herr an seinem Volke, und es ist mein ernstlichster Wunsch
@@ -124,7 +117,7 @@ Wales\ort{Wales} und andere nach anderen
 Richtungen; etwa sechzig Diener hatte der Herr ausersehen und
 aus dem Norden in die Verschiedenen Teile des Landes gesandt.
 
-\section{Ranter und falsch Propheten}
+## Ranter und falsch Propheten}
 
 Um die Zeit fingen Rice Jones\person{Jones, Rice}
 von Nottingham\ort{Nottingham}, ein früherer
@@ -239,7 +232,7 @@ Versammlung war;
 mehrere Baptisten\index{Baptisten} und andere kamen und lärmten;
 aber die Kraft des Herrn kam über sie.
 
-\section{Fox besucht seine Verwandten}
+## Fox besucht seine Verwandten}
 
 Hierauf ging ich nach Drayton\ort{Drayton} in
 Leicestershire\ort{Leicestershire}, um meine
@@ -365,7 +358,7 @@ davon hören, das
 ich sie auf das Göttliche in ihnen, auf das Licht Jesu Christi
 hinwies\index{Inneres Licht}. Bis dahin waren sie alle
 ruhig gewesen, nun aber
-rief einer der \textit{Frommen}: \zitat{Wirst du denn nie
+rief einer der *Frommen*: \zitat{Wirst du denn nie
 fertig, Fox?} \index{Predigen!langes}
 Ich erwiderte, ich sei nun bald fertig; ich fuhr noch eine Weile
 fort, bis ich fühlte, das ich an ihnen getan hatte, was ich musste
@@ -414,7 +407,7 @@ Erde schlug und sagte:
 \zitat{wahrlich, ich sehe, das wer willens ist,
 bei der Wahrheit zu bleiben, dem wird sie durchhelfen} [...].
 
-\section{Verhaftung in Whetstone}
+## Verhaftung in Whetstone}
 
 
 Darauf zog ich wieder umher und hielt Versammlungen und
@@ -482,7 +475,7 @@ ein Pilatus, auch wenn er seine Hände gewaschen hätte; und ich
 flehte zum Herrn, das, wenn der Tag seiner Prüfung und
 Heimsuchung komme, er sich dessen, was ich ihm gesagt, erinnern möge.
 Er war eben aufgehetzt von Priester Stephens und den andern
-Priestern und \textit{Frommen}, die darin ihre Bosheit ausließen, weil
+Priestern und *Frommen*, die darin ihre Bosheit ausließen, weil
 sie mich durch ihr Argument nicht hatten überwinden können
 und dem Geiste Gottes in mir nicht hatten widerstehen können;
 darum hatten sie nun die Soldaten geschickt, um mich zu greifen.
@@ -529,7 +522,7 @@ hatte\index{Eingebung}, setzte ich meinen Namen darunter
 und übergab es Hauptmann Drury, damit er es Oliver Cromwell gebe,
 was er auch tat.
 
-\section{Hauptmann Drury}
+## Hauptmann Drury}
 
 Nach einiger Zeit brachte mich Hauptmann
 Drury\person{Drury, Hauptmann} vor den
@@ -603,7 +596,7 @@ ihm entgegnete, das wir
 ja das Eigene hingeben und darum kaum nach dem Seinigen
 trachten würden [...].
 
-\section{Verleumdung in der Zeitung}
+## Verleumdung in der Zeitung}
 
 Ich begab mich nach London\ort{London}, wo wir große und mächtige
 Versammlungen hatten. Der Zudrang war so groß, das ich fast
