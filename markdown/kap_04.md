@@ -1,0 +1,911 @@
+# Erlebnisse im Gefängnis zu Derby. Ein *Wehe* über die Stadt Lichfield. Erste Missionsgenossen. Antikirchliche Agitation und Kampf gegen die Ranter. #
+
+
+## Begegnung mit einem Soldaten ##
+
+Während ich noch im Gefängnis war, kam ein Soldat zu
+mir und erzählte mir, wie er im Turmhause gewesen sei und dem
+Priester zugehört habe, und wie dann auf einmal eine große Angst
+über ihn gekommen sei und die Stimme des Herrn also zu ihm
+geschehen sei:
+**"Weist du nicht, das mein Diener im Gefängnis ist? Zu ihm gehe und frage ihn um Rat"**.
+Ich redete mit ihm
+wie es sein gegenwärtiger Zustand erheischte, und sein Verständnis
+<!-- % \picinclude{./030-039/p_s036.jpg} -->
+wurde geöffnet. Ich sagte ihm, das der, welcher ihm seine Sünden
+aufdecke und ihn um ihretwillen ängstige, ihm auch die Rettung
+zeigen werde; denn der dem Menschen die
+Sünden aufdeckt, ist
+derselbe, der sie auch hinwegnimmt. Während ich mit ihm redete,
+offenbarte sich ihm der Herr, so das er anfing, die Wahrheit des
+Herrn und Gottes Gnade zu erkennen; er fing an, unerschrocken
+in seinem Regiment unter den Soldaten von der Wahrheit zu
+reden; denn die Schrift wurde ihm mehr und mehr offenbar, und
+er ging soweit zu sagen: sein Oberst sei blind wie Nebukadnezar,
+das er den Diener des Herrn ins Gefängnis werfe. Von da an
+hegte sein Oberst einen Groll gegen ihn. Als im darauffolgenden
+Jahre in der Schlacht von Worcester die beiden Armeen
+nebeneinander lagen, kamen zwei aus der Armee des Könige und
+forderten, das zwei ans der Armee des Parlaments sich mit ihnen
+schlagen sollten; da wählte der Oberst ihn und noch einen, um
+der Forderung Folge zu leisten. Als sein Kamerad im Kampfe
+gefallen war, trieb er seine beiden Gegner zur Stadt hinaus, ohne
+einen Schuss auf sie abzufeuern; dies erzählte er mir nach seiner
+Rückkehr mit eigenem Munde. Nach Beendigung der Schlacht
+sah er die Betrügerei und Heuchelei der Offiziere ein, und im
+Gedanken daran, wie wunderbar der Herr ihn bewahrt hatte und
+was es eigentlich um den Krieg sei, legte er die Waffen
+nieder.
+
+## Fox lehnt es ab Hauptmann zu werden ##
+
+Die Zeit meiner Gefangenschaft war nun fast zu Ende und
+da viel neue Soldaten ausgehoben wurden, so wollten mich die
+Kommissare zu ihrem Hauptmann machen, und die Soldaten
+erklärten, sie wollten keinen andern als mich haben. Der
+Kerkermeister erhielt den Befehl, mich vor die Soldaten und ihre
+Vorgesetzten auf den Marktplatz zu führen; dort boten sie mir dieses
+Ehrenamt, wie sie es nannten, an und fragten mich, ob ich nicht
+wolle die Waffen ergreifen für den [Commonwealth gegen Karl Stuart][4.1].
+Ich erwiderte ihnen, ich wisse wohl, woher aller
+Krieg komme: aus der Begierde, wie schon Jakobus lehre
+(Jak. 4); ich aber stehe in jener Kraft und jenem Leben,
+die von vornherein allen Krieg ausschließen. Sie wollten mich
+überreden, ihr Anerbieten anzunehmen; sie meinten, ich weigere
+mich nur aus Bescheidenheit. Aber ich erklärte ihnen, ich sei in
+den Bund des Friedens eingetreten, welcher bestanden, ehe es
+<!-- % \picinclude{./030-039/p_s037.jpg} -->
+Krieg und Zank gab. Sie sagten, sie bieten es mir in Liebe und
+Zuneigung an wegen meiner Tugend, und ähnliche Schmeicheleien
+mehr. Aber ich sagte ihnen, wenn solches ihre Liebe sei, so trete
+ich sie mit Füßen. Da wurden sie zornig und sagten:
+**"Nimm ihn hinweg, Kerkermeister, und wirf ihn in den untersten Kerker zu den Schelmen und Verbrechern."**
+Ich wurde weggeführt und
+an einen wüsten, [stinkenden Ort][4.2]  gebracht, wo kein Bett war,
+mit 30 Verbrechern, wo ich beinahe ein halbes Jahr gefangen
+war, außer, wenn sie mich dann und wann ein wenig in den
+Garten ließen, weil sie sicher waren, das ich nicht davon laufe.
+Es hatte damals, als man mich in diesen Kerker gebracht hatte,
+geheißen, ich werde wohl nicht mehr heraus kommen. Aber ich
+glaubte an Gott und das ich zu seiner Zeit daraus befreit werde.
+Denn der Herr hatte es mir vorausgesagt, das ich nicht bald
+von diesem Ort wegkomme, da ich dort eine Aufgabe für ihn zu
+erfüllen habe.
+
+[4.1]: "1651 Schlacht von Worcester zwischen Cronwell (Commonwealth) und Karl II."
+[4.2]: "Die Zustände der Gefängnisse und Korrektionshäuser im 17. Jahrh. waren überaus traurig. Überall herrschte große Unreinlichkeit; die Verwaltung war der Willkür des Gefängnisvorstehers anheim gegeben, der nicht besoldet war, sondern von den Gefangenen bezahlt wurde, die die Kosten ihres Aufenthaltes selbst tragen mussten. Vgl. Aschrott, Englisches Gefängniswesen."
+
+Als es bekannt wurde, das ich im Kerker von Derby sei, kamen
+meine Angehörigen, um mich wieder zu besuchen; denn sie betrachteten
+es als eine große Schande für sie, das ich um der Religion
+willen gefangen war; und etliche hielten mich für verrückt, weil
+ich für die Reinheit, Gerechtigkeit und Vollkommenheit eintrat.
+Unter denen, die zu mir kamen, war einer aus Nottingham,
+ein Soldat, der früher Baptist gewesen war. Im Laufe des
+Gesprächs sagte er zu mir:
+**"Dein Glaube gründet sich auf einen Mann, der in Jerusalem gestorben sein soll; solches ist aber nie geschehen"**.
+Es betrübte mich sehr, ihn so reden zu hören, und ich sagte:
+**"Wie! hat nicht Christus gelitten vor den Toren Jerusalems durch die Juden, die Frommen, die Hohenpriester und durch Pilatus?"**
+Aber er leugnete, das Christus je äußerlich gelitten habe. Ich fragte ihn,
+ob denn keine Hohenpriester, keine
+Juden, kein Pilatus äußerlich dort gewesen sei? und als er das
+nicht bestreiten konnte, sagte ich:
+**" So gewiss ein Hohepriester, ein Pilatus und Juden äußerlich dort gewesen sind, so gewiss ist Christus äußerlich verfolgt worden von ihnen und hat durch sie**
+% \picinclude{./030-039/p_s038.jpg}
+**gelitten"**. Die Reden dieses Menschen veranlassten eine
+Verleumdung gegen uns, als ob die Quäker bestritten, das Christus
+gelitten habe und in Jerusalem gestorben sei. Es war dies ganz
+falsch; nie war der leiseste Gedanke davon in unsern Herzen
+gewesen; es war eine bloße Verleumdung, die uns traf, und die
+aus dem Gerede dieses Menschen entstanden war. Derselbe
+Mensch behauptete auch, niemals habe irgend ein Apostel oder
+Prophet, oder Heiliger oder Mann Gottes äußerlich gelitten; alle
+ihre Leiden seien innerlich gewesen; aber ich bewies ihm an
+Bespielen, wie viele unter ihnen gelitten und durch wen sie gelitten;
+und so widerlegte die Kraft des Herrn seine verkehrten Ansichten.
+
+Eine andere Sorte kam zu mir, die behaupteten, sie könnten
+Geister unterscheiden. Ich fragte sie, welches der erste Schritt
+zum Frieden sei? und in was der Mensch seine Rettung suchen
+müsse? Sie fuhren auf und sagten in ihrem Hochmut, ich sei
+verrückt; und solche wollten Geister unterscheiden können und
+kannten nicht einmal ihren eigenen Geist!
+
+## Kampf gegen Todesstrafe ##
+
+Während dieser Zeit meiner Gefangenschaft geriet ich in
+große Bekümmernis über das Vorgehen der Richter und Beamten
+in ihren Gerichtshöfen. Es trieb mich, an die Richter zu schreiben,
+darum das sie das Todesurteil fällten wegen allerlei unwichtiger
+Vergehen, in Geldsachen oder das Vieh betreffend. Ich musste
+ihnen zeigen, wie solches von jeher dem Gesetz Gottes zuwider
+war; ich war deswegen in meinem Geiste sehr betrübt bis in den
+Tod, aber da ich mich unter den Willen Gottes stellte, so
+erwachte ein himmlisches Sehnen nach dem Herrn in meinem Herzen,
+ich sah den Himmel offen und freute mich und gab Gott die
+Ehre [...].
+
+In diesem Zustande trieb es mich, an die Richter zu schreiben,
+wie schädlich es für die Gefangenen sei, so lange im Kerker zu
+sein, wie sie da schlechtes von einander lernten, wenn sie
+miteinander über ihre bösen Taten reden. Darum sollten die Urteile
+rasch gesprochen werden. Denn ich war ein gottseliger Jüngling
+und wandelte in der Furcht des Herrn; es betrübte mich, ihre
+schlechten Reden zu hören, ich musste ihnen oft Vorstellungen über
+ihre bösen Worte machen und über ihr hässliches Betragen
+untereinander. Die Leute wunderten sich, wie ich bewahrt und behütet
+blieb; denn nie konnten sie mir ein Wort oder eine Tat
+nachweisen, die sie hätten zu meinen Ungunsten auslegen können
+<!-- % \picinclude{./030-039/p_s039.jpg} -->
+während der ganzen Zeit, die ich dort war; denn die unendliche
+Kraft des Herrn hielt mich aufrecht und bewahrte mich während
+der ganzen Zeit; ihm sei Lob und Ehre immerdar.
+
+
+Es war eine junge Person mit mir im Gefängnis, die ihrem
+Herrn Geld gestohlen hatte. Als sie zum Tode verurteilt werden
+sollte, schrieb ich an den Richter und ans Schwurgericht und
+stellte ihnen vor, wie es immer gegen das Gesetz Gottes gewesen
+sei, die Leute wegen Diebstahls zum Tode zu verurteilen, und
+bat um Gnade. Sie wurde aber doch verurteilt, und man grub
+ihr ein Grab und führte sie zur Hinrichtung. Da schrieb ich noch
+einmal ein paar Worte und warnte alle, sich vor Raubgier und
+Habsucht zu hüten, da sie von Gott wegführe, und ermahnte alle
+den Herrn zu fürchten, allen irdischen Begierden zu entsagen und
+die Zeit zu nützen, dieweil sie da ist; solches hieß ich sie unter
+dem Galgen vorlesen. Und obgleich sie sie schon auf der Leiter
+hatten, bereit gehenkt zu werden, mit einem Tuch über den Augen,
+so wurde sie nun nicht hingerichtet, sondern sie führten sie wieder
+zurück ins Gefängnis, und im Gefängnis kam sie nachher dazu,
+Gottes ewige Wahrheit zu erkennen.
+
+
+Es war noch ein anderer Gefangener mit mir, ein schlechter,
+gottloser Mensch, ein berüchtigter Schwarzkünstler und Zauberer.
+Er drohte, was er alles zu mir sagen und mir tun wolle, aber
+er hatte keine Macht, den Mund gegen mich aufzutun. Einmal
+gerieten der Kerkermeister und er aneinander und er drohte, er
+wolle den Teufel rufen und das Haus niederreißen, so das der
+Kerkermeister Angst bekam. Da trieb mich der Herr hinzugehen
+und ihm Einhalt zu gebieten und zu sagen:
+**"Komm, las sehen was du kannst, tue dein Äußerstes"**.
+Ich sagte ihm, der Teufel
+sei schon in ihm selber bei uns, die Kraft des Herrn binde ihn
+aber. Da schlich er sich davon.
+
+## Zwangsmusterung von Fox ##
+
+Als nun die Zeit der Schlacht von Worcester kam, sandte
+der Richter Bennet Konstabler, um mich zu zwingen, Soldat zu
+werden, da er gesehen hatte, das ich kein Kommando übernehmen
+würde. Ich sagte ihnen, ich sei ganz gegen allen äußeren Krieg.
+Sie kamen wieder, um mir Werbegeld zu geben, aber ich nahm
+es nicht. Daraus wurde ich vor den Wachtmeister Holes gebracht,
+der mich eine Weile behielt und dann wieder zurückschickte. Nach
+einiger Zeit wurde ich wieder herauf geholt und vor den Kommissar
+gebracht, welcher erklärte, ich müsse als Soldat gehen, aber ich
+<!-- % \picinclude{./040-049/p_s040.jpg} -->
+sagte ihnen, ich sei hierfür tot. Sie sagten, ich sei ja am Leben.
+Ich sagte ihnen, wo Neid und Zank sei, da sei Verderben (Jak. 3:16).
+Sie boten mir zweimal Geld an, aber ich wollte nichts
+annehmen; darauf wurden sie böse und verurteilten mich zum
+Gefängnis [...].
+
+
+Ich war tief betrübt und bearbeitet in meinem Geist während
+meiner Gefangenschaft wegen der Schlechtigkeit, die in der Stadt
+herrschte; denn obgleich etliche gewonnen waren, so war doch die
+Mehrzahl sehr verhärtet. Ich sah, wie sich das Ausgießen der
+Liebe Gottes von ihnen weg wandte. Ich trauerte über sie, und
+es kam über mich, folgende Klage über sie zu verbreiten:
+
+
+> O Derby! Wie die Wasser abfließen, wenn die Schleusen
+> sich öffnen, also fließet die Liebe Gottes von dir ab, o Derby.
+> Darum siehe zu, wo du stehest und auf welchem Grund du bist,
+> ehe du gänzlich verlassen wirst. Der Herr hat mich zweimal
+> gerufen, ehe ich zu dir kam, um gegen deine Eitelkeit und
+> Schlechtigkeit aufzutreten und alle zu ermahnen, auf den Herrn und
+> nicht auf Menschen zu sehen. **"Wehe der prächtigen Krone der
+> Trunkenen! der welken Blume ihrer Herrlichkeit"** (Jes. 28:1).
+> Wehe denen, die mit Worten ihren Glauben zur Schau tragen und
+> doch hochmütig und hochfahrend sind und Unterdrückung und Hass
+> üben. O Derby! Deine Frömmigkeit und dein Predigen stinken
+> gen Himmel! Ihr feiert einen Sabbat in Worten und versammelt
+> euch, um euch schön zu kleiden, ihr fröhnet der Eitelkeit. Die
+> Weiber gehen mit aufgerichtetem Halse und geschminkten
+> Gesichtern, wie es die alten Propheten verurteilt haben (Jes. 03:16).
+> Eure Versammlungen sind dem Herrn ein Gräuel; ihr erhebet
+> die Eitelkeit und beuget euch davor; das Laster gedeiht und das
+> Böse wird geehrt; das Schlechte wird von den Schlechten
+> geduldet und doch bekennen sie alle Christus mit Worten. O über
+> die Schlechtigkeit unter euch! Es bricht mir fast das Herz, zu
+> sehen, wie Gott unter euch verachtet ist, o Derby!
+
+
+Als ich gesehen, wie Gottes Liebe sich von diesem Orte
+abwandte, wusste ich, das meine Gefangenschaft hier nun nicht mehr
+lange andauern werde, aber ich sah, das, wenn der Herr mich
+frei machen werde, so werde es sein, wie wenn man einen
+Löwen aus seiner Höhle auf die wilden Tiere des Waldes
+ablässt. Denn alle *Frommen* hatten eine tierische
+Gesinnung, die
+der Sünde huldigte, so lange sie lebten. Sie waren alle dem
+<!-- % \picinclude{./040-049/p_s041.jpg} -->
+Geist und dem Leben feind, der in der Schrift gegeben ist und
+den sie in Worten bekannten. So geschah es, wie man hernach
+sehen wird.
+
+## Fox wird aus dem Gefängnis entlassen ##
+
+Es stand ein Gericht über der Stadt, und den Behörden war
+es unbehaglich meinetwegen; aber sie wussten nicht, was sie mit
+mir machen sollten. Einmal wollten sie mich vors Parlament
+schicken, ein andermal mich nach Irland verbannen. Zuerst
+nannten sie mich einen Betrüger und Verführer und
+Gotteslästerer; dann, als Gott seine Strafe über sie
+schickte, sagten sie,
+ich sei ein ehrlicher, tugendhafter Mensch. Aber ob sie eine gute
+oder schlechte Meinung von mir hatten, war mir gleichgültig;
+denn weder richtete mich das eine auf, noch warf mich das andere
+nieder, dem Herrn sei Lob. Schließlich mussten sie mich frei
+lassen, zu Anfang des Winters 1651, nachdem
+ich fast ein Jahr in Derby gefangen gewesen war, sechs Monate im Zuchthaus
+und die übrigen im Kerker.
+
+Als ich nun wieder meine Freiheit hatte, fuhr ich fort wie
+zuvor in der Arbeit für den Herrn und zog im Lande umher,
+zuerst in der Gegend meiner Heimat, Leicestershire; ich hielt
+unterwegs Versammlungen, und des Herrn Geist und Kraft war mit
+nur [...].
+
+## Die Märtyrer von Lichfield ##
+
+Einmal als ich mit einigen Freunden unterwegs war und
+eine Turmhauzspitze erblickte, ging es mir durch Mark und Bein;
+ich fragte, was das für eine Ortschaft sei? es hieß: Lichfield.
+Alsobald erging das Wort des Herrn an mich, das ich dorthin
+gehen müsse. Als wir bei dem Hause angelangt waren, in das
+wir gehen wollten, bat ich die Freunde, die mit mir waren,
+hineinzugehen; ich sagte ihnen aber nicht, wohin ich zu gehen hatte.
+Sobald sie im Hause waren, entfernte ich mich und lief über
+Hecken und Gräben, bis ich eine Meile weit von Lichsield
+entfernt war; da waren auf einem weiten Felde Schäfer, die ihre
+Schafe hüteten. Hier befahl mir der Herr, meine Schuhe
+auszuziehen; ich zögerte, denn es war Winter; doch das Wort des
+Herrn war wie Feuer in mir. So zog ich denn meine Schuhe
+aus und lies sie bei den Schäfern, und die armen Schäfer zitterten
+und waren ganz bestürzt. Darauf lief ich wieder eine Meile,
+und sobald ich wieder in der Stadt war, erging das Wort des
+Herrn an mich:
+**"Rufe: wehe der blutigen Stadt Lichfield!"**
+Ich ging also die Straße auf und ab und rief:
+**"Wehe der blutigen**
+<!-- % \picinclude{./040-049/p_s042.jpg} -->
+**Stadt Lichfield!"** Da es Markttag war, ging ich auf den
+Marktplatz, lief auf demselben umher und rief von Zeit
+zu Zeit: **"Wehe der blutigen Stadt Lichfield!"**
+Und niemand tat mir etwas.
+Während ich rufend durch die Straßen ging, schien es mir, Als
+ob ein Bach von Blut durch die Straße fließe, und der
+Marktplatz kam mir vor wie ein Teich von Blut. Als ich mich der
+mir aufgetragenen Verkündigung entledigt hatte, verließ ich im
+Frieden die Stadt.
+
+Ich kehrte zu den Hirten zurück, gab ihnen
+Geld und erhielt meine Schuhe von ihnen zurück. Aber das
+Feuer des Herrn war so in meinen Füßen und in meinem ganzen
+Körper, das mir nichts daran lag, meine Schuhe überhaupt wieder
+anzuziehen; und ich wusste nicht recht, ob ich es tun sollte oder
+nicht, bis ich die Erlaubnis dazu vom Herrn fühlte; nachdem ich
+meine Füße gewaschen, zog ich meine Schuhe wieder an. Darauf
+verfiel ich in tiefes Nachsinnen, warum und aus welchem Grunde
+ich wohl gesandt worden sei, gegen diese Stadt zu reden und sie
+die *blutige Stadt* zu nennen; denn obwohl eine Zeit lang das
+Parlament und eine Zeit lang der König die Herrschaft über diesen
+Kirchenspengel gehabt hatte und viel Blut in der Stadt vergossen
+worden war während des Krieges zwischen beiden, so war es
+doch nicht schlimmer gewesen als an vielen anderen Orten auch.
+Nach und nach aber fiel es mir ein, wie zur Zeit des Kaisers
+Diocletian tausend Christen in Lichsield gemartert worden waren;
+darum hatte ich ohne Schuhe durch den Bach ihres Blutes gehen
+müssen, damit die Erinnerung an das Blut jener Märtyrer, das
+vor mehr als tausend Jahren vergossen worden und in ihren
+Straßen erkaltet war, wach werde. Die Nachwirkung jenes Blutes
+war über mich gekommen, so das ich dem Herrn hatte gehorchen
+müssen. Man weiß aus alten Überlieferungen, wie viel
+christliche Briten dort gelitten haben. Ich könnte noch viel berichten
+über alles, was sich mir offenbarte über das hier während der
+zehn Verfolgungen und später vergossene Märtyrerblut, aber ich
+überlasse es dem Herrn und seinem Buch, aus welchem alles
+gerichtet werden wird; denn sein Buch und fein Geist sind sichere
+Überliefere.
+
+Darauf zog ich im Lande umher und hatte vielerorts
+Versammlungen unter den freundlich Gesinnten. Aber meine
+Angehörigen waren böse über mich.
+Nach einiger Zeit kehrte ich nach Nottinghamshire zurück und ging
+dann nach Derbshire, um dort
+<!-- % \picinclude{./040-049/p_s043.jpg} -->
+die freundlich Gesinnten aufzusuchen. In Yorkshire und an einigen
+andern Orten predigte ich Buße: darauf kam ich nach Balby,
+wo [Richard Farnsworth][4.3]  und einige
+andere gewonnen wurden. So reiste ich im Lande umher, Buße
+predigend und das Wort des Herrn verkündigend, bis ich in die Gegend von
+Wakefield kam, wo James Naylor lebte; er und Thomas Goodyear
+kamen zu mir; beide wurden gewonnen und nahmen die Wahrheit
+auf. Auch William Demsbury und seine Frau und viele andere
+kamen zu mir, wurden gewonnen und nahmen die Wahrheit auf.
+Von dort begab ich mich nach Hauptmann Pursloes Haus in
+die Nähe von Selby, und besuchte John Leek, der ins Gefängnis
+zu mir gekommen war, und er wurde gewonnen. Ich besaß ein
+Pferd, musste mich aber leider davon trennen, da ich nicht wusste,
+was damit anfangen, weil mich der Herr trieb in manches
+angesehene Haus zu gehen, um die Leute zu ermahnen, sich zum
+Herrn zu bekehren. Unter anderm trieb mich der Herr auch ins
+Turmhaus von Beverly zu gehen, das damals
+eine Stätte besonderer Frömmigkeit war; da ich vom
+Regen ganz durchnässt war,
+ging ich zuerst nach der Herberge. In der Türe kam ein junges
+Weib auf mich zu und sagte:
+**"Wie! seid ihr es? Kommt herein"**,
+wie wenn sie mich schon gekannt hätte; denn die Kraft des Herrn
+hatte ihr Herz vorbereitet. Ich nahm etwas zu mir und ging
+ins Bett. Am Morgen zog ich meine noch nassen Kleider an
+und bezahlte meine Zeche und begab mich ins Turmhaus, wo
+einer predigte. Als er geendet, trieb mich die mächtige Kraft Gottes,
+zu ihnen zu reden, und ich wies sie auf Christus, ihren Lehrer, hin.
+Die Kraft des Herrn war so mächtig, das alle von großer Furcht
+ergriffen wurden. Der Bürgermeister kam und sprach ein paar
+Worte mit mir, aber niemand hatte Macht, mir etwas zu tun.
+Ich verließ die Stadt und ging am Nachmittag in ein anderes
+Turmhaus, etwa zwei Meilen weit entfernt. Als der Priester
+geendet, trieb es mich, eingehend zu ihm und den Leuten über
+den Weg des Lebens und der Wahrheit und den Grund der
+Erwählung und Verdammung zu reden. Der Priester sagte, er sei
+<!-- % \picinclude{./040-049/p_s044.jpg} -->
+zu kindlich, um mit mir zu disputieren; ich erklärte ihm, ich sei
+nicht gekommen, um zu disputieren, sondern um das Wort des
+Lebens und der Wahrheit zu verkünden, und damit sie alle den
+Samen kennen lernen möchten, den Gott allen verheißen, den
+Männern wie den Frauen. Die Leute waren hier sehr empfänglich
+und wünschten, das ich wiederkäme an einem Wochentag, um
+ihnen zu predigen, aber ich wies sie an ihren Lehrer Jesus
+Christus und verließ sie. Am folgenden Tage ging ich nach
+Cranstick zu Hauptmann Pursloe, der mich zu Richter Hotham
+begleitete.
+
+[4.3]: "Richard Farnsworth, William Dewsbury und James Naylor waren die ersten bedeutenden Missionsprediger der Quaker. (Näheres s. Weingarten, Revolutionskirchen Englands. S.~218ff.) James Naylor ist in der Geschichte berüchtigt geworden durch seinen Messiaseinzug in Bristol, dem Höhepunkt der fast zum Wahnsinn gesteigerten Schwärmerei des älteren Quäkertums.}"
+
+Dieser war ein gottseliger Mann, der auch Gottes
+Wirken schon in seinem Herzen verspürt hatte. Nachdem wir eine
+Zeitlang über göttliche Dinge geredet hatten, nahm er mich mit
+in sein Zimmer und bekannte mir, das ihm diese Ansichten
+schon seit zehn Jahren vertraut seien, und wie er sich freue, das
+der Herr sie nun auch verkünden lasse unter den Leuten.
+Nachher kam noch ein Priester zu ihm, mit dem ich auch über die
+Wahrheit redete. Aber der war bald zum Schweigen gebracht,
+denn er war ein bloßer Phantast, der sich das, wovon er redete,
+innerlich nicht angeeignet hatte.
+
+
+Während ich da war, kam eine angesehene Frau aus Beverly,
+um Richter Hotham in irgend einer wichtigen Angelegenheit zu
+sprechen. In Laufe des Gespräches erzählte sie ihm, das am
+vergangenen Sabbat, wie sie diesen Tag nannten, ein Engel oder
+ein Geist in die Kirche von Beverly gekommen sei und herrliche
+Dinge von Gott geredet habe zur Verwunderung aller Anwesenden,
+und als er geendet habe, sei er verschwunden; sie wisse nicht, woher
+er gekommen, noch wohin er gegangen sei, alle haben sich
+gewundert, die Priester, die *Frommen* und die Behörden der Stadt.
+Richter Hotham erzählte mir das nachher wieder, woraus ich ihm
+mitteilte, das ich es gewesen, der an jenem Tage im Turmhaus
+gewesen und die Wahrheit verkündet hatte [...].
+
+Am Nachmittag ging ich in ein anderes Turmhaus, wo ein
+großer, angesehener Priester, ein Doktor, wie sie ihn nannten,
+redete, einer von denen, die Richter Hotham wollte kommen lassen.
+Ich ging hin und wartete, bis der Priester geendet hatte. Die
+Worte, die er als Text genommen hatte, waren: \zitat{Wohlan alle,
+die ihr durstig seid, kommet her zum Wasser, und die ihr nicht
+Geld habt, kommt her, kaufet und esset, kommt her und kaufet
+ohne Geld, beides Wein und Milch (Jes. 55:1).} Und der Herr
+<!-- % \picinclude{./040-049/p_s045.jpg} -->
+trieb mich zu sagen:
+**"Komm herunter, du Verführer; heißest du die Leute umsonst kommen und umsonst vom Wasser des Lebens nehmen, und nimmst jährlich dreihundert Pfund dafür, das du die Schrift verkündest? Errötest du nicht vor Scham? Tat der Prophet Jesaias und Christus, die diese Worte umsonst geredet und mitgeteilt hatten, auch also? Sagte nicht Christus zu seinen Jüngern, als er sie aus sandte zu predigen: umsonst habt ihr es empfangen, umsonst gebet es auch?"**
+Der Priester machte sich
+ganz bestürzt davon; nachdem er seine Herde verlassen hatte,
+hatte ich so viel Zeit, als ich wollte, um zu den Leuten zu sprechen;
+ich wies sie von der Finsternis zum Licht und zur Gnade Gottes,
+die sie lehren und ihnen Rettung bringen werde, und zum Geist
+Gottes in ihrem Innern, der sie umsonst lehre.
+
+Dann kehrte ich zu Richter Hothams Haus zurück; als ich
+eintrat, schloss er mich in seine Arme und sagte, sein Haus sei
+mein Haus. Denn er freute sich sehr über das Werk des Herrn
+und das seine Kraft kund geworden. Dann erzählte er mir,
+warum er am Morgen nicht mit mir zum Turmhaus gegangen
+war, und was für Gründe er gehabt hatte; er hatte sich gesagt,
+wenn er mit mir ins Turmhaus gehe, so würden die Wachen
+mich ihm übergeben und da werde er so in die Sache verwickelt;
+dann wisse er nicht, was machen. Darum sei er froh gewesen,
+als Hauptmann Pursloe gekommen; aber keiner von ihnen war
+in Amtskleidung gewesen oder hatte den Kragen um den Hals
+gehabt. Es war damals etwas ganz Ungewöhnliches, das einer
+ohne Kragen ins Turmhaus kam; aber Hauptmann Pursloe
+war ohne einen solchen mit mir ins Turmhaus gekommen, so hatte
+die Kraft des Herrn ihn übernommen, das er gar nicht daran
+dachte.
+
+Ich zog weiter und kam an einen Abend zu einer Herberge.
+Ich bat die Wirtin, mir etwas Fleisch zu bringen, wenn sie solches
+habe; aber weil ich *"du"* und *"dich"* zu ihr sagte, sah sie mich
+befremdet an; ich fragte sie, ob sie Milch habe. Sie sagte: nein.
+Ich merkte, das sie nicht die Wahrheit sagte, und um sie noch
+weiter zu prüfen, fragte ich sie, ob sie Rahm habe; sie verneinte es
+ebenfalls. Nun stand ein Butterfass im Zimmer und ein kleiner
+Knabe, der daneben spielte, steckte seine Hand hinein und stieß es
+um und verschüttete allen Rahm vor meinen Augen auf den
+Boden; da zeigte es sich, das die Frau eine Lügnerin war. Sie
+<!-- % \picinclude{./040-049/p_s046.jpg} -->
+erschrak, stieß eine Verwünschung aus, hob das Kind auf und
+schlug es tüchtig; aber ich machte ihr Vorwürfe wegen ihrer
+Lüge und ihres Betrügens. Nachdem der Herr solcherweise ihre
+Betrügerei und Bosheit aufgedeckt hatte, verließ ich das Haus
+und ging weiter, bis ich zu einem Heuschober kam und brachte
+nun die Nacht darin zu im Regen und Schnee, denn es war
+drei Tage vor dem Tag, den sie [Christfest][4.4] nennen.
+
+[4.4]: "Anmerkung Olaf Radicke: Weihnachten. Wird bei Quäkern nicht gefeiert."
+
+Am folgenden Tage kam ich nach York, wo etliche sehr
+gottselige Leute waren. Am Ersten Tage der darauf folgenden
+Woche hieß mich der Herr in das große Münster gehen und zum
+Priester Bowles und seinen Zuhörern reden in ihrer großen
+Kathedrale. Ich ging hin und als der Priester geendet, sagte ich,
+ich habe ihm und der Gemeinde eine Botschaft von Gott dem
+Herrn zu bringen. **"Dann sage sie schnell!"** sagte einer der
+*Frommen* aus der Versammlung; denn es war gefroren und
+schneite und war sehr kaltes Wetter. Ich sagte ihnen, solches
+sei das Wort des Herrn an sie:
+**"Ihr lebet in Worten, aber der Herr der Allmächtige verlangt Früchte von euch."** Kaum waren
+die Worte aus meinem Munde, so stießen sie mich hinaus und
+warfen mich die Stufen hinunter; aber ich stand auf, ohne verletzt
+zu sein und ging in meine Wohnung.
+
+Etliche wurden überzeugt;
+denn schon die Seufzer, die ich ausstieß unter dem Druck und
+dem Zwang des Geistes Gottes in mir, genügten, um vieler
+Herzen zu öffnen und zu ergreifen, so das sie bekannten, die Seufzer,
+die ich ausstoße, machen ihnen Eindruck.; mein ganzes Wesen
+war bedrückt davon, das sie bekannten und nicht besaßen, Worte
+machten und keine Früchte brachten.
+
+Nachdem ich für den Augenblick meinen Dienst in York getan
+hatte und etliche dort gewonnen worden waren und die Wahrheit
+Gottes angenommen und sich zu seiner Lehre bekannt hatten,
+verließ ich York und wandte mich nach Cleveland und fand dort
+Leute, welche die Kraft Gottes geschmeckt hatten. Ich sah, das
+ein Same in jener Gegend war, und das Gott dort ein demütiges
+Volk hatte. Unterwegs holte mich, gegen Abend, ein Päpstlicher
+ein und redete mit mir über seine Religion und über ihre
+Gottesdienste, und ich lies ihn alles sagen, was er auf dem Herzen
+hatte. Ich brachte die Nacht in einer Schänke zu; am folgenden
+Morgen trieb mich der Herr, zu diesem Päpstlichen zu reden. Ich
+begab mich in seine Wohnung und zeugte gegen seine Religion
+<!-- % \picinclude{./040-049/p_s047.jpg} -->
+und alle ihre abergläubischen Gebräuche und sagte ihm, Gott sei
+gekommen, sein Volk selbst zu lehren; das brachte den Papisten
+dergestalt auf, das es ihn aus seinem eigenen Hause trieb [...].
+
+## Kampf gegen Ausbeutung ##
+
+Obgleich zu der Zeit der Schnee sehr tief war, fuhr ich fort
+herumzureisen und kam zu einem Marktflecken, wo ich viele
+*Fromme* traf, mit denen ich lange Unterredungen hatte. Ich
+stellte ihnen viele Fragen, die sie nicht beantworten konnten, weil
+sie sagten, man habe sie noch nie in ihrem Leben so schwere
+Dinge gefragt. Von da ging ich nach Stath, wo ich ebenfalls
+viele *Fromme* und einige Ranter traf.
+Ich hatte große Versammlungen unter ihnen und viele Bekehrungen.
+Viele nahmen die Wahrheit auf, worunter einer, der hundert
+Jahre alt war; ein
+anderer war ein Oberkonstabler und einer war ein Priester, namens
+Philipp Scafe. Diesen machte der Herr später durch seinen Geist
+zu einem freien Verkündiger seines freien Evangeliums.
+Der Priester dieses Ortes war sehr hochfahrend und bedrückte
+die Leute sehr mit seinen Abgaben. Wenn sie aus den Fischfang
+gingen, so machte er sie Abgaben vom Erlös bezahlen, obgleich
+sie dieselben so weit her hatten und sie bis nach Yarmouth zum
+verkaufen brachten. Es trieb mich, dort ins Turmhaus zu gehen,
+um die Wahrheit zu verkünden und den Priester bloß zu stellen.
+Als ich mit ihm geredet hatte und ihm die Unterdrückung des
+Volkes vorgestellt hatte, lief er davon. Die Ältesten der Gemeinde
+waren sehr hochmütig und leichtfertig; darum verließ ich sie,
+nachdem ich das Wort des Lebens verkündet hatte, weil sie dasselbe
+nicht aufnehmen wollten. Aber das Wort des Lebens, das ich
+unter ihnen verkündet hatte, blieb bei etlichen von ihnen, so das
+etliche der Ersten aus der Gemeinde des Nachts zu mir kamen,
+und die meisten wurden gewonnen und bekannten sich zur Wahrheit.
+
+
+So begann die Wahrheit sich in dieser Gegend auszubreiten, und
+wir hatten große Versammlungen; dadurch wurden die Priester
+zornig und die Ranter fingen an, unruhig zu werden und ließen
+mir sagen, sie wollten eine Unterredung mit mir haben, die Priester,
+welche Unterdrückung übten, und die Ranter. Es wurde ein Tag
+festgesetzt und die Ranter erschienen; es kam auch noch ein anderer
+Priester, ein Schotte, aber der Priester, welcher sich der
+Unterdrückung schuldig gemacht hatte, nicht. Philipp Scafe, der
+bekehrte Priester, war bei mir und es erschienen viele Leute. Als
+wir uns gesetzt hatten, erklärte ein Ranter, namens T. Bushel,
+<!-- % \picinclude{./040-049/p_s048.jpg} -->
+er habe ein Gesicht von mir gehabt; ich sei an einem großen Pult
+gesessen und er habe kommen müssen und seinen Hut vor mir
+abnehmen und sich tief vor mir verbeugen, und er habe es getan;
+und noch viele andere Schmeicheleien sagte er mir. Ich sagte
+zu ihm, er habe das nur erfunden und er solle zu sich selber
+sagen: ,
+**"Schäme dich, du Hund"**. Er sagte, es sei nur Neid von
+mir, so zu sagen. Darauf fragte ich ihn, was der Neid eigentlich
+sei und wie er im Menschen entstehe und was das hündische sei
+und wie es im Menschen entstehe. Denn ich sah genau, das er
+etwas hündisches hatte, und darum wollte ich von ihm wissen,
+wie dieses Hündische in ihm entstanden sei. **"Denn"**, sagte ich
+ihm,
+**"mir müssen zuerst von dem reden, was in unserm Leib geschieht, ehe wir von dem reden können, was außer dem Leibe ist."**
+Damit stopfte ich ihm das Maul und allen seinen
+Ranter-Genossen, denn er war ihr Haupt.
+
+Dann rief ich den Priester,
+welcher die Leute unterdrückte, aber er kam nicht; nur der schottische
+Priester erschien, der mit wenig Worten zum Schweigen gebracht
+war; denn es war innerlich kein Leben in ihm von dem, was er
+bekannte. Nun war die Gelegenheit da, mit den Leuten zu reden.
+Ich zeigte klar, wie die Ranter waren und verglich sie mit den
+Prahlern in Sodom. Ich zeigte, wie ihre Priester die gleiche
+Sorte von Mietlingen seien, wie die falschen Propheten früherer
+Zeiten, und wie die Priester damals das Volk auch in dieser
+Weise regierten, indem sie ihren Gewinn im Auge hatten und
+um Geld ihr Amt besorgten und um schnöden Gewinns willen
+lehrten. Ich stellte Christus und die wahren Propheten und die
+Apostel den Priestern gegenüber und zeigte, wie Christus, die
+Propheten und die Apostel sie schon lange an ihren Früchten
+erkannt hätten. Dann wies ich sie aus den Lehrer in ihrem
+Innern hin, Jesus Christus, ihren Heiland. Und ich predigte
+Christus in den Herzen, nachdem ich alle diese Höhen geebnet
+hatte. Die Leute waren alle ruhig und die Widersacher zum
+Schweigen gebracht. Denn obgleich es innerlich in ihnen kochte,
+so hielt die Kraft sie doch gebunden, so das sie nicht losbrechen
+konnten [...].
+
+## Fox wird der gefürchtete Mann in der Lederkleidung ##
+
+Ein anderer Priester lies mich holen, um mit mir zu reden,
+und etliche *Freunde* gingen mit mir nach seinem Haus. Als
+er hörte, das wir gekommen seien, entwischte er aus dem Hause
+und versteckte sich unter einer Hecke. Die Leute gingen, ihn zu
+<!-- % \picinclude{./040-049/p_s049.jpg} -->
+zu suchen und fanden ihn, aber sie brachten ihn nicht dazu, zu
+uns zu kommen. Daraus ging ich in ein nahe gelegenes Turmhaus,
+wo der Priester und das Volk in großer Erregung waren,
+denn eben dieser Priester hatte den Freunden mit allem möglichen,
+das er tun werde, gedroht; als ich aber kam, machte er sich davon,
+denn die Kraft des Herrn kam über ihn und über die andern.
+Ja, des Herrn ewige Kraft kam über die Erde und drang zu
+den Herzen der Menschen und machte die Priester und die
+*Frommen* zittern. Sie machte die
+Geister der Erde und der
+Lust erbeben, zu welchen sie Vorgaben zu beten, so das sie einen
+Schreck bekamen, wenn es hieß:
+**"Der Mann in den [ledernen Kleidern][4.5] kommt!"**
+ An vielen Orten machten sich die Priester,
+wenn sie das hörten, davon, so waren sie von Furcht vor der
+ewigen Kraft Gottes ergriffen [...].
+
+[4.5]: "Fox trug immer Kleider aus Leder, die er wegen ihrer Einfachheit und Dauerhaftigkeit allen andern Kleidungsstücken vorzog. (Vgl. Carlyles, Sartor Refartus: Ein Ereignis in der neuen Geschichte.)"
+
+## Widerwillen gegen das Predigen in Kirchen und auf Kanzeln ##
+
+Von hier gingen wir über Scarborough\ort{Scarborough}
+[...] nach Malton\ort{Malton} [...]
+Am Ersten Tag kam eine Frau, eine der angesehensten *Frommen*
+unter den Independenten, welche ein solches Vorurteil gegen mich
+hatte, das sie sagte, ehe sie kam, sie würde sich freuen, mich
+erhängt zu sehen; aber als sie kam, wurde sie gewonnen und
+gehört seither zu den *Freunden*.
+
+
+Darauf hatte ich hier große Versammlungen; es hätten noch
+mehr Leute daran teil genommen, aber sie wagten es nicht, aus
+Furcht vor ihren Angehörigen. Es wurde damals als
+etwas Unerhörtes angesehen, das man in Häusern predigte statt in der
+*Kirche*, wie sie es nannten; darum wurde sehr gewünscht, das
+ich ins Turmhaus gehe und dort rede. Einer der Priester schrieb
+mir und lud mich ein, im Turmhaus zu predigen, und nannte
+mich seinen Bruder. Ein anderer Priester, eine bekannte
+Persönlichkeit, hielt dort eine Stunde. Nun hatte mir der Herr während
+meiner Gefangenschaft in Derby kund getan, ich solle in den
+Turmhäusern predigen, um die Leute von denselben abzubringen,
+und es kamen mir auch zuweilen Bedenken wegen der Kanzeln,
+in denen die Priester herumfaulenzten. Die Turmhäuser und
+Kanzeln verletzten mein Gefühl, weil sowohl die Priester als auch
+das Volk sie Gotteshäuser nannten und im Wahn waren, das
+Gott da in äußern sichtbaren Häusern wohne, statt im Gegenteil
+<!-- % \picinclude{./050-059/p_s050.jpg} -->
+Verlangen zu tragen, das Gott und Christus in ihren Herzen
+und Leibern wohne, auf das sie Tempel Gottes würden. Denn
+der Apostel sagt:
+**"Gott wohnet nicht in Tempeln mit Händen gemacht"**
+(Act. 7:48). Weil man aber diese Stätten nun einmal
+heilig hielt, so fand man es schrecklich, wenn man etwas dagegen
+sagte. Als ich ins Turmhaus kam, waren nicht mehr als 11
+Zuhörer dort, und der Priester hielt ihnen die Predigt. Als nun
+in der Stadt bekannt wurde, ich sei im Turmhause, so füllte sich
+dasselbe bald mit Menschen. Als der Priester, der an dem Tage
+zu predigen hatte, geendet hatte, hieß er den andern Priester, der
+mich aufgefordert hatte zu kommen, mich auf die Kanzel führen,
+aber ich lies ihm sagen, ich brauche nicht auf eine Kanzel zu
+steigen. Darauf lies, er mir wieder sagen, er wünsche aber, das
+ich sie besteige, weil dort ein besserer Platz sei, an dem mich die
+Leute sehen könnten. Ich lies ihm darauf sagen, man sehe mich
+gut genug, da wo ich sei, ich sei nicht gekommen, solche Stätten
+noch aufrecht zu erhalten und ihr Bestehen und den Handel, der
+damit getrieben wird. Als ich dies gesagt hatte, fingen sie an,
+böse zu werden und sagten:
+**"Das sind die falschen Propheten der letzten Zeiten"**.
+Diese Rede Verletzte etliche und sie murrten
+darüber; nun stand ich auf und hieß alle ruhig sein; ich stieg
+auf einen hohen Stuhl und erklärte ihnen, woran man die falschen
+Propheten erkenne, und das sie schon gekommen seien; und dann
+zeigte ich ihnen im Gegensatz dazu die wahren Propheten, Christus
+und die Apostel. Ich wies sie alle an ihren inneren Lehrer,
+Christus, der sie von der Finsternis zum Lichte führen könne.
+Nachdem ich ihnen verschiedene Schriftstellen erklärt hatte, wies
+ich sie auf den Geist Gottes in ihren Herzen hin, durch welchen
+sie zu ihm kommen könnten und erkennen, wer die falschen
+Propheten seien. Nachdem ich so ein reiches Wirken unter ihnen
+gehabt hatte, zog ich im Frieden von dannen [...].
+
+
+Hierauf kam ich nach Pickering, wo die Richter im
+Turmhaus ihre Sitzungen hielten; Friedensrichter Robinson war
+Vorsitzender. Ich hatte zur gleichen Zeit eine Versammlung im
+Schulhaus und viele *Fromme* und Priester wohnten ihr bei
+und stellten allerlei Fragen, die zu ihrer Zufriedenheit beantwortet
+wurden. Es war gerade die Zeit der Gerichtsitzungen, und da
+wurden auch vier Oberkonstabler bekehrt. Es kam Richter
+Robinson zu Ohren, das der Priester, den er allen andern Priestern
+<!-- % \picinclude{./050-059/p_s051.jpg} -->
+vorzog, besiegt und überzeugt worden war. Wir gingen nach
+der Versammlung in eine Herberge; Richter Robinson’s Priester
+war sehr bescheiden und lieb und wollte sogar durchaus mein
+Essen bezahlen, was ich aber nicht zuließ. Dann bot er mir sein
+Turmhaus an, um darin zu predigen, aber ich lehnte es ab und
+erklärte ihm und den andern, das ich eben gekommen sei, um die
+Leute von diesen Dingen ab und zu Christus zu bringen.
+
+Am folgenden Morgen ging ich mit den vier Konstablern und
+andern, um Richter Robinson zu besuchen, der mir unter der
+Türe seines Zimmers entgegenkam. Ich sagte ihm, ich könne ihm
+keine menschliche Ehre erweisen; er sagte, er sehe nicht auf das.
+Ich ging nun mit ihm ins Zimmer und tat ihm den Unterschied
+zwischen wahren und falschen Propheten dar, und wie die wahren
+höher stehen als die falschen, und richtete seinen Sinn auf
+Christus seinen Lehrer. Ich deutete ihm die Gleichnisse, und
+wie es sich mit der Erwählung und Verwerfung verhalte, wie
+man in der ersten Geburt in der Verwerfung sei und in der
+zweiten in der Erwählung. Ich zeigte ihm, wer die Verheißungen
+Gottes habe und wen sein Gericht verdamme. Er gab alles zu
+und war so offen für die Wahrheit, das, wenn ein anderer
+anwesender Richter eine kleine Einwendung machen wollte, er ihn
+belehrte. Beim Fortgehen sagte er, ich tue sehr gut, diese mir
+von Gott verliehene Gabe zu gebrauchen. Er nahm den obersten
+Konstabler beiseite und wollte ihm etwas Geld für mich geben,
+weil er nicht wollte, das ich in ihrer Gegend irgend welche
+Ausgaben habe; aber sie sagten ihm, das ich nicht dazu zu bringen
+sei, etwas anzunehmen. Ich schätzte seine Freundlichkeit, das
+Geld jedoch lehnte ich ab.
+
+Ich zog im Lande umher und der Priester, der mich Bruder
+genannt hatte, zog mit mir. Als wir in eine Stadt kamen, wo
+wir im Sinne hatten etwas zu essen, läuteten die Glocken.
+Ich fragte, warum sie läuten; man sagte mir, sie läuten für mich,
+damit ich im Turmhaus predige. Bald darauf trieb es mich
+dorthin. Als ich kam, sah ich die Leute auf dem Turmhausplatze
+versammelt; der alte Priester wollte, das ich ins Turmhaus gehe,
+ich sagte, es sei nicht nötig. Es befremdete die Leute, das
+ich nicht in das gehen wollte, das sie *Gotteshaus* nannten. Ich
+stellte mich auf den Platz des Turmhauses und erklärte den Leuten,
+ich sei nicht gekommen, ihre götzendienerischen Tempel aufrecht
+<!--- % \picinclude{./050-059/p_s052.jpg} -->
+zu erhalten, noch die Priester mit ihren Zehnten, Zulagen,
+Abgaben und Pfründen, noch ihre jüdischen und heidnischen
+Zeremonien und Traditionen; denn die gelten mir alle nichts. Ich
+erklärte ihnen, dieses Stück Boden sei nicht heiliger, als irgend ein
+anderes Stück Land\index{Heiligkeit!von Kirchen}. Ich zeigte
+ihnen, das die Apostel, wenn
+sie in die Synagogen und die Tempel der Juden gegangen seien,
+die ja Gott selber sogar vorgeschrieben habe, so sei es nur
+geschehen, um die Leute davon abzubringen und von den Opfern
+und Zehnten und den habsüchtigen Priester jener Zeit. Und
+die, welche zur Wahrheit belehrt wurden und an den von den
+Aposteln gepredigten Christusglaubten, hätten sich nachher in
+den Wohnhäusern versammelt. Ich sagte ihnen, das alle, welche
+Christus, das Wort des Lebens, predigen, es umsonst tun sollen
+wie die Apostel, und wie Christus es geboten habe. So war ich
+gesandt worden von Gott
+dem Herrn Himmels und der Erden
+umsonst zu predigen und die Leute von diesen äußeren Tempeln
+mit Händen gemacht, worin Gott nicht wohnt, abzubringen, damit
+sie erkennen, das ihre Leiber Tempel Gottes werden sollen. Ich
+musste die Leute abbringen von ihren jüdischen Zeremonien,
+abergläubischen und heidnischen Gebräuchen,
+Traditionen und Menschensatzungen, von der Lehre
+all der [Mietlinge][4.6], die Zehnten nehmen
+und große Pfründen, die um Bestechung predigen und für Geld
+weissagen, die gar nicht von Gott und von Christus gesandt
+sind, wie sie ja selber bekennen, wenn sie sagen, sie haben nie
+die Stimme Gottes noch Christi vernommen. So ermahnte ich
+denn die Leute, abzulassen von alle dem, und wies sie auf den
+Geist und die Gnade Gottes hin, welche inwendig in ihnen sind,
+und auf das Licht Jesu in ihren Herzen, aus das sie dazu kommen
+möchten, Christum zu kennen, der sie umsonst lehre und ihnen
+Rettung bringe und ihnen die Schrift öffne. Alles war ruhig
+und viele wurden gewonnen, der Herr sei gepriesen.
+
+[4.6]: "Von 'mieten', also Leute die sich mieten lassen."
+
+Ich kam daraus in eine andere Stadt, wo wieder eine große
+Versammlung war; der vorhin erwähnte Priester begleitete mich
+und allerlei *Fromme* kamen dazu herbei. Ich saß mehrere
+Stunden auf einem Heuschober und sagte nichts, denn sie sollten
+nach Worten hungern. Die *Fromme* kamen immer wieder
+zu dem alten Priester und fragten ihn, wann ich beginnen werde
+zu reden. Er hieß sie warten und sagte ihnen, das Volk habe
+immer lange gewartet, bis Christus gesprochen habe. Schließlich
+<!-- % \picinclude{./050-059/p_s053.jpg} -->
+trieb mich der Herr zu reden, und sie wurden von der Kraft des
+Herrn erfasst; das Wort des Lebens erreichte sie und es geschah
+eine allgemeine Bekehrung unter ihnen.
+
+Ich zog weiter; der alte Priester und einige andere waren
+mit mir. Unterwegs riefen ihn ein paar Leute an:
+**"Mr. Bones, wir sind euch Geld schuldig für Zehnten; kommt doch und nehmt
+es!"**
+Aber er wehrte mit der Hand ab und sagte, er habe genug,
+er wolle nichts davon, sie sollten es nur behalten; und er pries
+Gott, das er solches sagen konnte. Schließlich kamen wir zu dem
+Turmhaus dieses alten Priesters im Moor; als wir eingetreten
+waren, ging er voraus und öffnete die Kanzeltür, aber ich sagte ihm,
+ich würde nicht hineingehen. Das Turmhaus war stark bemalt;
+ich sagte ihm und den Leuten, die dabei waren, das gemalte Tier
+(Offb. 17:3) habe ein gemaltes Haus. Dann erklärte ich ihnen die
+Entstehung aller dieser Häuser und ihre abergläubischen Gebräuche;
+ich zeigte ihnen, das die Apostel nicht in die Tempel gegangen
+seien, um diese aufrecht zu erhalten, sondern um die Leute zu
+Christus, dem wahren Gut, zu führen; ich zeigte ihnen den wahren
+Gottesdienst, den Christus gegründet hat; ich zeigte den Unterschied
+zwischen Christus dem wahren Weg und allen verkehrten
+Wegen, indem ich ihnen die Gleichnisse deutete und sie von der
+Finsternis zum wahren Lichte wies; damit sie durch dasselbe sich
+selbst erkennen möchten und ihre Sünden und ihren Erlöser und
+durch den Glauben an ihn erlöst würden von ihren Sünden [...].
+
+
+Nun kam ich nach Cranstick, zu Hauptmann Pursloe und
+Friedensrichter Hotham, die mich beide freundlich empfingen, weil
+sie sich freuten, das die Kraft des Herrn erschienen war und das
+die Wahrheit sich ausbreitete und so viele sie aufnahmen, und das
+Friedensrichter Robinson so freundlich gewesen war. Hotham
+sagte, wenn Gott nicht diese Anschauungen von Licht und Leben
+hätte kund werden lassen, so wäre das ganze Land von den
+Rantern überschwemmt worden und
+alle Richter des Landes mit
+allen ihren Gesetzen hätten ihnen nicht zu wehren vermocht.
+**"Denn"**, sagte er,
+**"wenn sie auch gesagt und getan hätten, was wir ihnen befehlen, so hätten sie doch nicht von ihren Ansichten gelassen. Aber eure Grundsätze der Wahrheit werfen alle ihre Grundsätze und das, worauf sie die ihrigen gründen, über den Haufen"**.
+Darum war er so froh, das Gott diese Grundsätze des Lebens
+und der Wahrheit hatte durch mich kund werden lassen [...].
+<!-- % \picinclude{./050-059/p_s054.jpg} -->
+
+## Fox ruft zu Buße auf ##
+
+Als am folgenden Tage die Freunde mich verlassen hatten,
+reiste ich allein weiter und verkündete den Tag des Herrn überall,
+wohin ich kam, und ermahnte zur Buße. Eines Abends kam ich
+in die Stadt Patrington\ort{Patrington}, und während ich
+durch die Stadt ging,
+ermahnte ich sowohl die Priester als das Volk
+Buße\index{Buße} zu tun und
+sich zum Herrn zu bekehren. Es wurde finster, ehe ich ans Ende
+der Stadt kam, und eine große Menge hatte sich um mich
+versammelt, während ich das Wort des Lebens verkündete.
+
+## Fox wird überall die Gastfreundschaft verwehrt}
+
+Als ich meine Aufgabe erfüllt hatte, ging ich in eine Herberge und
+verlangte Unterkunft für die Nacht, aber sie wurde mir verweigert.
+Darauf bat ich um etwas Fleisch und Milch, ich wolle es bezahlen;
+aber auch das wollte man mir nicht geben. So verließ ich die
+Stadt; einige junge Leute kamen hinter mir drein und fragten
+mich, was es neues gebe. Ich hieß sie Buße tun und Gott
+fürchten. Als ich eine Strecke weiter gegangen war, kam ich wieder
+an ein Haus und bat, man solle mir etwas Fleisch und Milch
+geben und Nachtherberge, gegen Bezahlung; aber sie schlugen es
+mir ab; dann ging ich zu einem andern Haus und verlangte das
+selbe; aber sie wiesen mich ebenfalls ab. Inzwischen war es so
+dunkel geworden, das ich die Landstraße nicht mehr sehen konnte;
+ich endeckte einen Wassergraben und schöpfte etwas Wasser um
+mich zu erfrischen; dann überschritt ich den Graben und da ich
+von der Reise müde war, setzte ich mich unter einen Ginsterstrauch
+und wartete bis es Tag war.
+
+Mit Tagesanbruch erhob ich mich
+und ging weiter. Hinter mir drein kam ein Mann mit einer
+Heugabel, der schritt neben mir her bis zu einer Stadt, und
+noch ehe die Sonne aufgegangen war, hatte er diese Stadt und
+die Polizei gegen mich aufgehetzt; ich verkündete Gottes ewige
+Wahrheit unter ihnen und warnte sie vor dem Tag des Herrn,
+der kommen würde über alle Sünde und Ungerechtigkeit, und er
+mahnte sie, Buße zu tun. Aber sie griffen mich und brachten
+mich nach Patrington zurück, etwa drei Meilen weit, und
+bewachten mich mit Stöcken, Heugabeln und Hellebarden. Als ich
+nach Patrington kam, war die ganze Stadt in Aufruhr. Die
+Priester und das Volk berieten sich zusammen; so konnte ich
+ihnen abermals das Wort des Lebens verkünden und sie zur Buße
+ermahnen. Endlich nahm mich einer der *Frommen*, ein guter
+Mann, mit in sein Haus, wo ich mich an etwas Brot und Milch
+erlabte, denn ich hatte seit mehreren Tagen nichts gegessen.
+
+
+<!-- % \picinclude{./050-059/p_s055.jpg} -->
+Dann schleppten sie mich etwa neun Meilen weit zu einem Richter.
+Als wir nahe bei dessen Haus waren, kam einer hinter uns her
+geritten und fragte mich, ob ich der sei, der verhaftet worden
+war. Ich fragte, warum er es wissen wolle; er sagte, es
+geschehe in keiner bösen Absicht; da sagte ich ihm, das ich es
+sei; darauf ritt er voraus zum Richter. Meine Begleiter sagten,
+hoffentlich sei der Richter nicht betrunken, wenn wir zu ihm
+kämen; denn er pflegte schon frühmorgens betrunken zu sein.
+
+Als ich vor ihn trat und meinen Hut nicht abnahm und ihn mit
+**"Du"** anredete, fragte er den, welcher uns vorgeritten war, ob ich
+verrückt sei, aber er sagte ihm, nein, es sei mein Grundsatz. Ich
+ermahnte den Richter, Buße zu tun und sich zum Licht zu
+bekehren, mit dem Christus ihn erleuchtet, damit er durch dasselbe
+alle seine bösen Worte und Taten erkennen möge, und zu Christus
+zurückzukehren, solange es noch Zeit sei.
+**"Ja, ja"**, sagte er,
+ **"das Licht von dem im dritten Kapitel des Johannes gesprochen wird"**.
+Ich bat ihn, er möge doch auf dieses Licht achten und ihm
+gehorchen. Während ich ihn ermahnte, legte ich ihm
+die Hand auf und er ward übernommen von der Kraft des Herrn und die
+Wächter waren bestürzt.
+
+Er führte mich nun in ein kleines Gemach,
+um zu untersuchen, was ich von Briefen und Schriften in der
+Tasche habe; ich wies ihm meine Kleider und zeigte ihm, das
+ich keine Briefe bei mir hatte; er sagte, man sehe an meiner
+Wäsche, das ich kein Landstreicher sei, und lies mich frei. Ich
+ging mit dem Mann, der vor uns hergeritten, nach Patrington
+zurück, denn er lebte daselbst. Als wir ankamen, wünschte er, ich
+solle eine Versammlung auf dem Hauptplatz halten, aber ich sagte
+es sei nicht nötig, sein Haus genüge. Er wollte, das ich zu Bett
+gehe oder mich doch aufs Bett lege; dies wünschte er namentlich,
+damit er sagen könne, man habe mich in oder doch wenigstens
+auf einem Bett gesehen; denn es ging das Gerücht, ich wolle
+in keinem Bett schlafen, weil ich damals oft im Freien
+übernachtete.
+
+Als der Erste Tag kam, ging ich ins Turmhaus
+und verkündete dem Priester und dem Volk die Wahrheit; und
+die Leute taten mir nichts, denn die Kraft Gottes war über sie
+gekommen. Gleich nachher hatte ich eine große Versammlung in
+dem Hause des Mannes, der mich beherbergte, und viele wurden
+von Gottes ewiger Wahrheit überzeugt und sind derselben treu
+geblieben bis aus den heutigen Tag. Sie bereuten es sehr, das
+<!-- % \picinclude{./050-059/p_s056.jpg} -->
+sie mich nicht aufgenommen und beherbergt hatten, als ich zuerst
+bei ihnen gewesen war [...].
+
