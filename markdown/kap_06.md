@@ -1,7 +1,7 @@
 # Fox der Hexerei verdächtigt. Falsche Offenbarungen bei Freunden. Gefangenschaft in Carlisle. #
 
 
-## Ermahnung an Adam Sands}
+## Ermahnung an Adam Sands ##
 
 [...] Von Lancaster ging ich zu Friedensrichter
 West; Richard Hubberthorn begleitete mich. Da wir den Weg und die Gefahr
