@@ -13,7 +13,8 @@ epub:
         ./kap_02.md \
         ./kap_03.md \
         ./kap_04.md \
-        ./kap_05.md
+        ./kap_05.md \
+        ./kap_06.md
 
 #
 #        --epub-metadata \

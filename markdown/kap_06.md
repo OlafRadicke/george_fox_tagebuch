@@ -11,7 +11,7 @@ war. Wir ließen unsre Pferde über sehr gefährliche Stellen
 schwimmen. Als wir ankamen, fragte uns Friedensrichter West,
 ob wir nicht zwei Männer hätten über die Sandbänke reiten
 sehen. **"Ich werde"**, fügte er bei, **"über kurzem ihre Kleider**
-% \picinclude{./070-079/p_s072.jpg}
+<!-- % \picinclude{./070-079/p_s072.jpg} -->
 **haben, denn sie sind sicher ertrunken, und ich bin der Leichenschauer"**.
 Als wir ihm nun sagten, das wir diese Männer seien,
 da wunderte er sich sehr und wollte kaum glauben, das wir nicht
@@ -148,10 +148,9 @@ ich ins Turmhaus eintrat, saß ich eine Weile auf dem Platz davor
 und einige Freunde mit mir; aber die Freunde wurden getrieben, ins
 Turmhaus zu gehen, und ich ging ihnen nach. Der Londoner
 Priester brachte in seiner Predigt alle erdenklichen Schriftstellen
-von falschen Propheten\index{Prophete!falscher} und
-Antichristen\index{Antichrist} und wandte sie auf uns
+von falschen Propheten und Antichristen und wandte sie auf uns
 an. Aber als er geendet, nahm ich alle die Schriftstellen noch
-% \picinclude{./070-079/p_s075.jpg}
+<!-- % \picinclude{./070-079/p_s075.jpg} -->
 einmal durch und kehrte sie gegen ihn. Darauf überfielen mich
 die Anwesenden, aber der Konstabler befahl ihnen Ruhe. Nun
 wurde der Priester zornig und erklärte, ich dürfe nicht an diesem
@@ -160,8 +159,7 @@ Predigen gehabt, nun sei seine Zeit um, und nun dürfe ich so
 gut die meine reden wie er, denn er sei auch nur ein Fremder
 hier. Und ich öffnete ihnen die Schrift und zeigte ihnen, das
 diese Stellen, die von falschen Propheten, Betrügern und
-Antichristen reden, sie und ihresgleichen betreffe und alle,
-die in ihren
+Antichristen reden, sie und ihresgleichen betreffe und alle, die in ihren
 Fusstapfen gehen und die gleichen Früchte hervorbringen wie sie;
 und nicht uns, denn man könne uns solche Dinge nicht
 nachsagen. Ich zeigte ihnen, wie sie nicht in den Fusstapfen der
@@ -173,41 +171,33 @@ ihren Lehrer. Alles war ruhig während ich redete; aber als ich
 geendet hatte und hinaus kam, waren die Priester in einer solchen
 Wut, das ihr Mund gegen mich schäumte. Der Priester des
 Orts redete auf dem Turmplatz zu den Leuten und sagte ihnen:
-\zitat{ Dieser Mensch hat in Laneashire alle rechtschaffenen Männer
-und Frauen für sich zu gewinnen gewust, und nun will er hier
-das selbe tun.} Ich erwiderte ihm: \zitat{Was bleibt dann für die
-Priester übrig, außer solchen wie sie selber sind? Denn wenn es
-die Rechtschaffenen sind, die sich zur Wahrheit bekehren und sie
-aufnehmen und sich zu Christus bekehren, so sind es die Schlechten,
-die dir und deinesgleichen folgen!} Etliche suchten für ihren Priester
-einzutreten, und für das Zehntenwesen\index{Kirchensteuer};
+**"Dieser Mensch hat in Laneashire alle rechtschaffenen Männer und Frauen für sich zu gewinnen gewust, und nun will er hier das selbe tun."**
+Ich erwiderte ihm:
+**"Was bleibt dann für die Priester übrig, außer solchen wie sie selber sind? Denn wenn es die Rechtschaffenen sind, die sich zur Wahrheit bekehren und sie aufnehmen und sich zu Christus bekehren, so sind es die Schlechten, die dir und deinesgleichen folgen!"** Etliche suchten für ihren Priester einzutreten, und für das Zehntenwesen;
 aber ich sagte ihnen, sie
 täten besser, für Christus einzutreten, der den Zehntenpriestern
 und dem Zehntenwesen ein Ende machte und der seine Jünger
-aussandte mit der Weisung: \zitat{umsonst zu geben, was sie umsonst
-empfangen hatten}. Und des Herrn Macht kam über alle und brachte
+aussandte mit der Weisung:
+**"umsonst zu geben, was sie umsonst empfangen hatten"**.
+Und des Herrn Macht kam über alle und brachte
 sie zum Schweigen und hielt die Schreier zurück, das sie den Unfug,
 den sie planten, nicht ausführen konnten.
 
 
-Als ich zu Joseph
-Nieolson zurück kam, entdeckte ich ein groses Loch in meinem
+Als ich zu Joseph Nieolson zurück kam, entdeckte ich ein groses Loch in meinem
 Rock, das von einem grosen Messerstich herrührte; aber es war
 nicht tiefer als der Rock gegangen, denn der Herr hatte ihre
 Ubeltat vereitelt [...].
 
-## Fox durchschaut die Menschen}
+## Fox durchschaut die Menschen ##
 
 Danach ging ich in ein Dorf, und eine große Schar
-% \picinclude{./070-079/p_s076.jpg}
+<!-- % \picinclude{./070-079/p_s076.jpg} -->
 begleitete mich. Während ich in einem mit Leuten ganz gefüllten
 Haus das Wort des Lebens verkündete, gewahrte ich eine Frau,
 die, wie ich gleich merkte, einen unsauberen Geist hatte. Der
 Herr trieb mich, ernstlich mit ihr zu reden und ihr zu sagen, sie
-sei unter dem Einfluss eines unsauberen
-Geistes\index{Geist!unsauberer}
-\person{Fox!hellseherische Fähigkeit}\index{Hellseherisch};
-hierauf verließ
+sei unter dem Einfluss eines unsauberen Geistes; hierauf verließ
 sie das Zimmer. Weil ich fremd war an diesem Orte und die
 äußeren Verhältnisse der Frau nicht kannte, wunderten sich die
 Leute sehr und sagten mir nachher, ich hätte etwas Merkwürdiges
@@ -219,14 +209,12 @@ denn nicht lange vorher, als ich in eine Versammlung ging, sah
 ich auf dem Felde einige Frauen, bei denen ich einen unsauberen
 Geist erkannte; und es trieb mich, von meinem Wege ab zu ihnen
 zu gehen und ihnen ihren Zustand aufzudecken. Ein andermal
-kam eine in die Versammlung in Swarthmore\ort{Swarthmore},
-und es trieb mich,
+kam eine in die Versammlung in Swarthmore, und es trieb mich,
 ernstlich mit ihr zu reden und zu sagen, sie stehe unter der Macht
-eines bösen Geistes\index{Geist!böser}; und die Leute sagten
-nachher, es sei das
+eines bösen Geistes; und die Leute sagten nachher, es sei das
 allgemein von ihr bekannt. Ein andermal kam eine andere Frau
 und stand in einiger Entfernung von mir, und es trieb mich zu
-ihr zu gehen und zu sagen: \zitat{Du bist eine Hure gewesen}; denn
+ihr zu gehen und zu sagen: **"Du bist eine Hure gewesen"**; denn
 ich erkannte den Zustand und das Leben dieser Frau; sie antwortete
 mir, es gebe viele, die ihr ihre äußern Sünden nennen können,
 aber ihre inwendigen habe ihr noch niemand sagen können; darauf
@@ -235,20 +223,19 @@ aus dem inwendigen komme das außwendige; diese Frau wurde
 nachher von der Wahrheit des Herrn überzeugt und schloss sich
 den Freunden an [...].
 
-## Wirken und gefangennahme in Carlisle}
+## Wirken und gefangennahme in Carlisle ##
 
-Wir gingen nun nach Carlisle\ort{Carlisle} [...]. An einem Markttage
+Wir gingen nun nach Carlisle [...]. An einem Markttage
 ging ich aus den Markt. Die Magistrate hatten Drohungen
 ergehen lassen und ihre Leute geschickt; und ihre Frauen hatten
 gesagt, wenn ich komme, so reisen sie mir die Haare aus, und
 die Schutzleute sollten mich nur festnehmen. Aber ich ging dennoch
 auf den Platz, im Gehorsam gegen den Herrn, und verkündete
-ihnen dort, das der Tag des Herrn\index{Tag des Herrn}
-über all ihr betrügerisches
+ihnen dort, das der Tag des Herrn über all ihr betrügerisches
 Tun und ihre betrügerische Ware komme; und sie sollten sich alle
 abwenden von ihrem Betrügen und Überlisten und sich an Ja
 und Nein halten und einander die Wahrheit sagen; dann komme
-% \picinclude{./070-079/p_s077.jpg}
+<!-- % \picinclude{./070-079/p_s077.jpg} -->
 die Kraft und die Wahrheit des Herrn zu ihnen. Nachdem ich
 ihnen so das Wort des Lebens verkündet hatte, in einem
 Gedränge, das zu groß gewesen war, als das die Schutzleute und
@@ -259,24 +246,25 @@ waren; unter diesen war
 auch ein Helfer, ein böser Mann, der, als er die Kraft des Herrn
 verspürte, aufschrie vor Zorn, worauf ich meine Augen auf ihn
 heftete und ernstlich zu ihm redete in der Kraft des Herrn; und
-er schrie: \zitat{Durchbohre mich nicht so mit deinen Augen! wende
-deine Augen ab von mir}.
+er schrie:
+**"Durchbohre mich nicht so mit deinen Augen! wende deine Augen ab von mir"**.
 
 Am folgenden Ersten Tage ging ich ins Turmhaus, und
 nachdem der Priester geendigt hatte, predigte ich den Leuten
 die Wahrheit und das Wort des Lebens. Der Priester entfernte
 sich und man wollte mich aus dem Turmhaus jagen. Aber ich
 verkündete den Weg des Herrn weiter unter ihnen und sagte:
-\zitat{ich komme, euch das Wort des Lebens und der Seligkeit zu
-verkünden}. Die Macht des Herrn tat sich mächtig kund unter
-ihnen, so das sie zitterten\index{Zittern} und bebten,
+**"ich komme, euch das Wort des Lebens und der Seligkeit zu verkünden"**.
+Die Macht des Herrn tat sich mächtig kund unter
+ihnen, so das sie zitterten und bebten,
 und meinten, das Turmhaus schwanke, und einige meinten,
 es werde auf ihre Köpfe fallen;
 die Weiber der Magistrate rasten und suchten mit aller Gewalt,
 an mich heran zu kommen; aber die Soldaten und die Freunde
-umringten mich. Zuletzt kam der ganze Pöbel\index{Pöbel} der Stadt ins
-Turmhaus, mit Stöcken und Steinen und schrie: \zitat{nieder mit
-diesen rundköpfigen Schuften!} und warfen mir Steine an.
+umringten mich. Zuletzt kam der ganze Pöbel der Stadt ins
+Turmhaus, mit Stöcken und Steinen und schrie:
+**"nieder mit diesen rundköpfigen Schuften!"**
+und warfen mir Steine an.
 Hierauf schickte der Statthalter Soldaten ins Turmhaus, um
 Ruhe zu schaffen unter den Leuten; mich nahmen sie freundlich
 bei der Hand und hießen mich mit ihnen kommen. Als wir
@@ -284,10 +272,8 @@ auf die Straße kamen, war die Stadt in Aufruhr, und einige
 dieser Soldaten kamen ins Gefängnis, weil sie sich meiner
 angenommen hatten, gegen die Leute aus der Stadt. Ein Leutnant,
 der belehrt worden war, nahm mich in sein Haus, wo eine
-Baptistenversammlung\index{Baptisten!Versammlung}
-war; auch Freunde kamen dazu, und wir hatten
-eine sehr ruhige Versammlung\index{Versammlung!mit Baptisten};
-sie hörten das Wort des Lebens
+Baptistenversammlung war; auch Freunde kamen dazu, und wir hatten
+eine sehr ruhige Versammlung; sie hörten das Wort des Lebens
 gerne, und viele nahmen es auf.
 
 Am folgenden Tage, als die
@@ -295,20 +281,18 @@ Magistrate im Stadthaus versammelt waren, ließen sie mich vor
 sie bringen. Ich war eben im Haus eines Baptisten; als ich
 von dem Befehl hörte, ging ich nach dem Stadthaus hinauf, wo
 viel Pöbel versammelt war, der allerlei falsche Dinge über mich
-% \picinclude{./070-079/p_s078.jpg}
+<!-- % \picinclude{./070-079/p_s078.jpg} -->
 ausgesagt hatte. Ich hatte eine lange Unterredung mit den
 Magistraten, worin ich auseinandersetzte, was für Früchte die
 Predigten ihrer Priester bringen, und wie wenig Christentum darin
-sei; und ich sagte ihnen, das sie zwar als große \textit{Fromme}
-gelten, — sie waren Presbyterianer\index{Presbyterianer}
-und Independenten\index{Independenten} -- aber
+sei; und ich sagte ihnen, das sie zwar als große *Fromme*
+gelten, — sie waren Presbyterianer und Independenten - aber
 eben nicht im Besitz ihrer Frömmigkeit seien. Nach einem langen
 Verhör verurteilten sie mich zum Gefängnis, als Gotteslästerer,
 Ketzer und Verführer, obgleich sie mich gerechter Weise keines
 dieser Dinge beschuldigen konnten. Es waren zwei Kerkermeister
-im Kerker von Carlisle\ort{Carlisle}, ein oberer und ein
-unterer, die aussahen wie zwei große Bärenführer.
-Als ich gebracht wurde,
+im Kerker von Carlisle, ein oberer und ein unterer, die aussahen
+wie zwei große Bärenführer. Als ich gebracht wurde,
 führte mich der Oberkerkermeister in ein großes Zimmer und sagte
 mir, ich könne hier haben, was ich wolle; aber ich erwiderte
 ihm, er solle kein Geld von mir erwarten, denn ich werde weder
@@ -316,11 +300,10 @@ in einem seiner Betten schlafen, noch von seinen Speisen essen,
 worauf er mich in ein anderes Gemach führte, wo ich nach einiger
 Zeit etwas zum drauf liegen erhielt. Hier lag ich gefangen bis
 zur Zeit der Gerichtssitzung, wo ich, wie es allgemein hieß,
-erhängt werde\person{Fox!Todesurteil}.
+erhängt werde.
 
 
-Der Oberscheriff Wilfrid
-Lawson\person{Lawson, Oberscheriff Wilfrid}, hetzte sie auf,
+Der Oberscheriff Wilfrid Lawson, hetzte sie auf,
 mich zu töten, und sagte, er wolle mich selbst bis zu meiner
 Hinrichtung bewachen. Sie waren sehr streng und setzten drei
 Musketiere zu meiner Wache, einen vor meine Türe, einen anderen
@@ -328,14 +311,13 @@ unten an die Treppe und einen dritten vor die Haustüre, und
 sie ließen niemand zu mir, außer um mir das nötigste zu bringen.
 Des Nachts brachten sie Priester zu mir, oft erst um zehn Uhr,
 die schrecklich roh und teuflisch waren. Es gab eine Rotte von
-schottischen Priestern, Presbyterianer\index{Presbyterianer},
-zusammengesetzt aus Neid
-und Bosheit, die nicht \zitat{geschickt waren, göttliche
-Dinge zu reden}
+schottischen Priestern, Presbyterianer, zusammengesetzt aus Neid
+und Bosheit, die nicht
+**"geschickt waren, göttliche Dinge zu reden"**
 und sehr schmutzige Reden führten. Aber der Herr verlieh mir
 durch seine Kraft die Herrschaft über sie alle, so das sie erkannten,
 in welchem Geist sie waren und was sie für Früchte brachten.
-Auch angesehene sogenannte \zitat{Damen} (Ladies) kamen, um den
+Auch angesehene sogenannte *Damen* (Ladies) kamen, um den
 Mann zu sehen, von dem es hieß, er müsse sterben. Während
 die Richter und Räte miteinander berieten, auf welche Art ich
 sterben solle, vereitelte der Herr in Unerwarteter Weise ihren
@@ -343,15 +325,14 @@ Anschlag, indem der Anwalt einen Einwand verbrachte, der
 alle ihre Absichten über den Haufen warf, so das sie keine
 Macht mehr hatten, mich vor Gericht zu bringen [...].
 
-## Wirken im Gefängnis von Carlisle}
+## Wirken im Gefängnis von Carlisle ##
 
 Nachdem die Richter die Stadt verlassen hatten, erhielt der
-% \picinclude{./070-079/p_s079.jpg}
+<-- % \picinclude{./070-079/p_s079.jpg} -->
 Kerkermeister Befehl, mich in den untersten Kerker zu den
 Straßenräubern, Dieben und Mördern zu werfen, obgleich ich schon
 vorher in sehr strengem Gewahrsam gewesen war. Ich kam nun
-an einen gräulichen, schmutzigen Ort, wo nicht einmal
-ein Abtritt\footnote{Eine Toilette}
+an einen gräulichen, schmutzigen Ort, wo nicht einmal ein [Abtritt][6.2]
 war, und Frauen und Männer in unziemlicher Weise
 zusammengesperrt waren, und die Gefangenen waren voll Läuse,
 so das eine
@@ -368,17 +349,17 @@ die nur ans Gitter kamen, um mich zu sehen, mit einem großen
 Knüppel. Ich konnte am Gitter hinaus steigen, um zuweilen etwas
 Fleisch herein zu langen, was ihn schrecklich bös machte. Einmal
 überkam ihn ein solcher Zorn, das er mich mit einem Knüppel
-durchprügelte und dazu schrie: \zitat{komm vom Fenster weg!} obschon
+durch prügelte und dazu schrie: **"komm vom Fenster weg!"** obschon
 ich gerade damals nicht dran war. Während er mich schlug,
 kam es in der Kraft des Herrn über mich, zu singen, was ihn
-noch wütender machte\person{Fox!singen}. Er holte einen
-Geigenspieler und lies
+noch wütender machte. Er holte einen Geigenspieler und lies
 ihn vor mir spielen, weil er meinte, mich damit zu verdrießen.
 Aber während seinem Spiel kam es über mich, in Gottes ewiger
 Kraft zu singen, und meine Stimme übertäubte den Lärm des
 Geigers, was ihn so verwirrte, das er das Spielen aufgab und
 sich davonmachte.
 
+[6.2]: "Eine Toilette"
 
 Richter Bensonts Frau fühlte sich getrieben, mich zu besuchen,
 und kein anderes Fleisch zu essen, als von dem, das man mir
@@ -394,7 +375,7 @@ Während meiner Gefangenschaft im Kerker zu Carlisle
 verbreitete sich das Gerücht von meiner wahrscheinlicher! Hinrichtung
 überall hin. Als sie im Parlament -- ich glaube es wurde das
 kleine Parlament genannt -- hörten, es sollte in Carlisle ein
-% \picinclude{./080-089/p_s080.jpg}
+<!-- % \picinclude{./080-089/p_s080.jpg} -->
 junger Mann um seines Glaubens willen hingerichtet werden,
 schrieben sie deshalb an die Magistrate.
 
@@ -402,12 +383,9 @@ Ungefähr um die gleiche Zeit schrieb ich an die Behörden
 von Carlisle, die mich ins Gefängnis geworfen und die die
 Freunde auf Anstiften der zehntengierigen Priester verfolgten:
 
-\brief{die Behörden von Carlisle}{
-> Freunde! Thomas Crafton\person{Crafton, Thomas} und
-> Cuthbert Stadholm\person{Cuthbert, Stadholm},
 
-> \bigskip
-
+> Freunde! Thomas Crafton und Cuthbert Stadholm,
+>
 > Euer Tun ist in London bei den Gutgesinnten bekannt
 > geworden. Was habt ihr alles geleistet an Gefangennehmen,
 > Güterschändungen, Metzeleien und anderen Scheuslichkeiten in den
@@ -417,49 +395,41 @@ Freunde auf Anstiften der zehntengierigen Priester verfolgten:
 > seiner Christlichkeit? ihr habt es zu schanden gemacht mit eurer
 > Blindheit, eurem tollen Treiben und eurem verkehrten Eifern.
 > War es nicht immer die Art der blinden Leiter und der falschen
-> Propheten zu zanken (Jes. 56\bibel{Jes. 56}), mit denen,
-> die ihnen den Mund
+> Propheten zu zanken (Jes. 56), mit denen, die ihnen den Mund
 > nicht füllen wollen? Seid ihr nicht die Lasttiere und Diener der
 > Priester gewesen? Wenn sie euch anspornen, das Schwert gegen
 > den Unschuldigen zu gebrauchen, so rennt ihr auf solche, die nach
 > den Befehlen der Schrift die Waffe nicht gebrauchen dürfen, los.
 > Und doch wollt ihr eure unheiligen Hände und gemeinen Lippen
 > zu Gott erheben, und gebet vor, zu fasten und seid doch voll
-> Hader und Zank (Jes. 58:4\bibel{Jes. 58:04@Jes. 58:4}).
-> Brannte nie euer Herz in euch?
+> Hader und Zank (Jes. 58:4). Brannte nie euer Herz in euch?
 > habt ihr nie über euren Zustand nachgedacht? Seid ihr ganz
 > der Lust des Teufels, dem Verfolgen, anheimgefallen? Wo ist
-> eure Feindesliebe? (Matth. 5\bibel{Matth. 05@Matth. 5}).
-> Wo ist euer Beherbergen der
-> Fremdlinge? (Matth. 25:35\bibel{Matth. 25:35}). Wie überwindet
-> ihr Böses mit
-> Gutem? (Röm. 12:21\bibel{Röm. 12:21}). Wo sind eure Lehrer,
-> die \zitat{durch heilsame Lehre die Widersprecher strafen?}
-> (Tit. 1:9\bibel{Tit. 01:09@Tit. 1:9}) [...] Leset die
+> eure Feindesliebe? (Matth. 5). > Wo ist euer Beherbergen der
+> Fremdlinge? (Matth. 25:35). Wie überwindet ihr Böses mit
+> Gutem? (Röm. 12:21). Wo sind eure Lehrer, die
+> **"durch heilsame Lehre die Widersprecher strafen?"**
+> (Tit. 1:9) [...] Leset die
 > Schrift und sehet, wie unähnlich ihr den Aposteln und Propheten
 > seid; und wie ihr denen gleichet, die die Propheten, die Apostel
 > und Christus verfolgten. Ihr gehet in ihren Fusstapfen und
-> kämpfet mit \zitat{Fleisch und Blut, nicht mit den Fürsten der Welt,
-> die in der Finsternis dieser Welt herrschen, und mit den bösen
-> Geistern unter dem Himmel} (Eph. 6:12). In keinem anderen
+> kämpfet mit
+> **"Fleisch und Blut, nicht mit den Fürsten der Welt, die in der Finsternis dieser Welt herrschen, und mit den bösen Geistern unter dem Himmel"**
+> (Eph. 6:12). In keinem anderen
 > Lande geschehen solche Gräuel, das man den Leuten ihr Gut
 > raubt, ihnen ihre Ochsen und Rinder nimmt, ihre Schafe, ihr
 > Getreide und ihr Hausgeräte und gibt es den Priestern, die doch
 > nichts für sie gearbeitet haben. Ihr seid eher Straßenräuber
-> % \picinclude{./080-089/p_s081.jpg}
+<!--  % \picinclude{./080-089/p_s081.jpg} -->
 > als Diener Gottes gegen die Freunde; ihr verklagt sie bei euren
 > Gerichten und legt ihnen Busen auf, weil sie die Gebote Christi
 > nicht übertreten, also nicht schwören wollen.
-\bigskip
-\begin{flushright}G.F.\end{flushright}
-}
 
-Anthony Pearson\person{Pearson, Anthony} and Gervase
-Benson\person{Benson, Gervase} durften mich nicht im
+Anthony Pearson and Gervase Benson durften mich nicht im
 Gefängnis besuchen, obwohl sie Friedensrichter waren. Sie
 schrieben darum an die Magistrate und Priester von Carlisle:
 
-\brief{die Behörden von Carlisle}{
+
 > Wir bezeugen, das dieser George Fox, der von den Magistraten,
 > von den Friedensrichtern, den Priestern und dem Volt
 > verfolgt wird und gegenwärtig als Gotteslästerer und Verführer
@@ -467,8 +437,7 @@ schrieben darum an die Magistrate und Priester von Carlisle:
 > ewige Evangelium verkündet; durch sein mächtiges Predigen hat
 > der große Vater der Heiligen den Blinden die Augen geöffnet,
 > den Tauben die Ohren aufgetan, die Gefangenen erlöst und die
-> Toten auferweckt (Jes. 35:5\bibel{Jes. 35:05@Jes. 35:5}).
-> Christus wird jetzt gepredigt unter
+> Toten auferweckt (Jes. 35:5). Christus wird jetzt gepredigt unter
 > den Seinen, wie er war und ist; und weil er nun, in der Gestalt
 > seines getreuen Dieners, wieder erscheint, so verfolgen ihn die
 > Abgefallenen, Fürsten, Herrscher, Priester und Volk. Nicht als
@@ -478,44 +447,35 @@ schrieben darum an die Magistrate und Priester von Carlisle:
 > Natur den Samen Gottes unterdrückte, die Verderbten suchen die,
 > in denen dieser Same aufging, gefangen zu nehmen [...]. Wie
 > Christus das, was man einem der Geringsten erweist, als ihm
-> getan ansieht (Matth. 5:25\bibel{Matth. 05:25@Matth. 5:25}),
-> also siehet er auch das, was man
+> getan ansieht (Matth. 5:25), also siehet er auch das, was man
 > ihnen nicht tut, als ihm nicht getan an. Wenn ihr nun soweit
 > geht, das ihr nicht einmal anderen gestatten wollt, einen gefangenen
 > Bruder in seinen Leiden zu besuchen, so werdet ihr in den feurigen
-> Pfuhl, der mit Schwefel brennt, geworfen
-> (Offb. 19:20\bibel{Offb. 19:20@Offb. 19:20}). Der
+> Pfuhl, der mit Schwefel brennt, geworfen (Offb. 19:20). Der
 > Herr ist gekommen, die Berge zu stürzen und zu Staub zu
-> zermalmen (Jes. 41:15\bibel{Jes. 41:15@Jes. 41:15}), und
-> er wird rächen die Unterdrückung der
+> zermalmen (Jes. 41:15), und er wird rächen die Unterdrückung der
 > Gewissen seines Volkes an allen ungerechten Herrschern, Beamten
 > und Gesetzen. Er wird seinem Volke sein Gesetz geben nicht nach
 > dem, was vor Augen ist, sondern nach Recht und Gerechtigkeit.
 > Man hat nun gesehen, wie eure Herzen voll Hass sind gegen die
 > Wahrheit Gottes, die er durch sein von der Welt verachtetes und
-> zum Spott \zitat{Quäker} genanntes Volk verkünden lässt. Ihr seid
+> zum Spott **"Quäker"** genanntes Volk verkünden lässt. Ihr seid
 > ärger als die Heiden, die Paulus ins Gefängnis warfen; denn
 > niemand hat damals seinen Freunden verboten, ihn zu besuchen,
-% \picinclude{./080-089/p_s082.jpg}
+<!-- \picinclude{./080-089/p_s082.jpg} -->
 > darum treten sie gegen euch als Zeugen auf. Es ist offenbar
 > geworden, das ihr denen gleich seid, die Christus töteten und die
 > Apostel gefangen nahmen unter dem gleichen Vorwand, nämlich
 > das sie den Irrtum Wahrheit und die Diener Gottes
-> Gotteslästerer nannten. Aber das Gericht\index{Gottesgericht},
-> das über euch kommen wird,
+> Gotteslästerer nannten. Aber das Gericht, das über euch kommen wird,
 > ist schrecklich, ihr ungerechten Magistrate und Priester und ihr
 > alle, die ihr mit Worten die Wahrheit bekennet, und doch die
 > Kraft der Wahrheit und die, die in der Wahrheit sind und für die
 > Wahrheit einstehen, verfolget. Gehet in euch, dieweil es Zeit
-> ist, und bedenket, was Jesaias 17\bibel{Jesaia 17} geschrieben steht!
-.
-\bigskip
-
-\begin{flushright}
-Geroase Benson
-Anthony Pearson
-\end{flushright}
-}
+> ist, und bedenket, was Jesaias 17 geschrieben steht!
+>
+> Geroase Benson
+> Anthony Pearson
 
 
 Bald darauf kam die Macht des Herrn über die Richter
@@ -527,8 +487,7 @@ die solches von dem Kerkermeister geschehen ließen. Sie ließen
 die Wärter in den Kerker kommen und sich für ihr Betragen
 rechtfertigen. Den Unterkerkermeister, der so grob gewesen war,
 sperrten sie darauf zu uns ins Gefängnis unter die Räuber.
-Nachdem ich nun frei war, ging ich zu Thomas
-Bewley\person{Bewley, Thomas} [...].
+Nachdem ich nun frei war, ging ich zu Thomas Bewley [...].
 Dann ging ich aufs Land und hatte viele große Versammlungen [...].
 und tausende bekehrten sich zum Herrn Jesus Christus.
 Dann ging ich nach Westmorland, [...] Durham, Hexhain [...]
@@ -537,7 +496,7 @@ Northumberland, Lancashire und Yorkshire fanden große Bekehrungen
 statt, und was Gott gepflanzt hatte, wuchs und gedieh
 unter dem Himmelsregen von oben und Gottes leuchtender
 Herrlichkeit, so das sich vieler Mund öffnete zum Lobe Gottes;
-ja: \zitat{aus dem Munde der Unmitndigen und Säuglinge
-richtete er sich eine Macht zu}
-(Psalm 8:3\bibel{Psalm 08:03@Psalm 8:3}).
-% \picinclude{./080-089/p_s083.jpg}
+ja:
+**"aus dem Munde der Unmitndigen und Säuglinge richtete er sich eine Macht zu"**
+(Psalm 8:3).
+<!--% \picinclude{./080-089/p_s083.jpg} -->
