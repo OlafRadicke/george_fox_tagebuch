@@ -31,15 +31,6 @@ epub: cleanepub cleanetmp
         ./*.md
 
 
-epubnormalize: cleanepub singledoc
-	echo "makrdown LOC:" $(wc -l ./g_fox_tagebuch.tmp.md)
-	pandoc \
-        -o ./g_fox_tagebuch.epub \
-        -t epub \
-        -f markdown \
-        --normalize \
-        ./g_fox_tagebuch.tmp.md
-
 epubsimple: cleanepub singledoc
 	pandoc \
         -o ./g_fox_tagebuch.epub \
