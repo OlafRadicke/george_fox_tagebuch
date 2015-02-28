@@ -323,17 +323,12 @@ Verhaftbefehl vorgelesen werde, denn davon hing meine Gefangenschaft
 ab. Ich hieß abermals meinen Mitgefangenen ihn lesen,
 und er tat es:
 
-\brief{Haftbefehlabschrift}
-{
+
 > Peter Ceely, einer der Friedensrichter der Grafschaft, an
 > den Kerkermeister von Seiner Hoheit Gefängnis zu Launceston:
-
-> \bigskip
-
-> \zitat{Ich sende Euch hiermit durch den Überbringer dieser
-> die Personen Edward Pyot von Bristol
-> und George Fox aus
-> Drayton-in-the-Elay in
+>
+> Ich sende Euch hiermit durch den Überbringer dieser die Personen
+> Edward Pyot von Bristol und George Fox aus Drayton-in-the-Elay in
 > Leicestershire, und William Salt
 > von London, [...] die als Quäker bekannt sind und sich
 > selber als solche bekennen;
@@ -346,13 +341,12 @@ und er tat es:
 > darum im Namen seiner Hoheit des Lord Protektor, diese Personen,
 > [...] wenn sie kommen, in Gewahrsam zu bringen und darin
 > zu lassen, bis sie gesetzlich frei gelassen werden. Versäumet
-> nicht, solches zu tun, wo anders es euch gefährlich werden könnte.}
-
-> \bigskip
-
+> nicht, solches zu tun, wo anders es euch gefährlich werden könnte.
+>
+>
 > Ausgegeben mit meiner Unterschrift und Siegel, St. Joes, den
-> 18. Januar 1655\jahr{1655}. P. Ceely.
-}
+> 18. Januar 1655. P. Ceely.
+
 
 
 Als dies vorgelesen worden war, sagte ich zu den Richtern, [...]
@@ -443,7 +437,7 @@ und nichts dergleichen fürchte; denn Christus unser Priester werde
 uns das Haus und die Mauern heiligen, er, der dem Teufel den
 Kopf zerbrochen habe [...].
 
-## Durch die Verfolgung bekommen die Quaker Aufmerksamkeit}
+## Durch die Verfolgung bekommen die Quaker Aufmerksamkeit ##
 
 Es war nun bald die Zeit der allgemeinen vierteljährlichen
 Getichtssitzung, und da der Kerkermeister sich immer noch schlecht
