@@ -492,9 +492,9 @@ Ich redete noch über vieles andere mit ihm; da aber Leute herein
 kamen, zog ich mich ein wenig zurück; als ich mich anschickte fort
 <!-- % \picinclude{./090-099/p_s094.jpg} -->
 zu gehen, faste er mich bei der Hand, und sagte mit Tränen in
-den Augen: \zitat{Komm wieder zu mir, denn wenn du und ich nur
-eine Stunde im Tage beisammen wären, so würden wir einander
-näher kommen}; und er fügte bei, er wünsche mir so wenig etwas
+den Augen:
+**"Komm wieder zu mir, denn wenn du und ich nur eine Stunde im Tage beisammen wären, so würden wir einander näher kommen"**;
+und er fügte bei, er wünsche mir so wenig etwas
 Böses als seiner eigenen Seele. Ich sagte ihm, wenn er es tun
 würde, so würde er damit seiner eigenen Seele schaden; und ich
 bat ihn, auf die Stimme Gottes zu hören, auf das er in seiner
@@ -512,44 +512,34 @@ die Kammerherrn des Lord Protektor zu speisen pflegten; ich fragte,
 warum ich hierher geführt werde? sie sagten, es geschehe auf
 Befehl des Protektor, damit ich mit ihnen speise. Ich hieß sie,
 dem Protektor sagen, das ich nicht von seinem Brote esse, noch
-von seinen Getränken trinke\index{Gasfreundschaft!ablehnen}.
-Als er dies hörte, sagte er: \zitat{nun
-sehe ich, das ein Volk entstanden und hervorgetreten ist, welches
-ich nicht zu gewinnen vermag, weder durch Gaben, noch durch
-Ehren, noch Stellen, während mir dies bei allen anderen Sekten
-und Menschen gelingt}\index{Vereinnahmung}, worauf man
-ihm entgegnete, das wir
-ja das Eigene hingeben und darum kaum nach dem Seinigen
-trachten würden [...].
+von seinen Getränken trinke. Als er dies hörte, sagte er:
+**"nun sehe ich, das ein Volk entstanden und hervorgetreten ist, welches ich nicht zu gewinnen vermag, weder durch Gaben, noch durch Ehren, noch Stellen, während mir dies bei allen anderen Sekten und Menschen gelingt"**,
+worauf man ihm entgegnete, das wir ja das Eigene hingeben und
+darum kaum nach dem Seinigen trachten würden [...].
 
-## Verleumdung in der Zeitung}
+## Verleumdung in der Zeitung ##
 
-Ich begab mich nach London\ort{London}, wo wir große und mächtige
+Ich begab mich nach London, wo wir große und mächtige
 Versammlungen hatten. Der Zudrang war so groß, das ich fast
-nicht hinein konnte,\index{Versammlung!großer Andrang}
-und die Wahrheit breitete sich ungeheuer aus.
-Thomas Aldam\person{Aldam, Thomas} und Robert
-Craven\person{Robert, Craven} und viele Freunde kamen
-nach London, um nach mir zu sehen; aber
-Alexander Parker\person{Parker, Alexander} blieb bei mir.
+nicht hinein konnte, und die Wahrheit breitete sich ungeheuer aus.
+Thomas Aldam und Robert Craven und viele Freunde kamen
+nach London, um nach mir zu sehen; aber Alexander Parker blieb bei mir.
 
 Nach einiger Zeit ging ich wieder nach Whitehall und es
 trieb mich, den Tag des Herrn unter ihnen zu verkünden und
 das der Herr gekommen sei, sein Volk selbst zu lehren, und ich
-predigte sowohl den Offizieren\index{Predigen!Soldaten}
-als denen von der Garde Olivers.
+predigte sowohl den Offizieren als denen von der Garde Olivers.
 Aber ein Priester widersprach, als ich das Wort des Herrn
 verkündete; denn Oliver hatte verschiedene Priester um sich, und
 dieser war ein Neuigkeitskrämer, ein hässlicher Priester, ein
 hinterlistiger, missgünstiger Mann; ich sagte ihm, er solle Busse tun
-% \picinclude{./090-099/p_s095.jpg}
+<!-- % \picinclude{./090-099/p_s095.jpg} -->
 und er setzte in der darauf folgenden Woche in seine Zeitung,
 ich sei in Whitehall gewesen und habe dort einem Diener Gottes
 gesagt, er solle Busse tun. Als ich wieder dorthin kam, traf ich
 ihn wieder, und viele Leute scharten sich um uns. Ich bewies
 dem Priester, das er in verschiedenen Dingen gelogen habe, und
-er musste schweigen\person{Fox!Verleumdung}. Er schrieb in der
-Zeitung\index{Zeitung}, ich habe silberne
+er musste schweigen. Er schrieb in der Zeitung, ich habe silberne
 Knöpfe; was: falsch war, denn sie waren bloß aus Blech. Ferner
 schrieb er, ich lege den Leuten Bänder um die Arme, damit sie
 mir folgen; das war wieder gelogen, denn ich hatte in meinem
@@ -570,8 +560,7 @@ infame Lügenschmied, um der Wahrheit zu schaden und um die
 Leute gegen die Freunde und die Wahrheit einzunehmen, wovon
 ein ausführlicher Bericht in einem Buche, das bald darauf
 gedruckt wurde, kann ersehen werden. Diese lügnerischen Priester
-waren Independenten\index{Independenten}, wie die zu
-Leicester; aber des Herrn
+waren Independenten, wie die zu Leicester; aber des Herrn
 Kraft vernichtete alle ihre Lügen, und viele kamen dazu, die
 Schlechtigkeit der Priester einzusehen. Der Herr des Himmels
 brachte mich durch seine Kraft durch alles hindurch, und seine
@@ -585,10 +574,9 @@ seiner Familie; ich versuchte zu ihm zu gehen, aber ich bekam
 keinen Zutritt, die Wachen waren so unfreundlich.
 
 
-Die Presbyterianer\index{Presbyterianer}, Independenten
-und Baptisten\index{Baptisten} waren sehr
+Die Presbyterianer, Independenten und Baptisten waren sehr
 erzürnt, denn viele bekehrten sich zum Herrn Jesus Christus und
 hörten seine Lehre. Sie empfingen seine Kraft und spürten sie
-% \picinclude{./090-099/p_s096.jpg}
+<!-- % \picinclude{./090-099/p_s096.jpg} -->
 in ihren Herzen, und das trieb sie, gegen die übrigen
 aufzutreten.

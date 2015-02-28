@@ -1,0 +1,792 @@
+
+<!-- % \picinclude{./100-109/p_s104.jpg}
+
+%%%%%%%%%%%%%%%%%%% Kapitel 9. %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  -->
+
+# Angriffe der Independenten und Presbyterianer. Ahnungen, Heilungen, Bekehrungen. Dispute über Taufe und Erwählung. Gefangennahme auf Grund angeblicher Verschwörungen. Wirken während der Gefangenschaft. #
+
+
+## Zaubereivorwürfe und Besuch in der Heimat ##
+
+Nachdem ich meine Arbeit in London getan, ging ich nach Bedfordshire und
+Northamptonshire. In Wellingborough hatte ich eine grose Versammlung [...].
+Die *Frommen* waren in großer Aufregung hier, den die bösen Priester der
+Presbyterianer und Independentens hatten fälschlich ausgestreut, wir trügen
+Flaschen mit uns herum, aus denen wir den Leuten zu trinken
+geben, damit sie uns nachfolgen; aber die Kraft und der Geist
+Gottes liesen die Freunde über diesen falschen Gerüchten stehen [...].
+
+
+Von Wellingborough ging ich nach Leicestershire,
+wo Oberst Hacker drohte, wenn ich hierher
+käme, würde er mich wieder gefangen nehmen lassen; aber als
+ich nach Whetstone kam, wo er mich das letzte Mal in der Versammlung
+hatte festnehmen lassen, war alles ruhig. Oberst Hackers Frau kam
+in die Versammlung und wurde bekehrt, [...] es waren auch zwei Friedensrichter
+in dieser Versammlung, aus Wales, namens Walter Jenkin und Peter Price,
+die beide später treue Diener des Herrn wurden.
+
+Von da gingen wir nach Sileby [...] und dann nach
+Drayton, meiner Heimat, wo früher so viele Priester und *Fromme* gegen
+mich aufgetreten waren, jetzt aber rührte sich keiner. Ich fragte
+einen meiner Verwandten, wo alle Priester
+und *Frommen* seien? Man sagte mir, der Priester von
+Nun~Caton sei gestorben, und nun bewerben sich acht oder neun um seine Stelle.
+**"Sie werden dich diesmal in Ruhe lassen"**, sagten sie zu mir,
+**"denn wie die Krähen sich um ein totes Schaf scharren, so tun die Priester, wenn eine Pfründe frei ist"**.
+Das waren von ihren eigenen Zuhörern, die so redeten! [...].
+
+## Begegnung mit Naylor ##
+
+Als ich nach Derbshire kam, kam James Naylor zu mir
+und sagte mir, sieben oder acht Priester hätten ihn zu einer
+Unterredung aufgefordert. Ich war nun seinetwegen sehr
+bekümmert in meinem Geist, und der Herr gebot mir ihm zu sagen,
+er solle der Aufforderung folgen; denn der Herr der Allmächtige
+wolle bei ihm sein und ihm durch feine Kraft den Sieg geben.
+<!-- % \picinclude{./100-109/p_s105.jpg} -->
+Und der Herr tat es, so das die Leute merkten, das die Priester
+geschlagen waren; und sie riefen:
+**"ein Nagler (Naylor engl.: Nagler) hat sie alle zu Grunde gerichtet!"**
+Er kam nach dem Disput zu mir voll Dank gegen Gott [...].
+
+Nun zogen wir durch Worrestershire; ich hatte in Birmingham eine
+Versammlung [...]. Dann kamen wir nach Worcester [...]. Von da
+nach Tewkesbury [...]. Dann nach Warwirk, wo ich im Hause einer Witwe
+eine Versammlung hatte [...].
+Nach derselben, als ich gerade fort gehen wollte, [...] kam ein
+Gerichtsdiener herein und fragte: \zitat{Wen hören die Leute zu so
+später Stunde?} Er verhaftete John Crook, Amor Stoddart,
+Gerrard Roberts und mich, erlaubte uns jedoch in unsere Herberge zu
+gehen; nur sollten wir am Morgen wiederkommen [...].
+
+
+Aber am nächsten Morgen hieß es, wir können unsrer Wege
+gehen [...]. Nun gingen wir weiter nach Coventry, [...]
+dann durch Leicestershire nach Swannington und Baldock. Hier
+fragte ich, ob keinerlei Art von besonderem Bekenntnis vertreten
+sei? Es hieß, es gebe einige Baptisten und
+eine kranke Baptistenfrau. John Rush ging mit mir zu ihr [...]. Als wir zu
+ihr kamen, waren viele fromme Leute bei ihr. Man sagte mir,
+diese Frau gehöre nicht mehr diesem Leben an; wenn ich ihr aber
+etwas über das zukünftige sagen könne, so solle ich es tun. Der
+Herr trieb mich, zu ihr zu reden, und sie erholte sich wieder,
+zum Erstaunen der Stadt und des ganzen Landes. Diese
+Baptistenfrau und ihr Mann wurden gewonnen, und viele Hunderte
+von Leuten haben sich seither in ihrem Hause versammelt [...].
+
+
+Wir gingen nun über Market Street [...] und St.~Albans
+nach London [...]. Nachdem ich mich einige Zeit in London
+aufgehalten hatte und die dortigen Freunde in ihren
+Versammlungen besucht hatte, verließ ich die Stadt, wo ich James Naylor
+zurückließ. Als ich mich von ihm trennte, fiel mein Blick auf
+ihn und eine Angst befiel mich seinetwegen, aber ich ging doch
+weg und ritt nach Newgate in Surrey [...].
+
+## Baptisten überlassen den Quäkern nicht ihr Versammlungshaus ##
+
+Von da gingen wir nach Dorchester und stiegen in einer
+Herberge, die einem Baptisten gehörte, ab; wir baten die in der
+Stadt wohnenden Baptisten, uns ihr Versammlungshaus zu
+überlassen, damit wir in demselben Versammlungen halten könnten,
+aber sie verweigerten es; wir ließen sie fragen, warum sie es
+verweigerten; dadurch ward die Sache in der Stadt ruchbar.
+<!-- % \picinclude{./100-109/p_s106.jpg} -->
+Wir ließen ihnen nun sagen, das sie und alle, die Gott fürchteten,
+in unsere Herberge kommen könnten, wenn sie wollten. Sie
+waren in großer Aufregung, und viele ihrer Lehrer und andere
+von ihren Leuten kamen in unsere Herberge und schlugen mit den
+Bibeln auf die Tische. Ich fragte sie, worüber sie denn so aufgebracht
+seien, ob sie gegen die Bibel so aufgebracht seien? Da
+fingen sie an mit Auseinandersetzungen über ihre Wassertaufe.
+Ich fragte sie, ob sie behaupten könnten, von Gott gesandt zu
+sein, die Leute zu taufen, wie Johannes (Joh. 1:6) und ob sie
+den gleichen Geist haben wie die Apostel? Sie sagten: nein.
+Darauf fragte ich sie, wie vielerlei Kräfte es denn gebe! ob es
+noch andere gebe als die Kraft Gottes und die des Teufels?
+Sie sagten, es gebe keine andere außer diesen beiden; darauf
+sagte ich:
+**"Wenn ihr nicht die Kraft Gottes habt, welche auch die Apostel hatten, dann handelt ihr in der Macht des Teufels."**
+Viele der Anwesenden, die nüchterne verständige Leute waren,
+sagten:
+**"die Baptisten treten den Rückzug an!"**
+Viele angesehene
+Leute wurden an dem Abend gewonnen, und wir hatten einen
+köstlichen Gottesdienst und des Herrn Kraft war über allen. Am
+folgenden Morgen, als wir fortgingen, schüttelten die Baptisten in
+ihrer Wut hinter uns her den Staub von ihren Füßen. \zitat{So}
+sagte ich,
+**"ihr tut solches in der Macht der Finsternis? dann tun wir es auch gegen euch, aber in der Kraft Gottes."**
+Wir verließen Dorchester und gingen nach Weymouth [...].
+
+
+Es war ein Kaoalleriehauptmann in der Stadt, der mich zu sich
+kommen lies und mich gerne länger gehalten hätte; aber ich
+durfte nicht länger bleiben. Er und ein Diener ritten etwa
+sieben Meilen mit mir; Edward Pyot war auch dabei. Dieser
+Hauptmann war der behäbigste, fröhlichste, leutseligste und
+lachlustigste Mensch, der mir je begegnete, so das es mich einige Male
+trieb, ihm in der gewaltigen Kraft des Herrn zuzusprechen, aber
+es war ihm so zur Gewohnheit geworden, das er immer wieder
+über alles, was er sah, lachte. Aber ich ermahnte ihn immer
+wieder, ernsthaft zu werden und gottesfürchtig. Wir brachten die
+Nacht in einem Wirtshaus zu; am Morgen trieb es mich, noch
+einmal mit ihm zu reden, ehe wir uns trennten. Als ich ihn
+das nächste Mal sah, teilte er mir mit, das die Kraft des Herrn
+ihn so übernommen habe, während ich damals mit ihm redete
+beim Abschied, das er ganz ernsthaft geworden sei, ehe er heim
+<!-- % \picinclude{./100-109/p_s107.jpg} -->
+kam und sein Lachen gelassen habe; er bekehrte sich später und
+wurde ernsthaft und gut und starb in der Wahrheit [...].
+
+
+Wir kamen nach Kings Bridge, wo wir in unsrer Herberge
+nach den Ernstgesinnten in der Stadt fragten. Sie schickten uns
+zu Nieclas Tripe und seiner Frau und wir gingen dorthin. Sie
+ließen den Priester holen, mit dem wir uns längere Zeit unterredeten,
+aber da er unterlag, verließ er uns bald. Nicolas
+Tripe und seine Frau wurden gewonnen; und seitdem kommen in jener Gegend
+häufig Freunde zusammen.
+
+
+Als wir am Abend in unsere Herberge kamen und viele dort antrafen, welche
+tranken, trieb mich der Herr zu ihnen zu gehen und sie auf das Licht
+hinzuweisen, welches Christus ihnen allen angezündet habe, durch das
+sie ihr böses Tun erkennen könnten, ihre bösen Reden und auch
+Jesus Christus ihren Heiland. Dem Wirt wurde es unbehaglich,
+weil er sah, das ich seine Leute vom Trinken abhielt, und sowie
+ich die letzten Worte geredet, nahm er ein Licht und
+sagte:
+**"Kommt, hier ist ein Licht, mit dem ihr in euer Zimmer gehen könnt."**
+Am nächsten Morgen, als er abgekühlt war, stellte ich ihm vor, wie
+unziemlich er sich benommen hatte und ermahnte ihn beim Abschied,
+an den Tag des Herrn zu denken [...].
+
+## Erneute Verhaftung ##
+
+Wir zogen durch Penryn nach Helston [...] und von da nach
+Market-Jew, wo wir in eine Herberge gingen [...]. Am nächsten Morgen
+versammelten sich die Behörden und schickten ihre Konstabler, um
+uns vor sie zu holen. Wir fragten sie nach dem Verhaftbesehl;
+sie sagten, sie hätten keinen; [...] es kamen auch mehrere
+andere höhere Beamte, und wir stellten ihnen Vor, was das für
+ein schmähliches Betragen sei, Reisende in ihrer Herberge zu
+behelligen [...]. Ehe wir die Stadt verließen, verfasste ich noch
+ein Schreiben an die sieben Gemeinden in Lands-End. Es hieß
+darin zum Schluss:
+
+
+> Nützet eure Zeit, dieweil sie euch gegeben
+> ist; denn jetzt ist
+> **"eure angenehme Zeit, jetzt ist euer Tag des Heils"** (2. Cor. 6:2).
+> In einem jeden von Euch ist ein Licht
+> von Christus, das euch zeigt, das ihr nicht lügen, nicht unrecht
+> tun, nicht schwören, nicht fluchen, nicht stehlen, noch Gottes Namen
+> missbrauchen sollt. Wenn ihr dieses Licht lieb habt und ihm
+> folgt, so wird es euch zu Christus führen, welcher der Weg zum
+> Vater ist, dem Vater des Lichts, bei welchem nichts Ungöttliches
+> ist. Wenn ihr dieses Licht hasset, so wird es euch zum Verderben
+> werden; wenn ihr es aber liebt, so bringt es euch ab von
+<!-- % \picinclude{./100-109/p_s108.jpg} -->
+> den Lehrern der Welt, damit ihr von Christus lernt, und
+> bewahrt euch vor dem Unrecht der Welt und allen ihren
+> Verführern.
+>
+> G. F.
+
+Dieses Schreiben trug ein Freund, der mich begleitete, bei
+sich; als wir nun etwa drei Meilen von Market-Jew gegen
+Westen weiter gegangen waren, begegnete er einen Mann, dem
+er eine Abschrift davon gab. Es stellte sich heraus, das dieser
+Mann ein Diener vom Gefolge des Peter Ceely war, des
+Obersten der Armee und Friedensrichters jener Gegend. Der Mann
+ritt nun voraus und zeigte das Schreiben dem Major Ceely. Als
+wir nach St. Ives kamen, verlor Edward Pyots Pferd ein Hufeisen
+und wir hielten an, um es wieder beschlagen zu lassen.
+Währenddessen ging ich zum Meeresstrand hinunter. Als ich zurück kam,
+fand ich die Stadt in Aufruhr, und sie schleppten eben Edward
+Pyot und einen andern vor Major Ceely. Ich folgte ihnen ins
+Richthaus, obgleich mich niemand dazu zwang. [...] Man
+legte uns den Abschwörungseid vor, worauf ich meine Hand in
+die Tasche steckte [...]. Major Ceely hatte einen albernen
+Priester bei sich, der uns viele nichtssagende Fragen stellte; unter
+andrem verlangte er, ich solle mein Haar, das damals ziemlich
+lang war, schneiden lassen, aber ich mochte es nicht schneiden
+lassen, obgleich viele sich oft daran stießen; ich sagte ihnen, ich
+sei ja nicht stolz darauf, und ich lasse es ja nicht selber wachsen.
+Zuletzt übergab man uns einer Wache, die so grob gegen uns
+war, wie der Richter selber; dessen ungeachtet verkündeten wir
+die Wahrheit unter den Leuten.
+
+
+Am folgenden Morgen sandte
+man uns unter Bewachung mehrerer Berittener, die mit Schwertern
+und Pistolen bewaffnet waren, nach Redruth [...] und von da
+wurden wir nach Laimceston gebracht [...].
+Es waren noch 9 Wochen, bis wir vor Gericht erscheinen
+mussten, wozu dann viel Volk herbei strömte, um das Verhör der
+Quäker zu hören. Hauptmann Bradden war in Launeeston mit
+seiner Reiterei, und seine Leute geleiteten uns durch die
+Volksmenge, welche die Straßen füllte, und es war kein Geringes, uns
+hindurchzubringen; auch an allen Fenstern und Türen standen
+Leute, die uns sehen wollten.
+
+## Gerichtsverhandlungen mit falschen Anschuldigungen ##
+
+Im Gerichtshof angekommen,
+warteten wir eine Weile, den Hut auf dem Kopfe; niemand
+bekümmerte sich um uns, zuletzt trieb es mich zu sagen:
+**"Friede sei mit Euch."** Da fragte Richter Glynne,
+damals Ober-Richter
+<!-- % \picinclude{./100-109/p_s109.jpg} -->
+von England, den Wörter:
+**"was sind das für Leute, die ihr in den Gerichtshof gebracht habt?"**
+**"Gefangene, Herr,}"** antwortete dieser.
+**"Warum nehmt ihr eure Hüte nicht ab?"** fragte
+uns der Richter; wir antworteten nichts.
+**"Nehmt eure Hüte ab!"** wiederholte der Richter, wir sagten wieder nichts; der
+Richter sagte:
+**"der Rat befiehlt euch, die Hüte abzunehmen."**
+Nun redete ich und sagte:
+**"Wann hat je ein Richter, König oder sonst eine obrigkeitliche Person von Moses bis Daniel, bei den Juden, dem Volke Gottes, oder bei den Heiden, je befohlen, das man den Hut abnehme, wenn man vor Gericht erscheint? und wenn das Gesetz von England irgend etwas derartiges befiehlt, so zeiget uns dieses Gesetz irgendwo geschrieben oder gedruckt."**
+Da wurde der Richter sehr zornig und sagte:
+**"ich trage mein Gesetzbuch nicht auf dem Rücken!"**
+**"So nenne mir irgend ein Buch, welches Statuten darüber enthält, das ich es lesen kann,"**
+sagte ich. Da gebot der Richter:
+**"führt den Kerl weg! ich will ihn züchtigen"**,
+und sie führten uns fort, zu den Dieben hinunter.
+Doch gleich darauf rief er den Gefangenwärter wieder, und
+gebot ihm, uns wieder zu bringen. Dann sagte er:
+**"hatten sie denn etwa Hüte zur Zeit des Moses und Daniels? antwortet mir! nicht wahr, nun habe ich euch erwischt!"**
+Ich erwiderte:
+**"Du kannst Daniel 3 lesen, das die drei Männer auf Befehl des Nebukadnezar »in Rock, Hosen und [Hut][9.1]« in den Feuerofen geworfen wurden"**.
+Dieses einfache Beispiel machte ihn verstummen,
+so das er, weil er nichts mehr zu sagen wusste, rief:
+**"führet sie wieder fort!"** so wurden wir denn
+wieder zu den Dieben hinunter gebracht.
+
+[9.1]: "Anmerkung: von Hüten steht in den gängigen Übersetzungen nichts"
+
+Am Nachmittag wurden wir wieder vor Gericht
+gebracht [...]. Als wir dort warteten, bis wir an die Reihe
+kamen, und ich die Menge derer, die hier schwörten, sah, betrübte
+es mich, das so viele, die sich für Christen ausgaben, so offen
+dem Gebot Christi ungehorsam waren, und der Herr trieb mich,
+ein Blatt auszuteilen gegen das Schwören, welches ich bei mir
+trug [...].
+Dieses Blatt machte die Runde bei den Gerichtspersonen, und
+sie gaben es zuletzt dem Richter, und als wir nun vor ihn
+gerufen wurden, fragte er mich, ob dieses verführerische Blatt mein
+sei? Ich antwortete: wenn sie es vor dem ganzen Hofe vorlesen
+wollen, so höre ich, ob es mein sei, und dann wolle ich auch
+dazu stehen. Er wollte, das ich es nehme und für mich durchlese.
+<!-- % \picinclude{./110-119/p_s110.jpg} -->
+Ich wiederholte, man solle es vorlesen, damit alle urteilen
+könnten,
+ob etwas Verführerisches darin sei, in dem Falle wolle ich dafür
+leiden. Schließlich lass es der Angestellte mit lauter Stimme, das
+alle es hören konnten; als er fertig war, sagte ich:
+**"ja, es ist mein Blatt, ich stehe dazu, und ihr müsst auch dazu stehen, wennvihr nicht die Schrift verleugnen wollt, denn ist es denn nicht, wasvdie Schrift sagt, und Christus und die Apostel, denen alle wahren Christen gehorchen müssen?"**
+Nun ließen sie den Gegenstand
+fallen, und der Richter kam wieder auf unsere Hüte zurück und
+hieß den Kerkermeister sie uns abnehmen, dieser tat es; aber wir
+setzten sie wieder auf [...]. Der Richter hielt nun eine lange
+Rede über den Lord Protektor, wie er ihn zum obersten Richter
+in England gesetzt, und ihn hierhergeschickt, und dergleichen mehr.
+Wir baten ihn, er solle uns Gerechtigkeit erzeigen nach unserer
+ungerechten Gefangenschaft diese neun Wochen; statt dessen aber
+brachten sie eine Anklage vor, die sie gegen uns zusammengesetzt
+hatten, so voll Lügen, das ich meinte, sie richte sich gegen einen
+Dieb: wir seien nur mit Waffengewalt und nach großem Widerstand
+hierher gebracht worden! und doch waren wir, wie oben
+gemeldet, gekommen. Ich sagte ihnen, das sei falsch und wir
+wiederholten unser Gesuch um Gerechtigkeit; die Gefangennahme,
+sagte ich, sei ungerecht, denn ich sei auf der Reise von Major
+Ceely festgenommen worden. Nun redete Peter Ceely mit dem
+Richter und sagte, auf mich zeigend:
+**"Erlaubt mein Herr, dieser Mann nahm mich bei Seite und sagte, er könne in einer Stunde vierzigtausend Mann stellen und das Land in Blut stürzen und König Karl zurückbringen, und ich könne ihm dabei behilflich sein. Ich wollte ihm aus dem Lande helfen, aber er wollte nicht gehen; ich habe Zeugen, dies zu beschwören"**,
+und er rief den
+Zeugen auf. Aber der Richter war nicht gewillt, ihn anzuhören,
+und so bat ich, man möchte meine Anklage, auf Grund deren
+ich verhaftet sei, vorlesen; der Richter sagte:
+**"nein, sie soll nicht vorgelesen werden"**,
+[...] als ich sah, das man sie nicht lesen
+wollte, sagte ich zu einem meiner Mitgefangenen,
+**"du hast eine Abschrift davon, lies die vor."**
+**"Kerkermeister"**, sagte hierauf der Richter,
+**"führ ihn sort! wir wollen doch sehen, wer hier Meister ist, er oder ich!"**
+und so wurde ich hinweg geführt. Als ich
+wieder gerufen wurde, bestand ich wiederum darauf, das mein
+Verhaftbefehl vorgelesen werde, denn davon hing meine Gefangenschaft
+<!-- % \picinclude{./110-119/p_s111.jpg} -->
+ab. Ich hieß abermals meinen Mitgefangenen ihn lesen,
+und er tat es:
+
+\brief{Haftbefehlabschrift}
+{
+> Peter Ceely, einer der Friedensrichter der Grafschaft, an
+> den Kerkermeister von Seiner Hoheit Gefängnis zu Launceston:
+
+> \bigskip
+
+> \zitat{Ich sende Euch hiermit durch den Überbringer dieser
+> die Personen Edward Pyot von Bristol
+> und George Fox aus
+> Drayton-in-the-Elay in
+> Leicestershire, und William Salt
+> von London, [...] die als Quäker bekannt sind und sich
+> selber als solche bekennen;
+> sie haben Verschiedene Blätter verbreitet, die den öffentlichen
+> Frieden gefährden, und können keinen gesetzlichen Grund für ihr
+> Erscheinen in dieser Gegend angeben, sie sind gänzlich unbekannt
+> in dieser Gegend, haben keinen Pass, weigern sich, irgendwelche
+> Beweise ihres guten Wandels zu geben, die das Gesetz verlangt,
+> und weigern den Abschwörungseid zu leisten. Wir befehlen euch
+> darum im Namen seiner Hoheit des Lord Protektor, diese Personen,
+> [...] wenn sie kommen, in Gewahrsam zu bringen und darin
+> zu lassen, bis sie gesetzlich frei gelassen werden. Versäumet
+> nicht, solches zu tun, wo anders es euch gefährlich werden könnte.}
+
+> \bigskip
+
+> Ausgegeben mit meiner Unterschrift und Siegel, St. Joes, den
+> 18. Januar 1655\jahr{1655}. P. Ceely.
+}
+
+
+Als dies vorgelesen worden war, sagte ich zu den Richtern, [...]
+mich an Major Ceely wendend: \zitat{Wo und wann habe ich dich
+beiseite genommen? [...] und wenn du mein Ankläger bist,
+warum sitzest du auf der Richterbank? du solltest herunter kommen
+und mir ins Gesicht sehen. Übrigens möchte ich fragen, ob nicht
+Major Ceely sich des Verrats schuldig machte, dessen er mich
+anklagt, durch sein langes Schweigen? Kennt er seinen Platz als
+Soldat wie als Friedentzrichter? denn [...] wenn ich ihn beiseite
+genommen, um ihm zu sagen, ich könne vierzigtausend Mann stellen,
+und so weiter, [...] so sehet ihr deutlich, das er ja in dieser
+Verschwörung beteiligt gewesen wäre, indem er mich [...] aus
+der Gegend forthaben wollte [...] und den Verrat nicht früher
+entdeckte. Aber ich leugne seine Aussagen und bin unschuldig an
+diesem teuflischen Plan.}
+
+
+Die Richter ließen nun die Sache fallen,
+denn sie sahen das, anstatt das sie mich in eine Falle gelockt hatten,
+ich selber ihnen eine gestellt hatte. Major Ceely behauptete nun,
+ich habe ihm ins Gesicht geschlagen [...]. Ich fragte ihn, ob er
+sich als Richter und Soldat nicht schäme, solches zu sagen [...].
+Schließlich, als die Richter sahen, das diese Fallen nichts nutzten,
+% \picinclude{./110-119/p_s112.jpg}
+ließen sie uns wieder ins Gefängnis führen und forderten von
+jedem zwanzig Goldstücke, weil wir den Hut aufbehalten [...].
+
+## Misshandlung in der Haft}
+
+Als das Urteil so lautete, das keine baldige Freilassung
+zu erwarten war, hörten wir auf, dem Wörter wöchentlich
+7 Schilling für unsere Pferde und 7 für uns selber zu geben;
+daraufhin wurde er böse und ganz teuflisch und brachte uns nach
+Doomsdale hinunter, einen greulichen, stinkenden
+Ort wohin die
+Mörder nach der Verurteilung gebracht wurden. Der Ort war
+sehr ungesund, so das wenige, die sich hier aufhalten mussten,
+wieder gesund heraus kamen; es war kein Abtritt da, und der
+Unrat der Gefangenen war seit Jahren nie hinausgeschafft worden.
+Es war ein förmlicher Sumpf darin, stellenweise bis über die
+Schuhe, von dem Unrat; und man erlaubte uns nicht, rein zu
+machen oder uns Betten oder Stroh zum drauf liegen zu
+verschaffen. Am Abend brachten uns einige Bekannte aus der Stadt
+ein Licht und etwas Stroh, um drauf zu liegen; wovon wir einiges
+verbrannten, um den Gestank zu vertreiben. Die Diebe schliefen
+gerade über uns und der Wärter in einem Zimmer daneben.
+Scheints drang der Rauch ins Zimmer des Wärters; er geriet
+in einen solchen Zorn, das er die
+Nachtgeschirre\footnote{Anmerkung: Nicht klar, was gemeint
+ist} der Diebe nahm,
+und sie durch ein Loch gerade auf unsere Köpfe ausleerte; wir
+waren so beschmiert davon, das wir weder einander noch uns selber
+anrühren konnten; und der Gestank war so arg, das wir fast
+darin erstickten. Vorher hatten wir den Gestank zu unsern Füßen
+gehabt, jetzt hatten wir ihn auch auf den Köpfen und am Rücken;
+und da unser Stroh von dem heruntergeworfenen Dreck beschmutzt
+war, so verbreitete es einen greulichen Dunst. Zudem fluchte der
+Wärter grässlich über uns und nannte uns \zitat{hackengesichtige
+Hunde}; und andere merkwürdige Namen, die wir noch nie gehört.
+
+In
+diesem Zustand gingen wir fast zu Grunde während der Nacht,
+denn wir konnten nicht einmal absitzen, alles war so voll Unrat.
+Wir mussten lange in dem Zustand ausharren, bis uns gestattet
+wurde, reinzumachen und uns andere Lebensmittel zu verschaffen als
+das, was durchs Gitter kam.
+
+Einmal brachte ein Mädchen uns etwas
+Essen; der Wärter arretierte es und führte es vor Gericht, weil
+es ins Gefängnis eingedrungen sei, und es geriet in große Not;
+dadurch wurden viele andere entmutigt, so das es uns schwer
+wurde, uns Wasser oder Lebensmittel zu verschaffen. Wir ließen
+nun eine junge Frau aus Londen kommen, Anna
+Downer, damit
+% \picinclude{./110-119/p_s113.jpg}
+sie uns das Essen kaufe und zubereite; sie war dazu bereit, denn
+es war über sie gekommen, zu uns zu kommen in der Liebe
+Gottes, und sie war sehr dienstfertig gegen uns [...].
+
+
+Die Gefangenen und einige andere verschrobene Leute berichteten
+von Gespenstern, die in Doomsdale umgingen, und von
+den vielen, die hier gestorben seien, um einen damit angst zu
+machen. Aber ich sagte, das, wenn auch alle Geister und Teufel
+der Hölle dort seien, ich darüber stehe, durch die Kraft Gottes,
+und nichts dergleichen fürchte; denn Christus unser Priester werde
+uns das Haus und die Mauern heiligen, er, der dem Teufel den
+Kopf zerbrochen habe [...].
+
+## Durch die Verfolgung bekommen die Quaker Aufmerksamkeit}
+
+Es war nun bald die Zeit der allgemeinen vierteljährlichen
+Getichtssitzung, und da der Kerkermeister sich immer noch schlecht
+gegen uns benahm, setzten wir einen Bericht über unsere Leiden
+auf und schickten ihn zur Gerichtssitzung nach Bodmin.
+\index[brief]{Protesprief an das Gericht in Bodmin} Als die
+Richter ihn gelesen, gaben sie den Befehl, das die Türen von
+Doomsdale geöffnet werden sollten und man uns erlaube, rein
+zu machen und unsere Nahrung in der Stadt zu kaufen. Wir
+sandten eine Abschrift unseres Leidensberichts an den Protektor
+\index[brief]{Protesprief an den Protektor}
+und erzählten ihm, wie wir von Major Ceely verhaftet und
+verurteilt worden waren, und wie uns der Kerkermeister misshandelt
+hatte. Der Protektor schickte einen Befehl an Hauptmann Fox,
+
+den Befehlshaber von Schloss Pendennis, das er untersuche, wie
+es sich mit den Soldaten, die uns misshandelten, verhalte [...].
+
+
+Solches war der Sache des Herrn sehr förderlich; denn
+nachher konnten die Freunde in jedem Turmhaus oder Marktplatz
+reden und es tat ihnen niemand etwas. Ich hörte, das
+Hugh Peters, einer der Kapläne des
+Protektor, diesem gesagt habe,
+man könne dem George Fox keinen größeren Dienst zur
+Ausbreitung seiner Ansichten in Cornwall tun,
+als ihn in Cornwall
+einzusperren. Und wirklich kam meine Gefangennahme in Cornwall
+vom Herrn zur Förderung seiner Sache in dieser Gegend; denn
+als es nach der Gerichtssitzung hieß, wir würden gefangen bleiben,
+kamen Freunde aus allen Teilen des Landes, um uns zu besuchen.
+
+
+
+Diese westlichen Gegenden waren damals sehr in Finsternis, aber
+das Licht und die Kraft und die Wahrheit des Herrn brachen
+nun hervor und leuchteten über allen, und viele bekehrten sich
+von der Finsternis zum Licht und von der Macht
+des Satans
+zu Gott. Es trieb viele, in die Turmhäuser zu gehen, und viele
+% \picinclude{./110-119/p_s114.jpg}
+besuchten uns, denn wir durften nun umher gehen im Schlosshof,
+und an den Ersten Tagen kamen viele zu uns, denen wir das
+Wort des Lebens brachten [...].
+
+In Cornwall, Devonshire, Dorfetshire und Somersetshire
+fing die Wahrheit an mächtig zu sprießen, und viele bekehrten sich
+zur Christus; viele Freunde fühlten sich getrieben, die Wahrheit
+in diesen Gegenden zu verkünden, was die Priester und die
+*Frommen* sehr aufbrachte, so das sie die Behörden anstifteten,
+den Freunden Fallen zu stellen. Sie stellten Wachen auf den
+Landstraßen, unter dem Vorwand, alle verdächtigen Personen
+abzufassen, sie ergriffen nun daraufhin Freunde, die vorbeikamen,
+um uns im Gefängnis zu besuchen [...]. Aber gerade das,
+was sie taten, um der Wahrheit Einhalt zu tun, diente dazu, sie
+auszubreiten; denn dadurch wurden die Freunde oft getrieben, zu
+den Konstablern oder den Behörden, vor die sie gebracht wurden,
+zu reden, was viel dazu beitrug, das die Wahrheit sich in allen
+Distrikten ausbreitete. Oft wenn Freunde in die Hände der
+Wachen gerieten, ging es zwei oder drei Wochen, ehe sie wieder
+frei wurden.
+
+
+Als Thomas Rawlinson aus dem
+Norden her kam, um uns
+zu besuchen, ergriff ihn ein Konstabler in Devonshire und nahm
+ihm nachts zwanzig Schilling aus der Tasche, und darauf wurde
+er zu Exeter ins Gefängnis geworfen.
+Henry Pollexfen warfen
+sie auch ins Gefängnis, weil er ein Jesuit sei [...]. Viele
+Freunde wurden von ihnen misshandelt; ja Leute, die an ihrer
+Arbeit waren, wurden von ihnen gepeitscht und ergriffen, und
+es waren doch solche darunter, die eine Einnahme von mehr
+als achtzig und hundert Pfund im Jahr hatten; und zwar
+geschah ihnen solches, wenn sie kaum vier oder fünf Meilen von
+zu Hause weg waren. Unter dem Eindruck all des Bösen, das
+mit dem Aufstellen der Wachen und dem Gefangennehmen der
+Freunde beabsichtigt war, kam es über mich folgendes zu schreiben:
+
+
+> Eine Mahnung und Warnung an die Behörden.
+>
+> Ihr Mächte der Erde, Christus ist gekommen um zu regieren,
+> und er ist unter euch, und ihr kennet ihn nicht; er erleuchtet einen
+> jeden unter euch, damit ihr alle an ihn glauben möchtet, an
+> das Licht; an den **"der die Kelter allein tritt"**. Darum prüfet
+> alle in diesem Lichte, ob ihr reif seid, denn die Kelter ist bereit.
+> (Offb. 14:19) [...].
+<!--  % \picinclude{./110-119/p_s115.jpg} -->
+> Ihr verkündet Gewissensfreiheit; und doch darf man seinen
+> Freunden keine Briefe bringen, oder seine Freunde oder die
+> Gefangenen besuchen, oder ihnen Bücher bringen, ohne das ihr
+> Wachen ausstellt, um sie anzuhalten und zu greifen; und sogar
+> bewaffnet müssen diese sein gegen die guten Leute, die kaum
+> einen Stock mit sich tragen, und die ihr aus Groll Quäker nennt.
+> Und die, welche diese Wachen aufstellen, die verkünden
+> Gewissensfreiheit und nehmen solche gefangen, die
+> ihr Gewissen gegen Gott
+> und gegen die Menschen rein erhalten wollen, die Gott im Geist
+> und in der Wahrheit anbeten, was die, welche nicht im Licht sind,
+> Ketzerei nennen! [...] Ist je solch ein Geschlecht gewesen, das
+> so wahnsinnig schlecht und verfolgungssüchtig war und Bewaffnete
+> ausstellte gegen die Wahrheit und sie verfolgte, wie Grafschaften
+> und Städte es jetzt tun? das klingt wie Sodom und Gomorrha!
+
+
+Es kam mir eine Abschrift eines von der Sitzung von Exeter
+ausgehenden Verhaftbefehls in die Hände, der in starken
+Ausdrücken verlangte, **"alle Quäker zu verhassten"**,
+und der die Wahrheit und die Freunde schlecht machte;
+da trieb es mich, eine
+Antwort zu schreiben und zu verbreiten, um die Freunde und
+die Wahrheit gegen solche Verleumdungen
+zu verteidigen, und die Schlechtigkeit und Bosheit
+des Verleumdungsgeistes zu zeigen [...].
+
+## Erneute Gerichtsverhandlungen ##
+
+Wir blieben im Gefängnis bis zur nächsten Sitzung; viele
+Freunde, Männer und Frauen, die von der Wache ergriffen
+worden waren, waren ins Gefängnis gebracht worden. Viele
+von ihnen wurden nach Eröffnung der Sitzung vor die Richter
+gebracht und beschuldigt, sie hätten sich gesträubt zu kommen
+und waren doch von den Gefängniswärtern gebracht worden.
+Der Richter legte ihnen Busen auf, weil sie den Hut nicht
+abnehmen. Wir hingegen mussten nicht mehr vor den Richter.
+
+
+Während dieser ganzen Zeit und während der Sitzungen war
+Unser Wirken für den Herrn reich gesegnet, denn es kamen viele
+zu uns, *Fromme* und andere, mit uns zu reden. Elisabeth
+Trelawny von Plymouth, die Tochter eines Barons, wurde bekehrt,
+worüber Priester und *Fromme* und viele angesehene Personen
+außer sich waren und ihr Briefe deswegen schrieben. Da sie eine
+weise und gottselige Frau war und denen, die ihr geschrieben,
+nicht wollte etwas in die Hand geben, das sie dann hätten können
+gegen sie gebrauchen, so schickte sie mir die Briefe; und ich schrieb
+<!-- % \picinclude{./110-119/p_s116.jpg} -->
+ihr darüber, und sie beantwortete sie dann. Sie nahm zu in der
+Kraft und der Weisheit Gottes, so das sie zuletzt imstande war,
+den wichtigsten Priestern und *Frommen* zu antworten; sie hatte
+die Herrschaft über sie in der Wahrheit durch die Kraft Gottes,
+der sie treu blieb bis in den Tod.
+
+
+Während ich hier in der Gefangenschaft war, prophezeiten
+die Baptisten und Fifthmonarchyleute, in diesem Jahre werde
+Christus kommen und tausend Jahre auf Erden regieren. Sie
+erwarteten dieses Reich als ein äußeres, während er doch in die
+Herzen der Menschen gekommen war, um darinnen zu regieren;
+aber so wollten ihn diese *Frommen* nicht aufnehmen, darum
+misslang ihnen ihr Prophezeien. Christus ist ja schon gekommen
+und wohnet in den Herzen der Menschen und regieret
+darin. Tausende, bei denen er anklopfte, haben ihm aufgetan;
+und er ist bei ihnen eingekehrt und hat das Abendmahl mit ihnen
+gehalten (Offb. 3:20). Viele dieser Baptisten und
+Fisthmonarchhileute sind
+die ärgsten Feinde derer, die sich zu Christus hielten,
+geworden; aber er regieret in den Herzen seiner Heiligen.
+
+
+
+Während der Gerichtssitzung kamen mehrere der Richter zu
+uns und waren ziemlich höflich und redeten vernünftig über
+göttliche Dinge mit uns und bezeugten uns Teilnahme.
+Hauptmann Fox, der Gouverneur von Schloss Pendennis, trat zu mir
+und sah mir ins Gesicht, sagte aber nichts; aber als er wieder
+zu seinen Begleitern zurück kam, sagte er, er habe noch nie in
+seinem Leben einen einfältigeren Menschen gesehen. Ich rief ihm nach:
+**"Wir wollen sehen, wer der Einfältigere ist!"** Aber er
+ging seines Weges, der hochmütige Tropf.
+
+
+[Thomas Lower][9.2] besuchte uns ebenfalls [...]. Er stellte uns
+viele Fragen darüber, das wir behaupteten, die Schrift sei nicht
+das Wort Gottes, und über die Sakramente und anderes, und
+wir konnten über alles Aufschluss geben. Ich redete auch noch
+allein mit ihm, und er bekannte nachher, meine Worte hätten
+ihn wie ein Blitzstrahl durchzuckt. Er habe noch nie Leute, wie
+wir seien, getroffen, die seine innersten Gedanken errieten. Er
+wurde nachher bekehrt und ist ein Freund geblieben bis auf diesen
+Tag [...] und hat viel um der Wahrheit willen gelitten.
+
+[9.2]: "Thomas Lower, später Schwiegersohn von G. F."
+
+Es trieb mich zu dieser Zeit, die folgende Mahnung an die
+Freunde, die Prediger waren, zu richten:
+
+<!-- % \picinclude{./110-119/p_s117.jpg} -->
+
+> Freunde!
+>
+>
+> Bleibet in der Kraft des Lebens und der Weisheit und in
+> der Furcht des Herrn Himmels und der Erde, damit ihr in der
+> Weisheit Gottes bewahret bleiben möget und seinen Gegnern ein
+> Schrecken werdet, indem ihr die Wahrheit verbreitet, Zeugen für
+> sie erwecket, die Betrügerei stürzet, von der Übertretung zum
+> Leben bringt, in den Bund des Lichts und den Frieden Gottes.
+> Lasset alle Welt diese Stimme hören, durch Wort oder Schrift.
+> Schonet keinen Ort, noch Sprache, noch Feder; tuet das Werk
+> in Gehorsam gegen Gott; kämpfet tapfer für die Wahrheit auf
+> Erden und zertretet alles, was ihr entgegen ist.
+>
+> Ihr habt die
+> Kraft, missbraucht sie nicht [...]. Regieret mit Christus, dessen
+> Thron und Zepter nun ausgerichtet sind, und der herrscht bis an
+> die Enden der Erden [...]. Es soll nun das Heil ausgehen
+> von Zion, zu richten den Berg Esaus, und das Gesetz soll von
+> Jerusalem ausgehen (Obad), damit es rede zu dem Göttlichen,
+> das in einem
+> Jeden ist, und alle Erfindungen und Erfinder überwältige. Alle
+> Fürsten der Welt sind Luft vor der Macht Gottes, die ihr
+> geschmecket habt; darum lebet in ihr [...].
+> Führet alle zur Anbetung Gottes; pflüget den brachliegenden
+> Acker, dreschet das Korn, damit der Same, der Weizen, in die
+> Scheunen gesammelt werden könne und Alle zum Ursprung,
+> zu Christus kommen der war, ehe der Welt Grund gelegt ward.
+> Die Spreu ist durch die Übertretung unter den Weizen gekommen;
+> der, welcher ihn ausdrescht, hat die übertretung verlassen und
+> erkennt sie, und unterscheidet zwischen dem Wertvollen und dem
+> Unwerten, er kann den Weizen vom Unkraut unterscheiden und
+> ihn in den Speicher sammeln und bringet so die unsterbliche
+> Seele zu Gott, von dem sie kam [...]. Die Prediger des Geistes
+> müssen dem gefangenen Geist predigen, damit durch den Geist
+> Christi die Menschen zu Gott, dem Vater alles Geistes, geführt
+> werden, ihm zu dienen und eins zu sein mit ihm, mit der Schrift
+> und untereinander. Dies ist das Wort des Herrn an euch alle.
+> **Seid ein Vorbild und Beispiel in allen Ländern, Ortschaften,
+> Inseln und Völkern, zu denen ihr kommt, damit euer
+> Wandel allen Menschen predige [...].** Darin werdet ihr dem
+> Herrn angenehm sein und ein Segen werden.
+
+
+> Schonet den Betrug nicht; greifet ihn mit dem Schwert an;
+> bekämpfet ihn; trachtet nicht nach Blut, weder in Wort noch
+<!-- % \picinclude{./110-119/p_s118.jpg} -->
+> Schrift [...]. Verkündet allen den lebendigen Gott; denn alle
+> Lehre, Kirche und Gottesdienst, die durch menschlichen Willen und
+> Verstand eingesetzt sind, werden von der Kraft Gottes vernichtet.
+> .[...] Verkündet den großen Tag des Feuers und des Schwertes,
+> den Tag des Herrn, der im Geist und in der Wahrheit will
+> angebetet sein, und bleibt in der Kraft Gottes, damit die Bewohner
+> der Erde vor euch erzittern; und damit die Kraft und Herrlichkeit
+> des Herrn unter den Heiden Hund den Heuchlern gepriesen
+> werde, und ihr in der Weisheit und Furcht, im Leben, im Schrecken
+> und in der Herrlichkeit bewahrt bleibt zu seiner Ehre. Es gehet
+> ein Ruf, das man die Übertretung verlasse, und der Geist ruft:
+> **"kommet"**. Es ergehet jetzt ein Ruf, die falschen Gottesdienste
+> zu verlassen und dem wahren Gott zu dienen; ein Ruf zur
+> Buße [...] damit die Gerechtigkeit hervorbreche; und sie wird
+> über die ganze Erde sich ausbreiten. Darum tut treu in der
+> Kraft des Herrn euer Werk, ihr, die ihr auserwählt seid [...]
+> Gehorchet der Kraft, sie wird euch erretten aus der Hand der
+> Unvernünftigen und von der Welt. Durch sie werdet ihr das
+> Reich haben, das kein Ende hat und in welchem Herrlichkeit und
+> Leben ist [...].
+
+
+Nach der Sitzung hatten wir manche Unterredungen mit dem
+Sheriff und einigen Soldaten, die eine zum Tode verurteilte Frau
+bis zur Hinrichtung überwachen mussten. Einer von ihnen sagte:
+**"Christus war einer der heftigsten Menschen, die je gelebt"**; wir
+verwiesen ihm dies. Ein andermal fragten wir den Kerkermeister,
+was bei den Gerichtsverhandlungen vorkomme. Er antwortete:
+**"Oh, nur Kleinigkeiten; nur etwa dreißig, die wegen Bastardschaft verurteilt sind."**
+Wir wunderten uns sehr, das solche, die doch
+Christen zu sein meinten, derartiges eine Kleinigkeit fanden.
+Aber dieser Kerkermeister war selber ein sehr schlechter Mensch.
+Ich ermahnte ihn oft zur Rechtschaffenheit, aber er behandelte
+die Leute, die uns besuchen wollten, schlecht. Edward Pyot bekam
+einen Käse von seiner Frau geschickt; der Kerkermeister nahm ihn
+ihm weg und brachte ihn dem Major, angeblich um ihn auf
+verräterische Briefe hin zu durchsuchen; aber obwohl sie nichts
+von Briefen fanden, so behielten sie ihn doch. Es hätte diesem
+Kerkermeister ganz gut gehen können, wenn er sich anständig
+betragen hätte, aber er suchte selber sein Verderben, welches auch
+bald über ihn kam; denn im darauf folgenden Jahre wurde er
+<!-- % \picinclude{./110-119/p_s119.jpg} -->
+von seiner Stelle abgesetzt und kam selber ins Gefängnis und
+bettelte dort bei den Freunden. Und wegen irgend eines
+Vergehens brachte ihn sein Kerkermeister nach Doomsdale und legte
+ihn in Ketten und schlug ihn, und erinnerte ihn daran, wie er
+jene guten Leute misshandelt habe, die er ohne jeden Grund in
+diesen greulichen Kerker getan, und das er nun die verdiente
+Strafe für seine Bosheit leiden müsse, und ihm nun mit dem
+Maße gemessen werde, mit dem er gemessen habe. Es ging ihm
+sehr schlecht und er starb in der Gefangenschaft, und sein Weib
+und seine Kinder kamen ins Elend.
+
+## Entlassung aus der Gefangenschaft ##
+
+Während ich zu Launceston gefangen war, ging ein Freund
+zu Oliver Cromwell und erbot sich, an meiner Statt in
+Doomsdale gefangen zu sein, wenn er es annehmen und mich dafür
+in Freiheit setzen wolle. Dies erstaunte Cromwell dermaßen,
+das er zu seinen Räten sagte:
+**"Welcher unter Euch würde so viel für mich tun, wenn ich in dieser Lage wäre?"**
+Und obgleich er
+das Anerbieten des Freundes nicht annahm, sondern sagte, er
+könne es nicht tun, weil es gegen das Gesetz sei, so ergriff ihn
+doch die Wahrheit mächtig. Einige Zeit darauf schickte er den
+Generalmajor Desborough in der Absicht, uns frei zu lassen;
+dieser kam und bot uns die Freilassung an unter der Bedingung,
+das wir versprechen, heim zu gehen und nicht mehr zu predigen,
+aber wir wollten ihm nichts versprechen; daraufhin schlug er uns
+vor zu versprechen, nach Haus zu gehen,
+**"wenn der Herr es zulasse"**, worauf Edward Pyot ihm
+einen abschlägigen Brief schrieb.
+Als einige Zeit verstrichen war, seitdem dieses Schreiben
+abgegeben worden war, schrieb ich ebenfalls an ihn,
+folgendermaßen:
+
+
+> Freund,
+>
+>
+> Wir, die wir in der Kraft Gottes des Herrschers aller Dinge
+> sind, die wir seine Kraft kennen und in ihr wohnen, müssen ihr
+> auch gehorchen; und darum müssen wir uns frei halten von
+> allem, was Menschenwille befiehlt. Wenn es sich darum handelt,
+> etwas zu kaufen oder zu verkaufen, so mag es etwa angehen zu
+> sagen: wir wollen, so der Herr es zulässt; aber da wir in der
+> Kraft Gottes stehen, unter keines Menschen Willen, so können wir
+> solches nicht mit Wahrhaftigkeit sagen, wo es sich um unsere
+> Befreiung aus der Gefangenschaft handelt [...].
+
+
+<!-- % \picinclude{./120-129/p_s120.jpg} -->
+Bald darauf kam Major Desborough nach Castle-Green und
+spielte Kegel mit einigen Richtern und anderen. Einige Freunde
+wurden getrieben zu ihnen zu gehen, und sie zu ermahnen, ihre
+Zeit nicht mit solch eitlen Dingen zuzubringen, und sich ihren
+unnützen Vergnügen hinzugeben, und ihnen zu bedenken zu geben,
+das, wenn sie, die sich doch für Christen ausgeben, dennoch solchen
+Vergnügen nachgehen, während sie die Diener Gottes gefangen
+halten, Gott sie wegen solchen Treibens heimsuchen werde. Aber
+trotz allem, muss man ihnen sagte oder schrieb, lies er uns im
+Gefängnis. Wir hörten später, das er die Sache Hauptmann
+Vennet übergeben habe, der uns freigelassen hätte, wenn wir
+dem Kerkermeister Geld gegeben hätten. Aber wir erklärten ihm,
+das wir das nicht tun könnten, da wir ja unschuldigerweise
+gefangen waren [...]. Schließlich kam die Kraft des Herrn so
+über ihn, das er uns freiwillig die Freiheit schenkte, am 13. Tage
+des 7. Monats 1656. [...] Wir waren seit dem Frühling
+gefangen gewesen.
