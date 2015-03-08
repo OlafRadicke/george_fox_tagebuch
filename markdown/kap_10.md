@@ -1,0 +1,384 @@
+<!-- %%%%%%%%%%%%%%%%%%% Kapitel 10. %%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+
+# Warnung an die Kegelspieler. Naylors Fall. Disput mit Paul Gwin. Besuch bei Cromwell. Herumreisen bei den gefangenen Freunden. Reise in Wales.#
+
+## Zurück in der Freiheit ##
+
+Als ich während meiner Gefangenschaft sah, wie sie sich in
+Castle-Green mit Kegelschieben
+vergnügten, hatte ich eine Schrift geschrieben, worin es hieß:
+
+
+> Es gehet das Wort des Herrn an euch, ihr eitlen Müsiggänger,
+> die ihr so dem Spiel, dem Vergnügen und solchen
+> einfältigen Übungen zugetan seid, das ihr bedenken möget, was ihr
+> tut. Ist das der Zweck eures Daseins? Machte Gott alles zu
+> eurem Vergnügen und eurem Gebrauch? Machte nicht Gott alle
+> Dinge, damit er darin in Furcht und Anbetung, im Geist und in
+> der Wahrheit, in Gerechtigkeit und Heiligkeit geehrt werde? Wie
+> könnet ihr Gott dienen, solange ihr euren Vergnügen nachgeht?
+> Ihr könnet nicht Gott dienen und den weltlichen Vergnügen, dem
+> Kegeln, Jagen und Trinken und dergleichen; wenn euer Herz bei
+> derartigem ist, so will Gott eure Lippen nicht, fraget euch, ob das
+> nicht wahr ist [...].
+>
+<!-- % \picinclude{./120-129/p_s121.jpg} -->
+> An die Kegler im Castle-Green, geschrieben
+> im Kerker zu Launceston.
+
+
+Als wir nun frei waren, [...] zogen wir [...] über Launceston
+[...]. Okington [...] nach Exeter, wo viele Freunde
+gefangen waren, unter anderem James Naylor.
+Kurz ehe wir frei wurden, hatte James Naylor sich in phantastische
+Ideen verirrt und viele mit ihm, was eine große Verwirrung im Land
+anrichtete. Er kam nach Bristol und stiftete dort Unruhe; von
+da wollte er nach Launceston gehen, um mich zu besuchen; aber
+unterwegs wurde er angehalten und in Exeter gefangen gesetzt,
+sowie verschiedene Andere; einer davon, ein ehrlicher, gottseliger
+Mensch, starb in der Gefangenschaft; sein Blut kommt auf seine
+Verfolger.
+
+## Verwirrung und Konflikte mit James Naylor ##
+
+Am Abend, als wir nach Exeter kamen, redete ich mit James
+Naylor, denn ich sah, das er ganz in Irrtum geraten war, sowie
+auch seine Genossen. Am folgenden Tag -- es war der Erste
+Tag -- besuchten wir die Gefangenen und hatten im Gefängnis
+eine Versammlung mit ihnen; aber James Naylor und einige
+von ihnen konnten es in der Versammlung nicht aushalten. Es
+kam ein Kavallerie-Korporal in die Versammlung; er wurde
+gewonnen und blieb ein sehr guter Freund.
+
+
+Am folgenden Tag redete ich wieder mit James Naylor; er
+machte herunter, was ich ihm sagte, und war verwirrt und
+verdreht, dennoch wollte er gerne kommen und mich küssen. Aber
+ich sagte,
+**"weil er sich der Kraft Gottes widersetze, so könne ich seine Freundlichkeitsbezeugungen nicht annehmen"**;
+der Herr trieb mich, ihn zu verweisen und ihn unter die Kraft
+des Herrn zu stellen. So war nun, nachdem ich gegen die Welt
+gekämpft, unter den Freunden ein böser Geist erwacht, gegen
+den man kämpfen musste. Ich ermahnte ihn und seine Genossen.
+Als er nach London kam, wurde ihm sein Widerstand
+gegen Gottes Kraft in
+mir und gegen die ihm durch mich verkündete Wahrheit zur
+größten Last. Aber er kam dazu, seine Abirrung einzusehen und
+zu verdammen, und nach einiger Zeit kehrte er sich der Wahrheit
+wieder zu, wie man in den gedruckten Berichten seiner Buße,
+[Verurteilung][10.1] und Wiedererhebung ausführlich sieht [...].
+
+[10.1]: "Im Original steht 'Ververurteilung' offebar ein Fehler."
+
+## Große Versammlungen im Freiem ##
+
+Von Exeter gingen wir [...] zu E. Pyot in Bristol. Am
+Morgen des Ersten Tages ging ich zu der Versammlung in
+Broadmead; sie war zahlreich und ruhig.
+Es wurde eine Versammlung angezeigt auf den Nachmittag
+im Garten. Es war
+<!-- ./120-129/p_s122.jpg -->
+ein ungebildeter, unverschämter Baptist in Bristol, namens Paul
+Gwin, der schon früher in unseren
+Versammlungen große Störungen
+verursacht hatte, ermutigt und angetrieben durch den
+Bürgermeister, welcher, wie gesagt wurde, ihm sogar manchmal ein
+Mittagessen gab, um ihn zu ermutigen. Er war von einer
+solchen Pöbelmenge gefolgt, das die Zahl derer, die zu unserer
+Versammlung im Freien kamen, oft auf 10.000 geschätzt wurde.
+Als ich auf dem Wege nach dem Garten war, sagte man mir,
+das Paul Gwin, der zänkische Baptist, zur Versammlung kommen
+würde. Ich sagte, man solle sich nicht darum kümmern, es sei
+mir einerlei, wer käme.
+
+
+In Garten angekommen, stieg ich auf einen Stein, auf den die Freunde zu stehen
+ pflegten, wenn sie sprachen;
+
+und der Herr trieb mich, den Hut abzunehmen und so
+geraume Zeit zu stehen und mich von den Leuten ansehen zu
+lassen; es waren einige 1000 Leute da. Als ich nun so schweigend
+dastand, fing jener Baptist an, mein Haar zu tadeln, aber ich
+sagte nichts zu ihm. Da brach er in einen Wortschwall aus und rief:
+**"Ihr Weisen von Bristol, ich staune über euch, das ihr hier steht, um Einen etwas sagen und behaupten zu hören, der es nicht beweisen kann"**.
+Da öffnete der Herr meinen Mund, (bis
+dahin hatte ich noch nichts geredet,) und ich fragte die Leute, ob
+sie mich je hätten reden hören oder je zuvor gesehen hätten? und
+ich hieß sie, nicht zu vergessen, was für eine Sorte von Mensch
+der sei, der so frech sage, das ich rede und behaupte, was ich
+nicht beweisen könne, da doch weder er noch sie mich je zuvor
+gesehen hätten. Darum sei es ein lügnerischer, böswilliger und
+schlechter Geist, der aus ihm rede; er sei vom Teufel und nicht
+von Gott. Ich gebot ihm, bei der Furcht und Kraft Gottes zu
+schweigen, und die mächtige Kraft Gottes kam über ihn und alle
+seine Anhänger. Darauf hatten wir eine herrliche, friedliche
+
+
+Versammlung, und das Wort des Leben; ward unter ihnen verkündet
+und sie kehrten sich von der Finsternis zum Licht, zu Jesus
+Christus, dem Heiland. Die Schrift wurde ihnen reichlich
+geöffnet und die menschlichen Überlieferungen, Zutaten, Mittel und
+Lehren darin nachgewiesen; sie wurden auf das Licht Christi
+hingewiesen, durch das sie solches alles erkennen können, sowie auch
+Christum selbst, damit er sie erlöse. Ich erklärte ihnen auch die
+Zeichen und Sinnbilder von Christus in den Zeiten des Gesetzes
+und zeigte ihnen, das Christus gekommen war, den Zeichen,
+
+<!-- \picinclude{./120-129/p_s123.jpg -->
+Zehnten und Eiden ein Ende zu machen und das Schwören
+abzuschaffen, und einsetzte, das man bei **" ja "**
+und **" nein "** bleibe,
+und das man umsonst predige, denn er wolle nun sein Volk
+selber lehren und sein herrlicher
+**"Ausgang aus der Höhe sei nun erschienen"** (Luk. 1:78).
+Mehrere Stunden verkündete ich das
+Wort des Lebens unter ihnen und die ewige Kraft Gottes, durch
+die sie möchten zu dem, der von Anfang war, zurückkehren und
+mit ihm versöhnt werden (2 Cor. 5). Und nachdem ich sie an den
+Geist Gottes in ihrem Innern gewiesen, der sie in alle Wahrheit
+leiten würde (Joh. 16), trieb es mich zu beten in der mächtigen
+Kraft Gottes; des Herrn Kraft kam über alle.
+
+
+Als ich geendet, fing jener Kerl aufs Neue an zu schwatzen. John
+Audland wurde getrieben, ihn zur Buse und Furcht Gottes zu ermahnen.
+Da nun seine eigenen Leute und Anhänger sich seiner schämten,
+ging er fort und hat nie mehr eine unserer Versammlungen
+gestört. Die Versammlung ging ruhig auseinander und des Herrn
+Kraft und Herrlichkeit leuchtete über allen; es war ein gesegneter
+Tag; die Ehre war des Herrn. Einige Zeit darauf ging dieser
+Paul Gwin über Meer; Viele Jahre nachher
+begegnete ich ihm wieder in Barbadoes [...].
+
+## Aufenthalt in London ##
+
+Von Kingston ritten wir nach London. Als wir in die Nähe des Hyde Park kamen,
+sahen wir eine große Volksmenge, und bei näherem Zusehen erblickten wir den
+Protektor, der in seinem Wagen daherkam. Ich ritt an die Seite seines Wagens. Einige
+seiner Leibgarde suchten mich wegzutreiben, aber er wehrte es
+ihnen. So ritt ich neben ihm her und verkündete, was der Herr
+mir eingab über seinen Zustand und über die Not der Freunde
+im Lande; ich zeigte ihm, wie sehr diese Verfolgungen Christus
+und seinen Aposteln und dem Christentum zuwider seien. Als wir
+am Tor des James Park ankamen, verließ ich ihn; ehe wir uns
+trennten, sagte er noch, ich solle zu ihm nach Hause kommen.
+
+
+Am folgenden Tag kam eine Magd seiner Frau zu mir in meine
+Wohnung und erzählte mir, ihr Herr sei zu ihr gekommen und
+habe gesagt, er wolle ihr eine frohe Nachricht mitteilen. Als sie
+ihn fragte, was für eine, sagte er ihr: George Fox sei in die
+Stadt gekommen. Sie habe geantwortet, das sei in der Tat eine
+gute Nachricht (denn sie hatte die Wahrheit angenommen), aber sie
+habe es kaum glauben können, bis er ihr gesagt habe, wie ich ihn
+getroffen und mit ihm von Hyde Park bis James Park geritten sei.
+
+
+<!-- ./120-129/p_s124.jpg -->
+Nach einiger Zeit gingen Edward Pyot und ich nach Whitehall, und als wir vor
+den Protektor kamen, war Dr. Owen, Vizekanzler von Oxford, bei ihm. Es trieb uns,
+Oliver Cromwell die
+Not der Freunde vorzustellen.   wiesen ihn auf das Licht
+Jesu Christi, das jeden, der in die Welt kommt, erleuchtet.
+Er sagte, es sei ein natürliches Licht, aber wir bewiesen ihm das
+Gegenteil und legten dar, wie es göttlich und geistig sei, da es
+von Christus ausgehe, dem geistigen und himmlischen Menschen
+und das eben das, was das **" Leben in Christus "** genannt werde,
+das nenne man auch das **" Licht in uns. "**. Die Kraft des Herrn
+ging auf in mir und trieb mich, ihn zu ermahnen, seine Krone
+zu den Füßen Jesu [niederzulegen][10.2]. Wiederholt redete ich mit
+ihm in dieser Absicht. Zuletzt -- ich stand neben dem Tisch --
+kam er und setzte sich auf die Tischecke neben mich, sagte, er wolle
+so hoch sein wie ich und fuhr fort gegen das Licht Jesu Christi
+zu sprechen und ging gleichgültig hinaus. Aber des Herren Macht
+kam über ihn, so das, als er zu seiner Frau und zu andern
+Leuten kam, er sagte: **" nie habe ich sie in der Weise verlassen "**;
+denn er war in sich selbst gerichtet [...].
+
+[10.2]: "Cromwell lehnte 1656 den Königötitel ab."
+
+## Begegnung mit einem alten Verfolger ##
+
+Als er fort war, trafen wir beim Hinausgehen mit vielen
+angesehenen Leuten zusammen, und einer von ihnen fing an, uns
+gegen das Licht und die Wahrheit zu reden, und ich verachtete
+ihn deswegen. Da sagte mir ein anderer,
+er sei der General-Major von
+Northamptonshire.
+**" Was! "**, sagte ich, \zitat{unser früherer
+Verfolger, der so viele unsrer Freunde in die Gefangenschaft ge-
+schickt hat und eine Schande ist für die Christenheit und die
+Religion? Ich bin froh, das ich dich getroffen habe.} Und ich
+redete nun ernstlich mit ihm über sein unchristliches Benehmen;
+und er schlich hinweg, denn er hatte die Verfolgungen in
+Northhamptonshire sehr grausam betrieben
+gehabt [...].
+
+Von London ging ich nach Buckinghamshire, [...] dann nach Huntingdonshire, [...]
+Boston, [...] Edgehill, [...] Warwick [...]
+und wieder zurück nach London. Überall hatte ich mich beflissen,
+das, was mir der Herr aufgetragen, zu erfüllen. Denn, nachdem
+ich aus der Gefangenschaft in Launceston entlassen war, hatte mich
+der Herr getrieben im Lande umher zu reisen, wo die Wahrheit
+sich verbreitet und recht befestigt hatte, um noch allerlei
+<!-- ./120-129/p_s125.jpg -->
+Einwände zu beseitigen, welche die bösen Priester und *Frommen*
+in den Gemütern gegen uns gepflanzt hatten [...]. Und in
+dieser Absicht trieb es mich nun auch, allerlei Erklärungen ergehen
+zu lassen, [...] unter anderm folgende:
+
+
+> Es wird den Quäkern
+> oft vorgeworfen, das sie das sogenannte Sakrament von Brot und
+> Wein bestreiten, von dem es heißt, man müsse es gebrauchen zum
+> Gedächtnis Christi (Luc. 22:19) bis an der Welt Ende. Wir
+> hatten deswegen und wegen der verschiedenen Arten des
+> Sakraments-Gebrauchs im sogenannten Christentum viel Mühe mit den
+> Priestern und *Frommen*, denn manche nehmen es kniend,
+> manche sitzend; aber keine von allen, die ich je gesehen, nehmen
+> es, wie die Jünger es nahmen, nämlich in einem Zimmer nach
+> dem Nachtessen, sondern die meisten nehmen es vor dem
+> Mittagessen und manche sagen, wenn der Priester Brot und Wein
+> gesegnet hat, **" es ist der Leib Christi "**. Christus aber
+> sagte nur, **" tut es zu meinem Gedächtnis "**. Er sagte
+> ihnen nicht, wie oft
+> sie es tun müssten oder wie lang; auch gebot er ihnen nicht, es
+> ihr Leben lang zu tun, noch das alle, die an ihn glauben, es
+> tun sollten bis an der Welt Ende. Der Apostel Paulus, der erst
+> nach Christi Tod bekehrt worden, sagt den Corinthern, er habe vom
+> Herrn empfangen, was er ihnen in dieser Sache mitteile, und er
+> führt Christi Worte in bezug aus den Kelch also an: \zitat{Dieses
+> tut, so oft ihr trinket, zu meinem Gedächtnis}; und er selbst fügt bei:
+> **"denn so oft ihr das Brot esset und den Kelch trinket, so verkündet ihr des Herrn Tod, bis das er kommt"**
+> (1. Cor. 11:26).
+> Nach dem also, was der Apostel hier mitteilt, gebot weder Christus
+> noch er, dies allezeit zu tun, sondern stellten es jedem frei [...].
+> Die Juden pflegten einen Kelch zu gebrauchen und Brot zu
+> brechen und an ihren Festen unter sich zu verteilen, wie man an
+> den jüdischen Altertümern sieht; das Brechen des Brotes und das
+> Trinken des Weines waren also jüdische Gebräuche, die nicht für
+> immer zu bestehen brauchen. Sie tauften auch mit Wasser;
+> darum befremdete es sie nicht, als Johannes der Täufer auftrat
+> mit seiner Wassertaufe [...]. Was aber Brot und Wein anbelangt,
+> so hatte Christus gesagt, das er das Brot des Lebens
+> sei (Joh. 6:48), das vom Himmel kommt, und das er kommen
+> wolle und in ihnen wohnen. Das betrachteten die Apostel nun
+> als erfüllt und ermahnten die andern, nach dem zu trachten, das
+> von oben kommt (Col. 3:2). Ihr nun,
+> die ihr diesen äußern Wein
+> <!-- ./120-129/p_s126.jpg -->
+> trinket und dieses äußere Brot esset zum Gedächtnis des Todes
+> Christi, kennet ihr gar nichts Besseres, um dem Tode Christi näher
+> zu kommen? [...]
+>
+> Es muss freilich durch manchen Zustand hindurch gehen, ehe
+> die Leute dazu gelangen, das, was von oben kommt, zu sehen
+> und daran teilzunehmen. Zuerst kommt der Gebrauch des äusseren
+> Brotes und Weines zum Gedächtnis Christi; das war zeitlich und
+> nicht gezwungen, sondern freiwillig [...]. Zweitens kommt das
+> Eingehen in seinen Tod, ein Leiden mit Christus, und das ist
+> notwendig zum Heil und nicht zeitlich, sondern beständig; es muss
+> ein tägliches Sterben sein. Drittens ein Begrabensein mit Christus;
+> viertens ein Auferstehen mit Christus; fünftens nach
+> dem Auferstandensein mit Christus (Röm. 6) ein Trachten nach dem, was
+> droben ist, ein Suchen nach dem Brote, das vom Himmel
+> herunter kommt, ein Essen davon und eine Gemeinschaft durch
+> dasselbe. [...] Die Gemeinschaft, die sich aus den Gebrauch von
+> Brot, Wein, Wasser, Beschneidung, äußere Tempel und sichtbare
+> Dinge gründet, wird ein Ende haben; die Gemeinschaft aber, die
+> sich auf das Evangelium gründet, auf die Kraft Gottes, die war,
+> ehe der Teufel gewesen, und die Leben und
+> unvergängliches Wesen
+> ans Licht bringt, und durch welche die Leute über den Teufel
+> sehen, der sie verfinstert, diese Gemeinschaft wird ewig
+> bestehen. [...]
+
+
+Somit waren die Einwände dieser Priester und *Frommen*
+widerlegt [...] und die Wahrheit breitete sich in diesem Jahre
+(1656) recht aus, und viele Tausende bekehrten sich zum Herrn,
+so das selten weniger als tausend im Gefängnis waren um der
+Wahrheit willen, etliche wegen des Zehntenwesens, etliche
+weil sie ins Turmhaus gegangen waren, etliche wegen
+irgendwelcher sogenannten Missachtung, etliche wegen
+des Schwörend oder weil sie ihre Hüte nicht abgenommen [...].
+
+
+Von London zogen wir wieder weiter im Lande umher [...]
+nach Farnham [...] Bafmgstoke [...] Exeter [...] Bristol, [...] dann
+nach Brecknock (Wales) und dann [...] wieder nach England
+zurück, nach Shrewsburh [...].
+
+## Über das Fasten und dürre als strafe Gottes ##
+
+Es war um die Zeit eine große Trockenheit im Lande [...].
+Als nun Oliver Cromwell ein Fasten proklamierte um Regen,
+nahm man wahr, das im Norden, soweit sich die Wahrheit
+ausgebreitet hatte, erquickende Niederschläge waren, während sie im
+<!-- ./120-129/p_s127.jpg -->
+Süden vielerorts schier umkamen aus Mangel an Regen. Da
+trieb es mich, eine Erwiderung auf die Proklamation des
+Protektors zu schreiben, worin ich ihm sagte, wenn er sich Gottes
+Wahrheit zugewendet hätte, so hätte er Regen gehabt, die
+Trockenheit sei ein Zeichen für ihre Dürre und ihren Mangel an Wasser
+des Lebens [...].
+
+
+Wir gingen wieder nach Wales und hatten mehrere
+Versammlungen, bis wir nach Tenby kamen. Auf der Straße kam
+mir ein Friedensrichter entgegen und forderte mich auf, zu ihm
+in seine Wohnung zu kommen, was ich denn auch tat. Am
+Ersten Tage kam der Stadtmajor und einige der Häupter der
+Stadt und blieben während der ganzen Zeit der Versammlung.
+[John-ap-John][10.3] aber verließ sie und ging ins Turmhaus, wo ihn
+der Gouverneur gefangen nehmen lies. Es war eine herrliche
+Versammlung.
+
+[10.3]: "Anmerkung: Es ist nicht klar, ob sich hier bei den Namen um ein Fehler handelt."
+
+Am Morgen des zweiten Tages schickte der
+Gouverneur einen seiner Leute ins Haus des Friedensrichters, um mich
+holen zu lassen, was dem Major und dem Friedensrichter, die
+beide bei mir waren, sehr Leid tat. Sie gingen darum gleich
+voraus zum Gouverneur, und nach einiger Zeit kam ich ihnen nach
+mit dem Beamten. Als ich eintrat, sagte ich:
+**"Friede sei diesem Hause."** Und ehe noch der Gouverneur mich etwas fragen konnte,
+fragte ich ihn, warum er meinen Freund John-ap-John ins
+Gefängnis getan habe?
+**"Weil er seinen Hut in der Kirche auf behielt"**,
+erwiderte der Gouverneur. Ich sagte darauf:
+**"Hatte nicht der Priester zwei Kappen auf dem Kopf. eine weise und eine schwarze? Schneide meinem Freund den Rand an seinem Hut weg, und dann hätte er nur eine solche Kappe, und der Rand ist nur, um ihn vor dem Regen zu schützen."**
+**"Das sind dummeSachen"**,
+sagte der Gouverneur.
+**"Warum wirfst du dann meinen Freund ins Gefängnis wegen dummer Sachen?"**
+sagte ich.
+
+## Erwähnung und Verwerfung ##
+
+Er fragte mich nun, ob ich die Erwähnung und Verwerfung annehme?
+**"Ja"**, sagte ich,
+**"und du bist in der Verwerfung"**.
+Das machte ihn bös und er drohte mir, er wolle mich ins Gefängnis werfen,
+bis ich es ihm beweise; ich sagte, ich könne ihm das gleich beweisen,
+wenn er der Wahrheit Gehör schenke. Nun fragte ich ihn, ob denn
+Wut und Zorn nicht Zeichen der Verwerfung seien? denn der,
+welcher aus dem Fleisch geboren sei, verfolge den, der aus dem
+Geist geboren sei. Christus und seine Jünger haben nie jemand
+verfolgt oder gefangen genommen. Daraufhin bekannte er offen,
+<!-- ./120-129/p_s128.jpg -->
+das er zu leidenschaftlich und zornmütig sei. Ich sagte ihm, er
+sei wie Esau, der Erstgeborene, und nicht wie Jakob [...]. Die
+Kraft des Herrn kam so mächtig über ihn, das er sich zur
+Wahrheit bekannte, und der Friedensrichter kam und schüttelte mir
+die Hand [...] Als ich weiter zog, trieb es mich, noch einmal
+mit dem Gouverneur zu reden und er lud mich zum Essen ein
+und gab meinem Freund die Freiheit. [...]
+
+
+Wir gingen nach England zurück [...] nach Liverpool 8...]
+Manchester [...] Lancaster [...] nach Swarthmore, wo die Freunde
+sich sehr freuten,
+mich wieder zu sehen. Ich blieb während zwei Ersten Tagen
+dort und ging in mehrere Versammlungen. Die Freunde freuten
+sich mit mir der Güte Gottes, die mir durch so viele Gefahren
+hindurch geholfen. Ihm sei Preis ewiglich.

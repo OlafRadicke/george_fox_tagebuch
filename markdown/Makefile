@@ -7,6 +7,10 @@ cleanetmp:
 cleaneodt:
 	[ -f ./g_fox_tagebuch.odt ] && rm ./g_fox_tagebuch.odt || echo "is clean"
 
+cleanehtml:
+	[ -f ./g_fox_tagebuch.html ] && rm ./g_fox_tagebuch.html || echo "is clean"
+
+
 cleanall: cleanepub cleanetmp cleanepdf
 
 singledoc: cleanetmp
@@ -18,9 +22,11 @@ odt:  cleaneodt singledoc
         -o ./g_fox_tagebuch.odt \
         -t odt \
         -f markdown \
+        --normalize \
+        --number-sections \
         ./g_fox_tagebuch.tmp.md
 
-epub: cleanepub cleanetmp
+epub: cleanepub
 	pandoc \
         -o ./g_fox_tagebuch.epub \
         -t epub \
@@ -37,6 +43,17 @@ epubsimple: cleanepub singledoc
         -t epub \
         -f markdown \
         ./g_fox_tagebuch.tmp.md
+
+html: cleanehtml
+	pandoc \
+        -o ./g_fox_tagebuch.html \
+        -t html \
+        -f markdown \
+        --toc \
+        --ascii \
+        --normalize \
+        --number-sections \
+        ./*.md
 
 
 #
