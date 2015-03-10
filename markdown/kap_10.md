@@ -375,7 +375,7 @@ mit dem Gouverneur zu reden und er lud mich zum Essen ein
 und gab meinem Freund die Freiheit. [...]
 
 
-Wir gingen nach England zurück [...] nach Liverpool 8...]
+Wir gingen nach England zurück [...] nach Liverpool [...]
 Manchester [...] Lancaster [...] nach Swarthmore, wo die Freunde
 sich sehr freuten,
 mich wieder zu sehen. Ich blieb während zwei Ersten Tagen
