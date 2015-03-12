@@ -10,7 +10,7 @@ her zur Versammlung nach Pardsen Crag. Als dieselbe zu Ende war, die, wie
 er sagte, die aller herrlichste gewesen sei, die er je erlebt habe,
 ging ich mit ihm und seinen Begleitern nach Schottland [...].
 
-# Kampf gegen die Prädestinationslehre #
+## Kampf gegen die Prädestinationslehre ##
 
 An einem ersten Tage hatten wir in Heads eine große
 Versammlung, der viele **Fromme** beiwohnten. Die Priester hatten
@@ -85,7 +85,7 @@ Viele andere Schriftstellen über die Verwerfung wurden
 auch noch ausgelegt, und die Augen der Leute wurden geöffnet,
 so das eine Quelle des Lebens unter ihnen hervorsprudelte.
 
-# Konflikte in Schottland mit den Independenten #
+## Konflikte in Schottland mit den Independenten ##
 
 Solches kam den Priestern bald zu Ohren; denn den Leuten,
 welche durch ihre schrecklichen Lehren irre geführt worden waren,
@@ -150,7 +150,7 @@ dem geht, der das Licht beschimpft,. das Licht, welches das Leben
 in Christus, dem Wort, ist; und es möge allen zur Warnung
 dienen, welche Übles reden gegen das Licht Christi [...].
 
-# Ausweisung aus Schottland #
+## Ausweisung aus Schottland ##
 
 Viele der schottischen Priester waren sehr in Aufregung über
 die Verbreitung der Wahrheit, weil sie dadurch ihre Zuhörer
