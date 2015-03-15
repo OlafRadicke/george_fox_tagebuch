@@ -1,0 +1,520 @@
+
+<!-- ./130-139/p_s134.jpg -->
+%%%%%%%%%%%%%%%%%%% Kapitel 12. %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+# Erste Jahresversammlung. Warnung an Cromwell vor der Königskrone. Trostbrief an dessen Tochter. Vorahnung vom Tode Cromwells und der kommenden Reaktion. #
+
+## Gerüchte über Quaker ##
+
+Wir gingen zurück nach England [...] Die Priester
+von Newcastel hatten verschiedene Bücher gegen uns geschrieben,
+und ein Stadtältester, Ledger, war uns und der
+Wahrheit sehr  abgeneigt. Er sowie die Priester hatten behauptet, die Quäker könnten
+nicht in einer Stadt leben, sondern schwirrten wie die Schmetterlinge
+in den Hochtälern.  Zu diesem Ledger und einigen andern Stadtältesten ging ich, mit
+Anthony Pearson, mit der Bitte, eine Versammlung in Newcastel abhalten zu dürfen,
+nachdem sie so viel gegen uns geschrieben haben, da wir nun ja in ihre grose Stadt
+gekommen seien! Aber sie wollten uns keine Versammlung gestatten,
+noch wollten sie mit sich reden lassen. Ich sagte:
+**"Habt ihr nicht die Freunde Schmetterlinge genannt und gesagt, wir könnten nicht in Städten leben; nun sind wir in eure Stadt gekommen, und ihr wollt uns nicht hören. Wer sind nun die Schmetterlinge?"**
+Ledger fing an, die Sabbathheiligung  zu verteidigen. Aber ich
+erwiderte ihm, an dem Tage, welcher der Sabbath sei, dem siebenten
+Wochentag, hielten sie ja Märkte und Jahrmärkte; während der Tag,
+an dem sich die, welche sich jetzt Christen nennen, versammeln, ja
+der erste Wochentag sei.
+
+
+Da wir keine öffentliche Versammlung unter ihnen halten konnten, so veranstaltete
+ich zu Gateshead eine kleine im Kreise der Freunde und solcher, die sich zu ihnen
+hielten, und dort wird seither eine Versammlung abgehalten im
+Namen Jesu. Als ich über den Marktplatz ging, erfasste mich
+die Kraft des Herrn, und ich ermahnte das Volk, an den Tag
+des Herrn zu denken, der über sie kommen werde. Und nicht
+lange darauf wurden alle jene Priester von Newcastel und ihre
+Anhänger Vertrieben, bei der Rückkehr des Königs [...]
+
+## Fox kritisiert das Theologiestudium ##
+
+Von Heatshead gingen wir nach Durham; es war einer von London
+dorthin gekommen, um eine Schule zu errichten, worin
+**"Prediger Christi"**,
+wie sie sich ausdrückten, ausgebildet werden sollten. Ich
+ging zu ihm, um mit ihm zu reden und ihm zu zeigen, das das
+Lehren von Griechisch und Latein und der sieben schönen Künste
+nur ein Belehren des natürlichen Menschen sei und nicht das
+<!-- ./130-139/p_s135.jpg -->
+Mittel, die Leute zu Predigern Christi zu machen.
+
+
+
+Die Sprachverschiedenheit komme von Babel, und den Griechen, deren Muttersprache
+griechisch war, war das Wort vom Kreuz Torheit, und
+den Juden, deren Sprache hebräisch war, war Christus ein Stein des Anstoßes
+(1. Cor. 1:23). Die Römer, die lateinisch
+redeten, verfolgten die Christen; und Pilatus, der römische
+Machthaber, schrieb in hebräischer, griechischer und lateinischer
+Sprache eine Inschrift über das Kreuz Christi; daran, sagte ich,
+könne man sehen, das die Sprachen von Babel kommen, da die
+Inschrift über das Kreuz in diesen Sprachen geschrieben war.
+Johannes, der das Wort verkündete, welches im Anfang war,
+sagt, das das Tier und die Hure Macht haben über die
+Zungen und Sprachen, welche dem Wasser gleich seien (Offb. 17);
+man könne also sehen, das das Tier und die Hure diese Macht
+haben über die Sprachen, die von der Verwirrung zu Babel
+herrühren. Die Verfolger Christi haben sie dann höher gestellt als
+ihn, als sie ihn kreuzigten; aber danach ist er auferstanden, höher
+als alles andere, er, der vor allen gewesen ist.
+**"Gedenkst du nun,"** fragte ich den Mann,
+**"Prediger Christi zu bilden, vermittelst dieser verwirrten äußeren Sprachen, die aus Babel kommen und dort gut geheißen und von den Verfolgern Christi gebraucht wurden!"**
+Er musste das zum Teil zugeben; hierauf zeigten
+wir ihm weiter, das Christus seine Prediger selber lehrte, ihnen
+Gaben erteilte und sie hieß, den Herrn der Ernte zu bitten, das
+er Arbeiter sende. Und Petrus und Johannes, die doch in Sachen
+der Schulweisheit unwissend und ungelehrt waren, verkündeten
+Christus, das Wort, das am Anfang war, also auch vor Babel.
+
+## Fox bei der Jahresversammlung in Bedforshire ##
+
+Auch Paulus hat das Evangelium nicht durch irgend einen
+Menschen empfangen, sondern durch Jesus, welcher auch jetzt
+derselbe ist, und so ist auch sein Evangelium unverändert. Der
+Priester hörte auf uns und errichtete seine Schule nicht.
+Wir zogen über Warwickshire, Northamptonshire und
+Leicestershire, wo wir überall viele Freunde
+aussuchten, nach Bedforshire, zum Hause John Crooks, wo eine allgemeine
+Jahresversammlung für das ganze Land abgehalten wurde; sie dauerte
+drei Tage, und die Freunde strömten aus dem ganzen Land herzu,
+so das alle Herbergen und Wohnungen in der Umgegend überfüllt
+waren. Und trotz einiger Störungen durch einige böse Leute,
+die von der Wahrheit abgefallen waren, kam doch die Kraft des
+<!-- ./130-139/p_s136.jpg -->
+Herrn über alle, so das wir eine herrliche Versammlung hatten;
+das ewige Evangelium wurde gepredigt, und viele nahmen es
+auf, und Leben und unsterbliches Wesen ging auf in allen und
+schien über allen [...].
+
+## Disput mit einen Jesuiten über die Eucharestie und Glaubenskriege ##
+
+Ich suchte noch da und dort etliche Freunde auf und kam
+vom Herrn geleitet nach London, (1658 [...].
+Ich war noch nicht lange dort, als ich hörte, das ein Jesuit,
+der mit einem Gesandten von Spanien hergekommen war, alle
+Quäker aufgefordert hatte, zu einer Disputation in das Haus des Earl von Newport
+zu kommen. Die Freunde antworteten, das
+etliche kommen werden. Darauf lies er uns sagen, er wünsche
+mit 12 unserer gelehrtesten und weisesten Leuten zu reden; einige
+Zeit darauf lies er sagen, es möchten nur 6 kommen, und schließlich
+nur 3. Wir beeilten uns, so viel wir konnten, damit es nicht am
+Ende nach so vieler Prahlerei heiße, es solle gar niemand kommen.
+
+
+
+Als wir hin kamen, hieß ich Nicolas Bond und Edward Burrough
+hinausgehen, um die Unterredung zu eröffnen; ich wollte eine
+Zeitlang mich unten im Hofe aufhalten und dann nachkommen.
+Ich riet ihnen, ihm die Frage zu stellen, ob die römische Kirche,
+sowie sie jetzt sei, nicht von der wahren Kirche der ersten Zeiten,
+von ihrem Leben und ihrer Lehre, ihrer Kraft und ihrem Geist
+abgefallen sei. Diese Frage legten sie denn auch dem Jesuiten sie,
+vor. Er erwiderte, die römische Kirche sei jetzt noch in der
+Jungfräulichkeit und Reinheit der ersten Kirche. Da kam ich dazu.
+Wir frugen ihn, ob der heilige Geist über sie wie über die Apostel
+ausgegossen worden sei? Er antwortete: **"nein!"** **"Dann,"** sagte ich,
+**"wenn nicht derselbe Geist über euch ausgegossen worden ist und dieselbe Kraft wie über die Apostel, so seid ihr vom Geist und der Kraft der ersten Kirche abgefallen; weiter braucht dann nicht viel beigefügt zu werden."**
+Dann fragte ich ihn, auf was
+für Schriftstellen sie sich beriefen bei Errichtung von Nonnen- und
+Mönchs-klöstern und Abteien für alle ihre verschiedenen Orden?
+und beim Beten mit Rosenkränzen und zu Bildern, und ihrem
+Bekreuzen und ihren Verboten wegen allerlei Speisen und beim
+Heiraten und bei ihrem Hinrichten um des Glaubens willen?
+**"Wenn ihr,"** sagte ich,
+**"die Gebräuche der ersten Kirche habt, in ihrer Reinheit und Jungfräulichkeit, so zeiget uns Schriftworte, welche beweisen, das sie solches getan."**
+Wir hatten nämlich vorher gegenseitig abgemacht, das wir unsere Behauptungen aus
+<!-- ./130-139/p_s137.jpg -->
+der Schrift beweisen sollten. Er sprach nun
+von einem geschriebenen und einem ungeschriebenen Wort. Ich
+fragte ihn, was er das ungeschriebene Wort nenne? Er sagte, das geschriebene
+Wort sei die Schrift, das ungeschriebene das mündliche Wort der
+Apostel, also alle Überlieferungen, nach denen sie wandeln. Ich
+hieß ihn, das aus der Schrift beweisen. Er kam nun mit der
+Stelle, wo der Apostel, 2. Thess. 2:5,
+ sagt:
+**"Gedenket ihr nicht daran, das ich euch solches sagte, als ich noch bei euch war?"**.
+**"Damit,"** sagte der Jesuit,
+**"meint der Apostel die Klöster und das Hinrichten um des Glaubens willen und das Beten mit Rosenkränzen und zu Bildern und was noch mehr der Gebräuche der römischen Kirche sind. Das ist gemeint mit dem ungeschriebenen Wort, das der Apostel damals gesagt und das sich seither durch Überlieferung bis auf unsere Zeit erhalten hat."**
+Ich hieß
+ihn nun, dieses Wort noch einmal lesen, damit er sehe, wie er es
+verdreht hatte. Denn das, wovon er dort den Thessalonichern
+sagt,
+**"das er ihnen zuvor gesagt"**, ist nicht ein
+**"ungeschriebenes Wort"**, sondern eines, das geschrieben
+ist, nämlich das
+**"der Mensch der Sünde, das Kind des Verderbens geoffenbart werde, ehe der Tag Christi kommen werde"** (2. Thess. 2:3).
+Er redete also durchaus nicht von den Gebräuchen der römischen Kirche. Ähnlich redete
+der Apostel im dritten Kapitel dieses Briefes, von
+**"etlichen argen Menschen, Vorwitzigen, die nichts treiben"**; um deretwillen hatte
+der Apostel mündlich gesagt:
+**"wer nicht arbeiten will, soll auch nicht essen"**;
+an das erinnerte er sie nun schriftlich. Diese Schriftstelle
+bewies also nichts für ihre erfundene Überlieferungen; und eine andere
+Stelle konnte er nicht bringen. Ich sagte ihm darum:
+**"dies ist eine neue Verirrung eurer Kirche in Überlieferungen und Erfindungen, wie die Apostel und die Heiligen der ersten Kirche sie niemals kannten."**
+
+
+Er ging nun zum Altarsakrament über; er fing beim Passalamm
+und den Schaubroten an und kam zuletzt auf die Worte Jesu:
+**"Dies ist mein Leib"**, und auf das, was der Apostel darüber an
+die Corinther schrieb. Er verstand die Stelle so, das, nachdem der
+Priester Brot und Wein geweiht habe, sei dasselbe göttlich und
+unvergänglich, und wer es genieße, genieße Christus selber. Ich
+folgte ihm bei seiner Aufzählung der Bibelstellen, bis er zu den
+Worten Christi und der Apostel kam. Da zeigte ich ihm, wie
+derselbe Apostel den Corinthern auch nach ihrem Genus von Brot und
+<!-- ./130-139/p_s138.jpg -->
+Wem gesagt habe, sie seien Verworfene, wenn Christus nicht in
+ihnen sei; wenn aber Brot und Wein, die sie genossen, Christus
+Leiber Wären, so müsste er ja nun in ihnen sein. übrigens, wenn
+Brot und Wein Christi Leib und Blut wären, wie könnte er dann
+seinen Leib im Himmel haben? Und zu dem haben die Jünger
+Christi Leib essen und sein Blut trinken müssen zu seinem
+Gedächtnis sowohl beim Abendmahl als auch nachher, bis das er
+ja klar beweise, das dass Brot und der Wein nicht
+sein wirklicher Leib war, denn wenn sie seinen wirklichen Leib
+gegessen hätten, so wäre er ja schon gegenwärtig gewesen, und man
+hatte es nicht zu seinem Gedächtnis zu tun brauchen [...].
+
+
+Was die Worte Christi betreffe: dies ist mein Leib, so nenne
+sich Christus auch selbst einen Weinstock (Joh. 1:5) und eine Tür
+(Joh. 1O); und die Schrift nennt ihn einen Fels; ob er darum
+äußerlich ein Weinstock, eine Tür, ein Fels sei?  **"Oh"** sagte der
+Jesuit **"diese Worte mus man auslegen!"**
+**"So mus man auch die Worte: 'die ist mein Leib', auslegen"**, antwortete ich.
+
+
+Nachdem ich ihm so den Mund gestopft, machte ich ihm folgenden
+Vorschlag:
+**"Wegen deiner Behauptung, das Brot und Wein göttlich und unvergänglich und leibhaftig Christus seien und das jeder, der sie genieße, Christus genieße, last eine Zusammenkunft veranstalten zwischen einigen von euch, die der Papst und die Kardinäle bestimmen sollen, und einigen von uns, und las eine Flasche Wein und einen Laib Brot bringen und beide in zwei Teileteilen und den einen dieser Teile weihen. Dann verwahret sowohl den geweihten als den ungeweihten Teil an einem sichern Ort, und last sie gut bewachen; und macht den Versuch, ob das geweihte Brot und der geweihte Wein nicht gerade so schnell schlecht werden, wie das; ungeweihte Brot und der ungeweihte Wein [... ] und so wird die Wahrheit über diese Punkte offenbar werden. Wenn das geweihte Brot und der geweihte Wein sich nicht verändern, sondern schmackhaft und gut bleiben, so werden dadurch viele für eure Kirche gewonnen werden; verändern sie sich aber, so müsst ihr nachgeben, euren Irrtum fahren Essen Und kein Blut mehr darum vergießen. Es ist schon viel Blut darum vergossen worden, zum Beispiel zur Zeit der Königin Maria"**
+Hierauf erwiderte der Jesuit:
+**"Nehmt ein Stück neuen Stoff und schneidet ihn in zwei Hälften, und machet zwei Röcke daraus und zieht den einen Rock dem König David an und den**
+<!-- ./130-139/p_s139.jpg -->
+**andern einem Bettler; beide Röcke werden sich gleichermaßen abtragen"**.
+**"Ist das deine Antwort"**, fragte ich; **"ja"**,
+antwortete er; **"dann"**, entgegnete ich,
+**"werden alle Anwesenden überzeugt sein, das; euer geweihter Wein und euer geweihtes Brot nicht Christus ist. Habet ihr den Leuten solange vorgeschwatzt, der geweihte Wein und das geweihte Brot sei Christus, und nun sagst du, sie verbrauchen sich so gut wie die andern? Ich sage dir: Christus ist derselbe gestern und heute und verfällt nicht; sondern er ist der Heiligen himmlische Speise jetzt und zu allen Zeiten"**.
+Hieraus erwiderte er nichts mehr, sondern hörte gerne
+auf, denn die Anwesenden sahen, das er im Irrtum war und sich
+nicht verteidigen konnte.
+
+
+Ich fragte ihn weiter, warum seine
+Kirche die Leute um des Glaubens willen töte und verfolge?
+Er erwiderte:
+**"nicht die Kirche tue das, sondern die Obrigkeit"**.
+Ich fragte ihn, ob denn diese Obrigkeit sich nicht auch zu den
+Gläubigen und Christen zähle? Er bejahte es.
+**"Nun also"**,
+sagte ich,
+**"sind sie denn dann nicht Glieder eurer Kirche?"** Er
+antwortete: **"ja"**. Daraus überließ ich es den Anwesenden, selber
+zu urteilen, ob die römische Kirche nicht die Leute um des Glaubens
+willen verfolge und töte. Hiermit trennten wir uns. Seine
+Spitzfindigkeiten erklärten sich durch seine Dummheit.
+
+## Trostbrief an Lady Elaypole ##
+
+Es lag vieles auf mir während der Zeit, da ich in London
+war, denn es war eine Zeit großer Not. Es trieb mich, an
+Oliver Cromwell zu schreiben,
+und ihm die Bedrängnis der Freunde, sowohl in England
+als auch in Irland vorzustellen.
+Das Gerücht verbreitete sich damals, man wolle Cromwell zum
+König machen. Da trieb es mich, zu ihm zu gehen und ihn davor
+zu warnen, wie auch vor mancher anderen Gefahr, die seinen
+und seiner Nachkommen Untergang herbeiführen würden, wenn
+er sie nicht meide. Er schien alles, was ich ihm sagte, gut
+aufzunehmen, und dankte mir dafür; dennoch trieb es mich, ihm
+nachher noch ausführlicher darüber zu schreiben [...].
+
+
+Um diese Zeit erkrankte Lady Elaypole (die Lieblingstochter
+Oliver Cromwells), und
+war sehr niedergeschlagen, und niemand konnte sie trösten; als
+ich davon hörte, trieb es mich, ihr folgendes
+zu schreiben:
+
+
+> Freundin!
+>
+> Sei stille und ruhig in deinem Innern, und frei von eigenem
+> Denken; dann wirst du das Walten Gottes erfahren, wie es
+<!-- ./140-149/p_s140.jpg -->
+> deine Sinne auf den Herrn lenkt, aus welchem das Leben
+> kommt; und dann wirst du seine Kraft an dir spüren, die dich
+> stark macht gegen alle Stürme und Unwetter. So allein wirst
+> du Geduld erlangen, Unschuld, Reinheit, Ruhe, Festigkeit und
+> Frieden in Gott. Darum lässt dich der Herr ermahnen, dich
+> seinem Willen zu unterwerfen und Glauben zu haben, damit du
+> das, was dich bedrückt, überwindest. [...].
+
+
+> Ich ermahne alle,
+> in der Furcht des Herrn zu bleiben, damit ihr die Geheimnisse
+> Gottes erfahren möget und seine Weisheit und unter dem Schatten
+> des Allmächtigen sitzet in allen Gefahren und Stürmen. Denn
+> der Herr ist nahe, und der Höchste regieret die Menschenkinder.
+> Des Herrn Wort ergehet an alle, das sie in allen Versuchungen
+> und Verwirrungen, welche das Licht an den Tag bringt, sich nicht
+> bei diesen Versuchungen und Schlechtigkeiten aufhalten, sondern
+> auch das Licht sehen, welches sie aufdeckt und an den Tag
+> bringt; und in diesem Lichte könnet ihr über dies alles steigen
+> und die Kraft empfangen, ihm entgegen zu treten. Das gleiche
+> Licht, welches euch die Sünde erkennen lässt, zeigt euch auch den
+> Bund mit Gott, welcher eure Sünden tilgt und euch Sieg gibt
+> über sie.   Wenn ihr die Versuchung und das Schlechte ansehet,
+> so wird es euch mitreisen; wenn ihr aber zum Licht ausblickt,
+> welches die Sünde aufdeckt, so wird es euch überwinden helfen.
+> Es wird euch den Sieg geben und ihr werdet Gnade und Kraft
+> von oben erfahren; dies ist der erste Schritt zum Frieden. Ihr
+> werdet das Heil erlangen und werdet die Herrlichkeit sehen, die
+> war, ehe der Welt Grund gelegt war; und dadurch werdet ihr
+> den Samen Gottes erkennen lernen, der das Erbe der
+> Verheißungen Gottes ist [...].
+>
+> Also stärke dich der Herr im Namen Jesu Christi.
+>
+> G. F.
+
+
+Als diese Zeilen Lady Elaypole vorgelesen wurden, sagte sie,
+es habe für den Augenblick ihren Geist gestärkt. Später
+verschafften sich viele Freunde in England und Irland Abdrücke
+davon und lasen es anderen, die niedergedrückt waren, vor; und
+es hat manchem zur Aufrichtung geholfen.
+
+## Letzte Begegnung mit Oliver Cromwell ##
+
+Um diese Zeit erschien ein Aufruf von Oliver Cromwell für
+eine Kollekte zur Unterstützung der aus Polen vertriebenen
+protestantischen Gemeinden  und für 20 aus Böhmen verbannte
+Familien. Schon einige Zeit vorher war ein ähnlicher Ausruf
+erlassen worden, der zu einem feierlichen Fast- und Bettag
+<!-- ./140-149/p_s141.jpg -->
+aufforderte, damit eine Kollekte gemacht würde zum Besten der
+notleidenden Protestanten in den Tälern von Lucerne, Angrona und
+an anderen Orten, welche der Herzog von Savoyen verfolgte.
+Es trieb mich, dem Protektor und den obersten Behörden bei
+dieser Gelegenheit zu schreiben, um ihnen die Art des wahren
+Fastens, das Gott gefällt und von ihm angenommen wird,
+darzulegen und ihnen zum Bewusstsein zu bringen, wie Unrecht sie
+tun und sich selbst verdammen, wenn sie die Papisten tadeln,
+das sie die Protestanten in andern Ländern verfolgen, während
+sie zu gleicher Zeit ihre protestantischen Nachbarn und die
+Freunde im eignen Land verfolgen [...].
+
+
+Ich begab mich nun nach Hampton Court, um mit dem
+Protektor über die Not der Freunde zu reden. Ich traf ihn auf
+einem Ritt im Hampton Court Park. Ehe ich ihn an der Spitze
+seiner Leibgarde erreichte, spürte ich einen Hauch des Todes
+ihm entgegen huschen; und als ich zu ihm kam, sah er aus wie
+ein Toter. Nachdem ich ihm die Not der Freunde beschrieben
+hatte und nach meinem inneren Trieb ihn gewarnt hatte, hieß
+er mich, zu ihm heim kommen. So ging ich denn am folgenden
+Tage wieder nach Hampton Court, um nochmals mit ihm zu
+reden. Aber als ich kam, hieß es, er sei krank, und Harwey,
+einer seiner Bedienten, teilte mir mit, die Ärzte wollten nicht,
+das ich mit ihm spreche. So ging ich fort und habe ihn nachher
+nie mehr gesehen.
+
+## Das Kirchenbekenntnis ##
+
+
+Von hier ging ich zu Isaak Pennington in Buckinghamshire,
+wo ich eine Versammlung angezeigt hatte; und des Herrn
+Wahrheit und Kraft wurden herrlich offenbar unter uns. Nachdem
+ich manche Freunde in dieser Gegend besucht hatte, ging ich
+nach London und bald darauf nach Essex; kaum war ich dort,
+so hörte ich, der Protektor sei gestorben, und sein Sohn Richard
+sei zum Protektor gemacht worden; nun kehrte ich wieder nach
+London zurück.
+
+
+Noch vor dieser Zeit war das sogenannte [Kirchenbekenntnis][12.1]
+veröffentlicht worden, von dem es hieß, er sei in der Zeit von
+11 Tagen gemacht worden. Ich verschaffte mir vor der
+Veröffentlichung eine Abschrift, und schrieb eine Antwort dazu, und
+überall wo nun dieses Buch über ihr Bekenntnis verkauft wurde,
+<!-- ./140-149/p_s142.jpg -->
+wurde auch meine Antwort verkauft.
+
+[12.1]: "Die Savoydeklaration der Indepedenten von 1658."
+
+
+Dieses ärgerte etliche der
+Parlamentsmitglieder, so das mir einer von ihnen mitteilte, ich
+müsste nach Smithfield; ich antwortete ihm:
+ich stehe über ihrem
+Feuer und fürchte sie nicht! Und ich stellte ihm weiter vor, ob
+denn alle die vielen Völker seit 1600 Jahren ohne Glauben
+gewesen seien, das die Priester jetzt kommen müssen und ihnen einen
+machen?
+**"Sagte nicht der Apostel, das Jesus der Anfänger und Vollender des Glaubens war (Hebr. 12:2)? Und wenn nun Christus der Anfänger des Glaubens der Apostel war und des Glaubens der ersten Kirche in den ersten Zeiten und des Glaubens der Märtyrer, sollten nicht alle Menschen zu ihm aussehen als dem Anfänger und Vollender ihres Glaubents, und nicht zu den Priestern?"**
+Wir hatten viel Not mit diesem Vekenntnis. [...]
+
+## Theatralische Auftritte der Quaker ##
+
+Ich ging nach Reading, wo ich während etwa zehn Wochen
+viel unter schwerer Niedergeschlagenheit und Trübsal zu leiden
+hatte. Denn ich sah, wie viel Uneinigkeit und Verworrenheit
+unter den Völkern herrschte und wie die Mächte suchten, sich
+gegenseitig aufzufressen. Und ich sah, wie die Unschuld vernichtet
+und die Wahrheit verleugnet wurde. Heuchelei, Betrug und
+Streit gewannen die Oberhand, so das man überall bereit war,
+sich gegenseitig das Schwert durch die Brust zu stoßen. Viele
+waren empfänglich gewesen, als sie noch niedrig gewesen waren;
+nachdem sie aber empor gekommen waren, und Macht erlangt
+hatten und geholfen, andere zu töten, wurden sie bald so
+schlecht wie die übrigen, so das wir oft mit ihnen in Streit
+gerieten wegen unsrer Hüte und wegen des
+**"Du"** -- sagens.index{Anrede} Sie
+kehrten ihre zur schau gestellte Geduld und Mäßigkeit in Zorn und
+Ungeberdigkeit, und viele von ihnen taten wie Wahnsinnige wegen
+dieser Hutehre. Denn sie waren durch die Verfolgung der
+Unschuld verhärtet worden, und kreuzigten nun den Samen,
+Christus, in sich und
+in andern; bis sie schließlich anfingen, sich
+untereinander zu beißen und auszuzehren, nachdem sie das, was
+Gott in ihnen hatte ausgehen lassen, beleidigt und zerstört hatten.
+Darum stürzte sie Gott bald und machte die Hohen niedrig, und
+stellte den König über die, die so oft behauptet hatten, die Quäker
+kommen zusammen, um die Rückkehr König Karls zu beraten,
+während doch die Freunde sich nie um die äußern Mächte und
+Regierungen bekümmert hatten. Zuletzt hat
+Gott ihn dann zurückgebracht, und viele, als sie sahen,
+das er doch kommen werde,
+<!-- ./140-149/p_s143.jpg -->
+stimmten für sein Kommen. So preiset nun Gott mit Herz und
+Mund, der die Herrschaft hat über alles [...].
+
+Ich ahnte die
+Rückkehr des Königs voraus, und so taten manche andere. Ich
+schrieb mehrere Male an Oliver um ihm zu sagen, das, während
+er das Volk Gottes verfolge, seine Feinde sich rüsten, ihn zu
+stürzen. Als einige Voreilige unter uns Somerset House kaufen
+wollten, um Versammlungen drin zu halten, verbot ichs ihnen;
+denn ich sah die Rückkehr des Königs voraus. Sodann kam eine
+Frau zu mir, welche eine Vorahnung von der Rückkehr des
+Königs gehabt hatte, drei Jahre, ehe er wirklich kam; und
+erklärte mir, sie müsse hingehen und es ihm sagen. Ich riet ihr,
+das dem Herrn zu überlassen und es für sich zu behalten; denn
+wenn es entdeckt würde, in welcher Angelegenheit sie hingehe, so
+würde man es als Verrat ansehen; sie beharrte darauf, sie müsse
+zu ihm gehen und ihm sagen, das er wieder nach England
+zurückkehren werde. Da erkannte ich, das ihre Vorahnung sich
+erfüllen werde; denn es musste ein schwerer Schlag die treffen,
+die damals so große Macht hatten und so harte Verfolgungen
+ausübten; sie hielten sich für heilig und nahmen doch den Freunden
+ihre rechtmäßigen Besitzungen, weil sie nicht schwören wollten.
+
+
+Oft wenn wir Oliver diese Dinge berichteten, wollte er sie nicht
+glauben. Darum trieb es Thomas Aldam und Anthony Pearson,
+in alle Kerker von ganz England zu gehen und Aufzeichnungen
+zu machen darüber, wie die Freunde von den Kerkermeistern
+behandelt wurden, damit sie die Größe ihrer Leiden Oliver
+vorbringen könnten. Und als er dennoch keinen Befehl geben wollte,
+sie frei zu lassen, trieb es Thomas Aldam seine Mütze vom Kopf
+zu nehmen, sie vor Olivers Augen in Stücke zu zerreißen und zu
+rufen:
+**"Also soll auch deine Herrschaft von dir und deinem Hause gerissen werden"**.
+Eine Frau, die auch zu den Freunden
+gehörte, trieb es, ins Parlament zu gehen, welches den Freunden
+übel wollte, mit einem Krug in der Hand, den sie vor ihnen
+zerschlug und rief: **"so sollt ihr in Stücke zerschlagen werden!"**
+was auch bald darauf geschah.
+
+## Zwischen den Konfliktparteien ##
+
+Während meiner großen Niedergeschlagenheit
+und inneren Prüfung, die ich um meines Landes willen
+zu erdulden hatte, weil die große Heuchelei, Falschheit und
+Verräterei mich schwer drückte, sah ich, das Gott die, welche jetzt
+unten waren, über die, welche jetzt oben waren, erhöhen werde,
+und das alle sich dem, das sie bekehren konnte, verneigen müssen,
+<!-- ./140-149/p_s144.jpg -->
+ehe sie Herr werden würden über den bösen Geist, nach innen
+und nach außen. Denn nur der eine unsichtbare Geist kann und
+wird die Heuchelei in den Menschen vernichten [...].
+
+
+Das ganze Land war in Zwiespalt und großer Aufregung;
+die verschiedenen Parteien zankten sich beständig untereinander
+und rotteten sich gegeneinander zusammen, weil jede ihre eigenen
+Interessen durchsetzen wollte. Da ich in großer Sorge war, das
+die Jungen und Unerfahrenen unter uns diesen Versuchungen
+erliegen werden, trieb es mich, allen diesen folgendes zu schreiben:
+
+
+> Ihr Freunde allenthalben!
+>
+> Hütet euch vor Komplotten
+> und Wühlereien, und vor dem Arm des Fleisches, denn alle
+> diese Machthaber sind gefallene Söhne Adams; sie richten der
+> Menschen Leben zugrunde, wie Hunde, Schweine und andere
+> Tiere sich zugrunde richten, sich beißen und zerreißen. Wie
+> entstand das Streiten und Töten anders als aus der Lust? Und
+> dies alles kommt vom gefallenen Adam her, nicht von demjenigen
+> Adam aber, der nicht fiel, in welchem Leben und Frieden ist
+> (1. Cor. 15). Ihr seid zum Frieden berufen, darum jaget ihm
+> nach, und dieser Frieden ist in Christus und nicht in dem gefallenen
+> Adam. Alle, die jetzt vorgeben, für Christus zu kämpfen, betrügen
+> sich; denn sein Reich ist nicht von dieser Welt; darum kämpfen
+> seine Diener nicht. Die Streitenden gehören nicht zu seinem
+> Reich, denn sein Reich ist Frieden und Gerechtigkeit [...]. Ihr,
+> die ihr Erben seid des Evangeliums des Friedens, welches
+> gewesen, ehe der Satan war, lebet in diesem Evangelium, suchet den
+> Frieden und das Gute für alle, und lebet in Christus, der
+> gekommen ist, die Seele der Menschen vom gefallenen Adam zu
+> erlösen; das äußere Schwert der Juden, mit dem
+> sie die Heiden umbrachten, war ein Sinnbild
+> des inwendigen Geistes Gottes, der die inwendige heidnische
+> Natur tötet. So lebet denn im friedsamen Reich Jesu Christi, im Frieden
+> Gottes und nicht in den Lüften, aus denen der Krieg entsteht
+> [...] und suchet das
+> Wohl und Gedeihen für alle Menschen.
+>
+> G. F.
+
+
+Bald darauf ergriff George Booth in Cheshire die Waffen
+und [Lanibert][12.2]  zog gegen ihn; daraufhin wollten etliche Hitzköpfe,
+wie solche zuweilen unter uns waren, auch die Waffen ergreifen,
+aber der Herr trieb mich, sie zu ermahnen und sie blieben ruhig.
+
+[12.2]: "Lambert war einer der bedeutendsten Generäle aus der Partei Cromwells."
+<!-- ./140-149/p_s145.jpg -->
+
+
+Zur Zeit des sogenannten Sicherheitsausschusses forderte man uns
+auf, die Waffen zu nehmen und manchem von uns wurden hohe
+Stellen und Kommandos angeboten, aber wir schlugen sie alle aus
+und traten mündlich und schriftlich dagegen auf, indem wir
+erklärten, unsere Waffen und Rüstungen seien nicht fleischlich, sondern
+geistlich, und damit keiner unter uns in diese Falle gehe, kam es
+über mich vom Herrn, bei dieser Gelegenheit einige Zeilen der
+Ermahnung an alle zu schreiben [...].
+
+
+Nachdem ich längere Zeit in London verweilt hatte, zog ich
+wieder in den Grafschaften umher, durch Essex
+und Suffolk nach Norwich [...] und von
+da durch Huntingdomshire und Cambridgeshire wieder nach London,
+gerade als General [Monk][12.3] dort
+eingezogen war und die Tore und Befestigungen der Stadt
+fielen. Lange vorher hatte ich ein Gesicht gehabt, in welchem
+ich die Stadt in Trümmer und die Tore eingestürzt gesehen
+hatte, gerade so, wie ich sie nun mehrere Jahre später nach dem
+Brande sehen sollte.
+
+[12.3]: "General Monk, 1660 Genetalleutnant der Republik und nachher eifrig bemüht für die Rückkehr Karl II."
