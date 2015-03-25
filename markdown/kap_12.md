@@ -194,7 +194,8 @@ Jesuit **"diese Worte mus man auslegen!"**
 
 Nachdem ich ihm so den Mund gestopft, machte ich ihm folgenden
 Vorschlag:
-**"Wegen deiner Behauptung, das Brot und Wein göttlich und unvergänglich und leibhaftig Christus seien und das jeder, der sie genieße, Christus genieße, last eine Zusammenkunft veranstalten zwischen einigen von euch, die der Papst und die Kardinäle bestimmen sollen, und einigen von uns, und las eine Flasche Wein und einen Laib Brot bringen und beide in zwei Teileteilen und den einen dieser Teile weihen. Dann verwahret sowohl den geweihten als den ungeweihten Teil an einem sichern Ort, und last sie gut bewachen; und macht den Versuch, ob das geweihte Brot und der geweihte Wein nicht gerade so schnell schlecht werden, wie das; ungeweihte Brot und der ungeweihte Wein [... ] und so wird die Wahrheit über diese Punkte offenbar werden. Wenn das geweihte Brot und der geweihte Wein sich nicht verändern, sondern schmackhaft und gut bleiben, so werden dadurch viele für eure Kirche gewonnen werden; verändern sie sich aber, so müsst ihr nachgeben, euren Irrtum fahren Essen Und kein Blut mehr darum vergießen. Es ist schon viel Blut darum vergossen worden, zum Beispiel zur Zeit der Königin Maria"**
+**"Wegen deiner Behauptung, das Brot und Wein göttlich und unvergänglich und leibhaftig Christus seien und das jeder, der sie genieße, Christus genieße, last eine Zusammenkunft veranstalten zwischen einigen von euch, die der Papst und die Kardinäle bestimmen sollen, und einigen von uns, und las eine Flasche Wein und einen Laib Brot bringen und beide in zwei Teileteilen und den einen dieser Teile weihen. Dann verwahret sowohl den geweihten als den ungeweihten Teil an einem sichern Ort, und last sie gut bewachen; und macht den Versuch, ob das geweihte Brot und der geweihte Wein nicht gerade so schnell schlecht werden, wie das; ungeweihte Brot und der ungeweihte Wein [... ] und so wird die Wahrheit über diese Punkte offenbar werden. Wenn das geweihte Brot und der geweihte Wein sich nicht verändern, sondern schmackhaft und gut bleiben, so werden dadurch viele für eure Kirche gewonnen werden; verändern sie sich aber, so müsst ihr nachgeben, euren Irrtum fahren Essen Und kein Blut mehr darum vergießen. Es ist
+schon viel Blut darum vergossen worden, zum Beispiel zur Zeit der Königin Maria"**
 Hierauf erwiderte der Jesuit:
 **"Nehmt ein Stück neuen Stoff und schneidet ihn in zwei Hälften, und machet zwei Röcke daraus und zieht den einen Rock dem König David an und den**
 <!-- ./130-139/p_s139.jpg -->
@@ -377,7 +378,7 @@ nachdem sie aber empor gekommen waren, und Macht erlangt
 hatten und geholfen, andere zu töten, wurden sie bald so
 schlecht wie die übrigen, so das wir oft mit ihnen in Streit
 gerieten wegen unsrer Hüte und wegen des
-**"Du"** -- sagens.index{Anrede} Sie
+**"Du"**-sagens. Sie
 kehrten ihre zur schau gestellte Geduld und Mäßigkeit in Zorn und
 Ungeberdigkeit, und viele von ihnen taten wie Wahnsinnige wegen
 dieser Hutehre. Denn sie waren durch die Verfolgung der

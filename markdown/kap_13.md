@@ -1,0 +1,427 @@
+<!-- %%%%%%%%%%%%%%%%%%% Kapitel 13. %%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+
+# Ein Gottesgericht. Ermahnung zur Barmherzigkeit bei Schiffbrüchen. Qnakerfreundlicher Erlass des General Monk. Fox als Königsfeind gefangen und schließlich auf Befehl Karls II. befreit. #
+
+## Provokationen und Störungen in den Versammlungen ##
+
+Als ich nun meine Arbeit in London getan, ging ich nach
+Surrey und Sussex, [...] dann nach Hampshire, Dorsetshire,
+Ringwood und Poole, wo ich überall Freunde besuchte und große
+Versammlungen unter ihnen hatte.
+In Dorchester hatten wir eine große Abendversammlung in
+unserer Herberge, bei der viele Soldaten zugegen waren, die alle
+ziemlich anständig waren. Aber da erschienen die Wachen und
+Schutzleute der Stadt unter dem Vorwand, sie müssten einen
+geschorenen Jesuiten suchen und verlangten, das alle ihre Hüte
+abnähmen, oder sie würden sie abnehmen, um die Tonsur des Jesuiten
+zu finden. So nahmen sie mir den Hut ab und untersuchten
+mich genau, denn mich hatten sie im Verdacht; aber als sie keine
+kahle oder geschorene Stelle fanden, gingen sie beschämt fort. Und
+<!-- ./140-149/p_s146.jpg -->
+die Soldaten und andere Leute ärgerten sich sehr über sie. Aber
+es förderte die Sache Gottes und alles diente zum Guten, denn
+es machte den Leuten Eindruck, und nachdem die Beamten fort
+waren, hatten wir eine schöne Versammlung, und viele wurden
+zum Herrn Jesus bekehrt, ihrem Lehrer, der sie erkauft hat und
+sie versöhnen will mit Gott.
+
+
+Von da gingen wir nach Somersetshire, wo die Presbyterianer
+und andere **"Fromme"** sehr böse
+waren und oft die Versammlungen der Freunde störten. Einmal
+hatten sie einen sehr schlechten Menschen dazu veranlasst,
+in eine Versammlung der Quäker zu gehen und eine Bärenhaut
+anzuziehen und Unsinn zu treiben. Er setzte sich gerade dem Freund,
+der redete, gegenüber mit seiner Bärenhaut über dem Rücken
+und streckte die Zunge heraus und machte eine große Unruhe.
+Aber ein schweres Gericht kam über ihn, und seine Strafe schlummerte
+nicht; als er aus der Versammlung heim ging, kam er an einer
+Stierhetze vorüber und blieb stehen, um zuzusehen; als er aber
+nahe bei dem Stier war, stieß dieser dem Mann das Horn in
+den Hals, so das seine Zunge heraus hing, gerade wie er es
+vorher in der Versammlung gemacht hatte. Und der Stier stieß
+sein Horn durch den Kopf des Mannes hindurch, und schwang
+ihn schrecklich in der Luft herum. So kam er, der dem Volke
+Gottes hatte Schaden zufügen wollen, selber zu Schaden, und
+es wäre gut, wenn solche Beispiele der Rache Gottes andere lehren
+würden, sich zu hüten [...].
+
+## Appell zur Rettung Schiffbrüchiger ##
+
+Wir gingen durch Somersetshire, Plymouth und Devonshire
+nach Cornwall [...]. Während ich hier war,
+geschahen große Schiffsbrüche in der Nähe von Landsend. Nun war es Brauch
+in jener Gegend, das bei einem solchen Anlass reich und arm
+hinaus ging, um so viel wie möglich von den Überresten an
+sich zu bringen, unbekümmert um die Rettung der Menschen. An
+einigen Orten nannten sie sogar einen Schiffbruch eine
+Gottesgnade. Es betrübte mich, von solchem unchristlichen Treiben zu
+hören und zu sehen, wie tief diese Leute unter den Heiden von
+Melite stehen, die Paulus aufnahmen, ihm ein Feuer machten
+und freundlich waren gegen ihn und die anderen Schiffbrüchigen
+(Act. 28). Darum trieb es mich, ein Schreiben
+an alle Gemeinden,
+Priester und Behörden zu senden, um sie wegen ihres habsüchtigen
+Treibens zu tadeln und sie zu ermahnen, so oft sie könnten, mit
+Eifer behilflich zu sein, wenn es gelte, Menschenleben zu retten
+<!-- ./140-149/p_s147.jpg -->
+und Schiffe und Waren zu schützen; auch sollten sie auch bedenken,
+wie grausam es ihnen vorkommen würde, wenn sie selber
+Schiffbruch litten und die Leute suchen würden, ihnen soviel wie
+möglich zu rauben, ohne sich um ihre Rettung zu kümmern [...].
+Diese Schrift hatte viel Erfolg beim Volk; die Freunde bemühten
+sich um die Rettung der Schiffbrüchigen und den Schutz der
+Schiffe und der Habe, ja, Freunde haben Schiffbrüchige, die halb
+tot und Verhungert waren, bei sich aufgenommen und sie gepflegt
+und unterstützt; alle wahren Christen sollten so handeln [...].
+
+## Fox wird erneut verhaftet ##
+
+Die Soldaten, die unter dem Befehl des General
+Monk standen, waren damals oft sehr grob
+und störten die Versammlungen
+der Freunde an manchen Orten. Als man sich darüber
+beim General Monk beklagte, erließ er folgenden Befehl, worauf
+es etwas besser wurde:
+
+> St. James, 9. März 1659.
+>
+> Ich will, das alle Offiziere und Soldaten sich hüten, die
+> friedlichen Versammlungen der Quäker zu stören, da sie nichts
+> tun, das dem Parlament oder dem Commonwealth von England
+> zuwider ist.
+>
+> George Monk
+
+
+Wir gingen [...] über Oldeston [...] Nailsworth [...] Drayton [...]
+Lancaster nach Swarthmore. Ich war noch nicht lange dort, als Henry
+Porter, ein Friedensrichter, einen Verhaftbefehl
+sandte, um mich zu greifen. Ich hatte dies vorausgefühlt, und
+so kam denn auch, während ich mit Richard
+Richardson und
+Margaret Fell zusammen im Zimmer saß,
+ihre Dienerschaft und
+meldete, es seien einige da, die durchsuchten das Haus,
+angeblich um zu sehen, ob Waffen darin seien. Es kam über mich, zu
+ihnen hinaus zu gehen, und als ich an einem von ihnen vorüber
+ging, redete ich ihn an, woraus sie mich nach meinem Namen
+fragten; ich sagte ihn ohne weiteres, worauf sie mich ergriffen
+und sagten, ich sei gerade der Mann, den sie suchten. Und sie
+führten mich fort nach Ulverstone [...].
+Von da brachten sie mich nach Lancaster [...].
+
+
+Als ich dorthin kam, war das Volk
+sehr aufgeregt; ich blieb stehen und sah sie fest an, und sie
+schrien: **"seht diese Augen!"** Nach einer Weile redete ich mit
+ihnen, und da waren sie ziemlich ruhig. Ein junger Mann nahm
+mich mit in seine Wohnung, und nach einiger Zeit kam ein
+Beamter und brachte mich zu Major Porter,
+der den Befehl gegen mich erlassen hatte; es waren noch ein
+paar andere bei ihm. Als
+<!-- ./140-149/p_s148.jpg -->
+ich hereinkam, sagte ich: **"Friede sei mit euch"**. Porter fragte
+mich, warum ich in dieser unruhigen Zeit hierher komme? Ich
+erwiderte: **"Um meine Mitmenschen zu besuchen"**.
+**"Ihr habt überall herum große Versammlungen"**, sagte er; ich erwiderte
+ihm, diese Versammlungen seien aber im ganzen Lande als
+friedliche und ruhige bekannt, und wir seien ein friedliches Volk. Er
+sagte:
+**"Ihr seht aber den Teufel den Leuten im Gesicht geschrieben"**.
+Ich erwiderte:
+**"Wenn ich einen Trunkenbold oder einen Schwörer oder einen Grobian sehe, so kann ich doch nicht sagen, ich sehe den Geist Gottes in ihm."**
+Und ich fragte ihn, ob. er den Geist Gottes sehen könne? Er sagte, wir treten gegen
+ihre Prediger auf. Ich antwortete:
+**"Als wir noch wie Saulus waren und unter den Priestern saßen, da hat man uns nicht schädliche Männer genannt"**
+(Act. 24:5) oder Sektenmacher; aber als wir
+anfingen, Gott zu leben, so wurden wir schädliche Leute genannt
+wie Paulus.
+
+
+Er sagte, wir könnten recht gut reden, er wolle
+lieber nicht mit uns disputieren, aber greifen wolle er uns lassen. Ich
+fragte ihn, warum und auf wessen Befehl er einen Verhaftbefehl
+gegen mich ergehen lasse, und beklagte mich über die Behandlung
+der Beamten bei meiner Gefangenschaft und auf dem Wege
+hierher. Er hörte nicht auf mich, sondern sagte, er habe einen
+Befehl, aber er wolle mich ihn nicht sehen lassen, denn er
+wolle die Geheimnisse des Königs nicht preisgeben; und überdies
+brauche ein Gefangener nicht zu wissen, warum er verhaftet
+sei. Ich sagte ihm, das sei unvernünftig, wie der Gefangene
+sich denn dann verteidigen solle? er solle mir eine Abschrift
+geben. Er sagte, es sei einmal ein Richter bestraft worden, weil
+er einem Gefangenen den Verhaftbefehl gezeigt habe [...] und
+er sagte mir, ich sei ein Friedenstörer im Land. Ich sagte, ich
+sei im Gegenteil ein Segen für das Land durch die Kraft und
+die Wahrheit des Herrn, und der Geist Gottes in den Gewissen
+gebe Zeugnis hiervon. Dann beschuldigte er mich, ich sei ein
+Feind des Königs und beabsichtige einen neuen Krieg anzustiften
+und neues Blutvergießen über das Land zu bringen. Ich erklärte
+ihm, ich habe nie die Gebräuche des Krieges gelernt und sei in
+diesen Dingen so unwissend wie ein Kind. Da kam der Schreiber
+mit dem ausgefertigten Verhaftbefehl und der Kerkermeister wurde
+gerufen, und er musste mich ins Loch tun und niemand durfte
+mich besuchen. Dort sollte ich nun gefangen bleiben, bis mich der
+<!-- ./140-149/p_s149.jpg -->
+König oder daß Parlament frei sprechen würde [...]. Ich ließ
+nun Thomas Eummins und Thomas Green bitten, zum Gefangenwärter
+zu gehen und ihn um eine Abschrift des Verhaftbefehls zu
+bitten, damit ich wisse, warum ich verurteilt sei. Sie gingen hin;
+der Wärter sagte, er könne ihnen die Abschrift nicht geben, weil
+einmal einer bestraft worden, der dies getan, aber sie könnten sie
+durchlesen. Soviel sie sich nachher erinnerten, lautete die
+Anklage also: das ich im Verdacht stehe, ein Störer des
+Landfriedens zu sein, ein Feind des Königs und eine Hauptstütze der
+Quäker-Sekte, und das ich, zusammen mit andern dieser
+Fanatiker, kürzlich versucht habe, Aufstände in dieser Gegend
+anzustiften und das Land in Blut zu tauchen. Darum müsse der
+Kerkermeister mich in sicherem Gewahrsam behalten, bis ich auf
+Befehl des Königs; oder Parlamentes befreit würde.
+
+
+Als mir nun meine Anklage in der Hauptsache bekannt war,
+schrieb ich eine kurze Erwiderung, um meine Unschuld zu zeigen;
+sie lautete:
+
+
+> Ich bin Gefangener in Lancaster, durch Friedensrichter Porter verhaftet.
+> Ich kann keine Abschrift der Anklage erhalten;
+> doch erfahre ich, das sie Behauptungen enthält, die durchaus
+> unrichtig sind, z. B. das ich im Verdacht stehe, ein Friedenstörer
+> zu sein und ein Feind des Königs, und das ich versuche, mit
+> andern zusammen Aufstände anzustiften und Blutvergießen übers
+> Land zu bringen; das ist gänzlich falsch und ich bestreite etc. Es
+> trifft mich keinerlei Verdacht, ein Friedenstörer zu sein; denn
+> ich bin über jeden dieser Punkte schon früher verhört worden, im
+> ganzen Land herum. In den Tagen Cromwells bin ich gefangen
+> genommen worden, weil es hieß, ich habe die Waffen
+> gegen ihn ergriffen, was falsch war, denn ich habe überhaupt nie
+> Waffen getragen; dennoch wurde ich als Gefangener nach London
+> gebracht und vor ihn geführt; dort bewies ich ihm meine Unschuld
+> und das ich ja überhaupt gegen das Gebrauchen irgend einer
+> fleischlichen Waffe sei, da meine Waffen geistliche seien, solche,
+> die die Ursachen des Krieges hinwegnehmen und zum Frieden
+> führen. Daraufhin sprach mich Oliver frei. Darnach wurde ich
+> gefangen durch Major Ceely in Cornwall ins Gefängniß
+> gebracht; er behauptete vor Gericht, ich hätte ihn beiseite
+> genommen und ihm gesagt, ich könne in Zeit einer Stunde
+> vierzigtausend Mann stellen, um das Land in Blutvergießen zu stürzen
+  <!-- ./150-159/p_s150.jpg -->
+> und den König Karl zurück zu bringen.
+> Das war alles ganz
+> falsch und eine Lüge, die er selber erfunden, wie ihm auch bewiesen
+> wurde. Ich harte nie so etwas zu ihm gesagt; ich hatte
+> mich nie an einer Verschwörung beteiligt; ich hatte nie einen Eid
+> geschworen, nie Kriegsübungen\indexname{Kriegsübungen}
+> gemacht. Wie jenes falsche
+> Anschuldigungen gewesen, so sind es jetzt die, die Major Porter
+> vorgebracht [...] Ich bin kein Störer des Landfriedens, sondern
+> ich suche den Frieden aller Menschen [...] Und ebenso ist es
+> falsch, wenn Major Porter sagt, ich sei ein Feind des Königs,
+> denn ich liebe ihn und alle Menschen, wenn sie schon Feinde
+> Gottes sind und ihre eigenen Feinde und meine.
+>  Ich weiß, das
+> seine Rückkehr vom Herrn kommt, damit er viel begangenes Unrecht
+> wieder gut mache. Ich hatte
+> ein Gesicht davon, drei Jahre
+> ehe er zurück kam. Es ist eigentümlich, zu sagen, ich sei ein
+> Feind des Königs; ich habe keinerlei Grund es zu sein, trotzdem
+> ich allerdings viel verfolgt und eingesperrt gewesen bin während
+> der letzten 11 oder 12 Jahre, von den Gegnern sowohl des
+> jetzigen Königs als seines Vaters, also eben von der Partei, die
+> Porter zum Major gemacht und für die er die Waffen führte,
+> aber nicht durch die, die für den König war. Ich war nie ein
+> Feind des Königs, noch irgend eines andern auf Erden. Ich
+> habe die Liebe, die des Gesetzes Erfüllung ist, die nichts Böses
+> denkt, sondern sogar die Feinde liebt, und möchte, das der König
+> errettet würde und die Wahrheit erkennete und dazu käme, Gott
+> zu fürchten und die Weisheit von oben zu erlangen, durch die
+> alle Dinge gemacht sind, damit er in dieser Weisheit regierete zur
+> Ehre Gottes [...].
+>
+> Weil ich nun hier gefangen bin, bis ein Befehl vom König
+> oder dem Parlament mich frei macht, so habe ich solches geschrieben,
+> damit ihr und der König und das Parlament es
+> leset, und alles bedenket, ehe ihr etwas in der Sache tut; und
+> in der Weisheit Gottes untersucht, was für Absichten zugrunde
+> liegen, damit ihr nicht etwas tut, womit
+> ihr die Hand
+> des Herrn gegen euch wendet, wie viele Machthaber zuvor getan,
+> die dann gestürzt wurden von dem Gotts, den wir fürchten und
+> dem wir trauen und zu dem wir Tag und Nacht schreien, und
+> der uns gehöret hat und noch erhört und uns rächen wird. Viel
+> unschuldig Blut ist schon vergossen worden, und viele sind bis in
+> den Tod verfolgt worden durch die, die vor euch die Herrschaft
+  <!-- ./150-159/p_s151.jpg -->
+> hatten; und Gott hat sie ausgespien, weil sie sich gegen das
+> Recht kehrten. Darum prüfet, wie es um euch steht, solange es
+> Tag ist, und nehmet dieses auf als eine Warnung in Liebe
+> an euch.
+>
+> Von einem der unschuldig in Lancaster gefangen liegt, genannt
+> George Fox [...]
+
+
+Bald darauf gab ich eine Schrift gegen das Verfolgen heraus:
+
+
+> Die Papisten, die Common-Prayerleute, die Presbyterianer, Independenten
+> und Baptisten verfolgen einander um ihrer eigenen
+> Erfindungen willen, ihren Messen, ihren Common-Prayer Bücherm,
+> ihrem **"Directory"** und Bekenntnis, dies sie aufgesetzt haben,
+> aber nicht zum Nutzen der Wahrheit; denn sie wissen nicht, wes
+> Geistes Kind sie sind, wenn sie verfolgen und die Leben der Menschen
+> zu zerstören suchen um des Kirchendienstes und der Religion
+> willen, während Christus sagte, er sei nicht gekommen, das
+> Leben der Menschen zu zerstören, sondern es zu retten (Luc. 9).
+> Wir können uns doch nicht solchen anvertrauen, die nicht wissen,
+> wes Geistes Kind sie sind [...] Ihr möchtet gerne ein Gebot
+> haben, um zu zerstören, wie einst die Jünger wollten Feuer vom
+> Himmel regnen lassen, um die, welche Christus nicht aufnehmen
+> wollten, zu zerstören [...] Die, welche das Leben der Menschen
+> zerstören, sind nicht Jünger Christi, des Heilands, [...] wenn ihr
+> die Leben anderer zerstört und verfolget und nicht Buße tut, werdet
+> ihr nicht auferstehen zum Leben mit Gott. Die aber, die wissen
+> wes Geistes Kinder sie sind, die haben den untadeligen Eifer und
+> geben durch den Geist Gottes dem Herrn Leib, Seele und Geist,
+> die sein sind, das er sie bewahre. [...].
+>
+> G. F.
+
+Es trieb mich auch, an den König zu schreiben, um ihn zu
+ermahnen, Barmherzigkeit zu üben gegen seine Feinde und der
+Zügellosigkeit und Gottlosigkeit, die bei seiner Rückkehr im Lande
+aufgekommen war, zu steuern.
+
+> An den König:
+>
+> O König Karl,
+>
+> Du kamst nicht ins Land durch Schwert noch durch Sieg im
+> Kriege, sondern durch die Kraft des Herrn; wenn du nun nicht
+> in derselben lebest, so wirst du nicht gedeihen. Wenn der Herr
+> dir Barmherzigkeit erzeigt hat und dir vergeben hat, und du
+> übest nun nicht auch Barmherzigkeit und Vergebung, so wird der
+> <!-- ./150-159/p_s152.jpg -->
+> Herr deine Gebete nicht erhören, noch die Gebete derer, die für
+> dich beten. Wenn du nicht den Verfolgungen Einhalt gebietest
+> und nicht die Gesetze, welche das Verfolgen um des Glaubens
+> willen gestatten, abschaffst [...] so wirst du so blind werden
+> wie deine Vorgänger; denn das Verfolgen hat immer die Verfolger
+> blind gemacht. Solche aber stürzet Gott durch seine Macht
+> und verfährt streng mit ihnen; aber den Bedrückten schickt er
+> Rettung. Wenn du das Schwert umsonst trägst und lässest
+> Trunkenheit, Schwören, Spielen und dergleichen eitles Treiben
+> ungestraft, wie z.B. das Aufstellen der Maibäume mit dem Bild
+> der Krone oben drauf und dergleichen, so wird das Land bald
+> sein wie Sodom und Gomorra und so schlecht, wie die alte Welt,
+> die den Herrn so betrübte, das er sie untergehen ließ. So wird
+> er auch euch tun, wenn ihr solche Dinge nicht abschafft. Es hat
+> kaum je solche Freiheit, Unrecht zu tun, geherrscht wie jetzt, als
+> ob es nicht Gewalt noch Schwert der Obrigkeit mehr gäbe; und
+> solches ist weder der Regierung noch denen, die recht tun, zum
+> Nutzen. Wir beten für die, welche die Herrschaft haben, das
+> wir ein ruhiges Leben unter ihnen führen können, in Frieden
+> und Gottseligkeit, und das wir nicht durch sie in Gottlosigkeit
+> fallen. Höre und denke darüber nach und tue Gutes, so lange
+> du kannst und Macht hast. Sei barmherzig und vergib; dies
+> ist der Weg, aus dem du überwindest und das Reich Christi
+> erlangst.
+>
+> G. F.
+
+
+## Überführung nach London und Freispruch ##
+
+Es ging lange, ehe der Sheriff einwilligte, mich nach London
+überzuführen, es sei denn, das ich die Kosten trage, was ich
+verweigerte. Schließlich, als sie sahen, das es nicht anders ging,
+gab der Sheriff zu, das ich mit einigen Freunden nach London
+gehe, ohne andere Verpflichtungen als mein Versprechen, an
+dem und dem Tage vor den Richtern in London zu erscheinen,
+so der Herr es zulasse, woraus ich entlassen wurde [...]
+Etwa drei Wochen nach meiner Freilassung gelangte ich nach
+London. Als wir nach Charing Cros kamen, war dort eine
+ungeheure Menschenmenge versammelt, um zu sehen, wie die
+Überreste einiger der früheren Richter des Königs verbrannt
+wurden, die erhängt, ertränkt und gevierteilt worden waren [...].
+
+Als wir den Richtern die gegen uns gerichtete Anklage eingereicht
+hatten, und sie die Worte lasen: meine Freunde und ich
+trachteten Blutvergießen im Lande anzurichten, schlugen sie mit
+<!-- ./150-159/p_s153.jpg -->
+der Hand auf den Tisch; ich erklärte, das ich der Mann sei,
+gegen den diese Anklage gehe, aber ich sei an allem derartigen
+so unschuldig, wie ein neugeborenes Kind, und habe die Anklage
+selber hierher gebracht, und meine Freunde seien ohne Wache mit
+mir gekommen. Sie hatten bis jetzt meinen Hut noch nicht
+beachtet, aber jetzt fiel er ihnen auf und sie fragten: \zitat{Was! ihr
+steht hier im Hut?} Ich sagte ihnen, es geschehe keineswegs
+aus Mangel an Achtung vor ihnen. Darauf befahlen sie, das
+man mir ihn abnehme, und dann riefen sie den Marschall von
+Kings-Bench und sagten zu ihm: \zitat{Ihr müsst diesen Mann in
+Gewahrsam bringen, gebt ihm aber ein Zimmer und legt ihn nicht
+unter die anderen Gefangenen.} Als der Marschall erklärte, er
+habe kein Zimmer frei, das er mir geben könnte, so fragten sie
+mich: \zitat{Wollt ihr morgen um zehn in Westminsterhall vor
+Kings-Bench erscheinen?} Ich antwortete: \zitat{Ja, wenn der
+Herr mir die Kraft gibt.} Hierauf sagte Richter
+Foster zum anderen Richter:
+\zitat{Wenn er sagt ja und es verspricht, so könnet ihr auf sein Wort
+gehen.} Somit war ich entlassen.
+
+
+Am nächsten Tage erschien
+ich zur bestimmten Stunde vor Kings-Bench
+[...] und als ich
+eintrat, trieb es mich zu sagen: **"Friede sei mit euch,"** und die
+Kraft des Herrn kam über alle. Meine Anklage wurde öffentlich
+verlesen. Die Leute waren ziemlich still und die Richter ruhig
+und freundlich, die Gnade des Herrn war mit ihnen. Aber als
+sie an die Stelle kamen, wo es hieß, ich und meine Freunde
+wollten Blutvergießen über das Land bringen und einen neuen
+Krieg anstiften, und das ich ein Feind der Königs sei, da hoben
+sie ihre Hände auf. Da erhob ich meinen Arm und sagte: \zitat{Ich
+bin der Mann, gegen den sich diese Anklage richtet, aber ich bin
+so unschuldig wie ein neugeborenes Kind in dieser Sache, und
+habe nie den Gebrauch der Waffen gelernt. Und meint ihr, wenn
+ich oder meine Freunde solche wären, wie es in der Anklage
+heißt, so hätten wir unsere Anklage selber hierher gebracht?} [...]
+Sie fragten mich, was man mit der Anklage tun solle? ich sagte:
+\zitat{Ihr seid die Richter und könnt hoffentlich in dieser Sache
+richten; tut also was ihr wollt. [...]}
+
+Sie sagten, sie wollten mich nicht verurteilen, denn sie hätten
+nichts gegen mich. Esquire Marsh\footnote{Esquire Marsh, eine
+angesehenen Persönlichkeit am Hofe Karl II, war den
+Ouäkern geneigt und bemühte sich oft für sie und schützte sie vor
+Verfolgungen.} erhob sich und sagte, es sei
+<!-- ./150-159/p_s154.jpg -->
+des Königs Wohlgefallen, das ich freigesprochen werde, wenn sich
+kein Kläger gegen mich erhebe. Sie fragten mich, ob ich es dem
+König und dem Rat überlassen wolle? Ich sagte: **"Ja, gerne."**
+Hierauf schickten sie des Scheriffs Bericht, der die Anklage enthielt,
+dem König, damit er sehe, wessen man mich beschuldigte [...]
+
+Der König, nachdem er dies gelesen und von der ganzen
+Angelegenheit unterrichtet war, war von meiner Unschuld überzeugt
+und sandte einen Befehl, mich frei zu lassen, welcher lautete:
+
+
+> Es beliebt Seiner Majestät, zu befehlen, das man dem Manne
+> George Fox, bislang Gefangener im Kerker von Lancaster, die
+> volle Freiheit schenke [...] Und diese Kundgebung von Seiner
+> Majestät Belieben soll euch als Befehl genügen.
+>
+> Whitehall, 24. Oktober,1660.
+> Edward Nicholat
+
+
+Als ich nun mehr als zwanzig Wochen gefangen gewesen
+war, war ich auf Befehl des Königs rechtmäßig frei geworden;
+die Macht des Herrn hatte meine Unschuld herrlich kund getan.
+Porter wagte nicht, die Anklage, die er fälschlich gegen mich
+erhoben hatte, öffentlich zu berichtigen [...]
+
+
