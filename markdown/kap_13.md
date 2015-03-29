@@ -98,10 +98,8 @@ Wir gingen [...] über Oldeston [...] Nailsworth [...] Drayton [...]
 Lancaster nach Swarthmore. Ich war noch nicht lange dort, als Henry
 Porter, ein Friedensrichter, einen Verhaftbefehl
 sandte, um mich zu greifen. Ich hatte dies vorausgefühlt, und
-so kam denn auch, während ich mit Richard
-Richardson und
-Margaret Fell zusammen im Zimmer saß,
-ihre Dienerschaft und
+so kam denn auch, während ich mit Richard Richardson und Margaret Fell zusammen
+im Zimmer saß, ihre Dienerschaft und
 meldete, es seien einige da, die durchsuchten das Haus,
 angeblich um zu sehen, ob Waffen darin seien. Es kam über mich, zu
 ihnen hinaus zu gehen, und als ich an einem von ihnen vorüber
@@ -356,24 +354,24 @@ gegen den diese Anklage gehe, aber ich sei an allem derartigen
 so unschuldig, wie ein neugeborenes Kind, und habe die Anklage
 selber hierher gebracht, und meine Freunde seien ohne Wache mit
 mir gekommen. Sie hatten bis jetzt meinen Hut noch nicht
-beachtet, aber jetzt fiel er ihnen auf und sie fragten: \zitat{Was! ihr
-steht hier im Hut?} Ich sagte ihnen, es geschehe keineswegs
+beachtet, aber jetzt fiel er ihnen auf und sie fragten:
+**""Was! ihr steht hier im Hut?"** Ich sagte ihnen, es geschehe keineswegs
 aus Mangel an Achtung vor ihnen. Darauf befahlen sie, das
 man mir ihn abnehme, und dann riefen sie den Marschall von
-Kings-Bench und sagten zu ihm: \zitat{Ihr müsst diesen Mann in
-Gewahrsam bringen, gebt ihm aber ein Zimmer und legt ihn nicht
-unter die anderen Gefangenen.} Als der Marschall erklärte, er
+Kings-Bench und sagten zu ihm:
+**"Ihr müsst diesen Mann in Gewahrsam bringen, gebt ihm aber ein Zimmer und legt ihn nichtunter die anderen Gefangenen."**
+Als der Marschall erklärte, er
 habe kein Zimmer frei, das er mir geben könnte, so fragten sie
-mich: \zitat{Wollt ihr morgen um zehn in Westminsterhall vor
-Kings-Bench erscheinen?} Ich antwortete: \zitat{Ja, wenn der
-Herr mir die Kraft gibt.} Hierauf sagte Richter
-Foster zum anderen Richter:
-\zitat{Wenn er sagt ja und es verspricht, so könnet ihr auf sein Wort
-gehen.} Somit war ich entlassen.
+mich:
+**"Wollt ihr morgen um zehn in Westminsterhall vor Kings-Bench erscheinen?"**
+Ich antwortete:
+**"Ja, wenn der Herr mir die Kraft gibt."**
+Hierauf sagte Richter Foster zum anderen Richter:
+**"Wenn er sagt ja und es verspricht, so könnet ihr auf sein Wort gehen."**
+Somit war ich entlassen.
 
 
-Am nächsten Tage erschien
-ich zur bestimmten Stunde vor Kings-Bench
+Am nächsten Tage erschien ich zur bestimmten Stunde vor Kings-Bench
 [...] und als ich
 eintrat, trieb es mich zu sagen: **"Friede sei mit euch,"** und die
 Kraft des Herrn kam über alle. Meine Anklage wurde öffentlich
@@ -389,20 +387,18 @@ habe nie den Gebrauch der Waffen gelernt. Und meint ihr, wenn
 ich oder meine Freunde solche wären, wie es in der Anklage
 heißt, so hätten wir unsere Anklage selber hierher gebracht?} [...]
 Sie fragten mich, was man mit der Anklage tun solle? ich sagte:
-\zitat{Ihr seid die Richter und könnt hoffentlich in dieser Sache
-richten; tut also was ihr wollt. [...]}
+**"Ihr seid die Richter und könnt hoffentlich in dieser Sache richten; tut also was ihr wollt. [...]}"**
 
 Sie sagten, sie wollten mich nicht verurteilen, denn sie hätten
-nichts gegen mich. Esquire Marsh\footnote{Esquire Marsh, eine
-angesehenen Persönlichkeit am Hofe Karl II, war den
-Ouäkern geneigt und bemühte sich oft für sie und schützte sie vor
-Verfolgungen.} erhob sich und sagte, es sei
+nichts gegen mich. [Esquire Marsh][13.1] erhob sich und sagte, es sei
 <!-- ./150-159/p_s154.jpg -->
 des Königs Wohlgefallen, das ich freigesprochen werde, wenn sich
 kein Kläger gegen mich erhebe. Sie fragten mich, ob ich es dem
 König und dem Rat überlassen wolle? Ich sagte: **"Ja, gerne."**
 Hierauf schickten sie des Scheriffs Bericht, der die Anklage enthielt,
 dem König, damit er sehe, wessen man mich beschuldigte [...]
+
+[13.1]: "Esquire Marsh, eine angesehenen Persönlichkeit am Hofe Karl II, war den Ouäkern geneigt und bemühte sich oft für sie und schützte sie vor Verfolgungen."
 
 Der König, nachdem er dies gelesen und von der ganzen
 Angelegenheit unterrichtet war, war von meiner Unschuld überzeugt
