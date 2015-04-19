@@ -459,8 +459,7 @@ Es wurde den Freunden nicht gestattet, mich zu besuchen;
 aber sonst führten sie hier und da jemanden zu mir, entweder
 um mich anzusehen, oder um sich mit mir zu unterreden. Einmal
 kam eine Schar Papisten, um mit mir zu disputieren; sie
-behaupteten, der Papst sei unfehlbar
-und sei immer unfehlbar gewesen
+behaupteten, der Papst sei unfehlbar und sei immer unfehlbar gewesen
 seit Petrus Zeit, aber ich bewies ihnen das Gegenteil aus der
 Geschichte: ein Bischof von Rom, Marcellinuß mit Namen, habe
 den Glauben abgeschworen und den Götzenbildern gehuldigt, dieser
@@ -485,21 +484,20 @@ ermahnte ihn, sein Messer weg zu tun, denn sie kannte seine
 Grundsätze; auf die Frage, was er wohl mit dem Messer gemacht
 hätte, antwortete die Frau: **"er hätte mich erstochen"**, und
 auf die weitere Frage, ob er dies wegen ihrer Religion getan
-hätte, erwiderte sie: **"ja, denn es ist der Grundsatz der Papisten,
-jeden, der von ihrer Religion abtrünnig wird, womöglich zu töten"**.
+hätte, erwiderte sie:
+**"ja, denn es ist der Grundsatz der Papisten, jeden, der von ihrer Religion abtrünnig wird, womöglich zu töten"**.
 Dieses erzählte ich nun den Papisten und fügte bei, ich hätte es
 von jemand, der früher zu ihnen gehört, sich jedoch von ihnen
 gewandt habe, weil er hinter ihre Handlungsweise gekommen war.
 Sie leugneten nicht, das sie solche Grundsätze hätten, fragten
 aber, ob ich nun solches weitererzählen werde? Ich erwiderte:
-**"ja, denn solche Dinge müssen weitererzählt werden, damit man
-erfährt, wie sehr eure Religion vom wahren Christentum
-abweicht"**.
+**"ja, denn solche Dinge müssen weitererzählt werden, damit man erfährt, wie sehr eure Religion vom wahren Christentum abweicht"**.
 Darauf gingen sie sehr zornig fort. Ein anderer Papist, welcher
 kam, um mit mir zu disputieren, behauptete, alle Patriarchen seien
 in der Hölle gewesen, bis Christus zur Hölle hinabgefahren sei,
-da habe der Teufel gesagt: **"was kommst du hierher, unsere sichere
-Burg zu sprengen?"** und Christus habe geantwortet, er komme,
+da habe der Teufel gesagt:
+**"was kommst du hierher, unsere sichere Burg zu sprengen?"**
+und Christus habe geantwortet, er komme,
 um alle diese zu befreien, und sei drei Tage und drei Nächte in
 der Hölle gewesen, um sie alle zu befreien. Ich erwiderte ihm,
 das sei unrichtig, denn Christus habe ja zum Schächer gesagt:
@@ -515,10 +513,11 @@ Lord Falconbridge; mit ihnen kam auch der Gouverneur der
 <!-- ./180-189/p_s182.jpg -->
 Festung Tynemouth und mehrere Adlige. Als ich zu
 ihnen gerufen wurde, sing Witty ein Gespräch mit mir an und fragte mich,
-warum ich im Gefängnis. sei. Ich antwortete: **"weil ich den Geboten
-Christi nicht ungehorsam sein will"**. Er sagte, ich hätte
-dem König den Treueid leisten sollen. Da er ein eifriger
-Preßbyterianer war, so fragte ich ihn,
+warum ich im Gefängnis. sei. Ich antwortete:
+**"weil ich den Geboten Christi nicht ungehorsam sein will"**.
+Er sagte, ich hätte
+dem König den Treueeid leisten sollen. Da er ein eifriger
+Presbyterianer war, so fragte ich ihn,
 ob er denn nicht zuerst gegen
 den König und das Unterhaus geschworen und sich zum
 schottischen Covenant bekannt habe und seither wieder zum König
@@ -555,23 +554,12 @@ Ein andermal brachte der Gouverneur einen Priester zu
 mir, aber sein Mund war bald gestopft. Bald darauf brachte
 er zwei Parlamentsmitglieder, die mich fragten, Ob ich Prediger
 <!-- ./180-189/p_s183.jpg -->
-und Bischöfe gelten lasse. Ich erwiderte: **"ja, solche die Christus
-sendet, die umsonst empfangen und umsonst geben, die dazu bestimmt
-sind und den Geist und die Kraft haben, welche auch die
-Apostel hatten. Solche Bischöfe und Prediger aber wie eure, die
-nichts tun, als was; ihnen ein gutes Einkommen bringt, die
-lasse ich nicht gelten, denn sie sind nicht den Aposteln gleich.
-Christus sagte zu seinen Jüngern: **"Gehet hin in alle Welt und
-predigt das Evangelium umsonst."** Ihr Parlamentsmitglieder,
-die ihr euren Bischöfen und Predigern so große Pfründen gebt,
-ihr habt sie verdorben. Meinet ihr etwa, diese gehen zu allen
-Völkern? oder überhaupt über ihre fetten Pfründen hinaus, um
-zu predigen? Urteilt selber, ob sie das tun oder nicht."**
+und Bischöfe gelten lasse. Ich erwiderte:
+**"ja, solche die Christus sendet, die umsonst empfangen und umsonst geben, die dazu bestimmt sind und den Geist und die Kraft haben, welche auch die Apostel hatten. Solche Bischöfe und Prediger aber wie eure, die nichts tun, als was; ihnen ein gutes Einkommen bringt, die lasse ich nicht gelten, denn sie sind nicht den Aposteln gleich. Christus sagte zu seinen Jüngern: 'Gehet hin in alle Welt und predigt das Evangelium umsonst' Ihr Parlamentsmitglieder, die ihr euren Bischöfen und Predigern so große Pfründen gebt, ihr habt sie verdorben. Meinet ihr etwa, diese gehen zu allen Völkern? oder überhaupt über ihre fetten Pfründen hinaus, um zu predigen? Urteilt selber, ob sie das tun oder nicht."**
 Ein andermal kam die Witwe von Lord Fairfax und viele
 mit ihr, unter anderem auch ein Priester. Es trieb mich, ihnen
 die Wahrheit zu verkünden; der Priester fragte mich, warum wir
-**"du"** und **"ihr"**\footnote{In der ursprünglichen Übersetzung
-wird **"dich"** an dieser Stelle geschrieben.} zu den Leuten sagen?
+**"du"** und **"[ihr][15.7]"** zu den Leuten sagen?
 denn er hielt uns für
 Narren und Dummköpfe deswegen. Ich fragte ihn, ob er finde,
 die, welche die Schrift übersetzten und die Grammatik und
@@ -585,17 +573,20 @@ Einzahl setzen? Wenn es aber weise Männer gewesen seien, die die
 Bibel übersetzten und die Sprachlehre und Grammatik machten,
 so sollen sie sich fragen, ob nicht etwa sie die Narren und
 Dummköpfe seien, die nicht reden wie die Bibel und die Grammatik
-lehre, sondern uns -- die es tun -- darum schelten? So war dem
+lehre, sondern uns - die es tun - darum schelten? So war dem
 Priester der Mund gestopft, und viele wurden
 von der Wahrheit überzeugt und waren recht empfänglich und zugänglich.
 Einige boten mir Geld an, aber ich nahm es nicht.
+
+[15.7]: "In der ursprünglichen Übersetzung wird 'dich' an dieser Stelle geschrieben."
 
 Hierauf kam Doktor Cradock mit drei weiteren Priestern,
 dem Gouverneur und seiner Frau, einer **"Dame"** (lachs) wie
 man zu sagen pflegt, und einer andern **"Dame"** und eine ganze
 Schar mit ihnen. Doktor Cradock fragte mich, warum ich im
-Gefängnis sei; ich antwortete: **"Weil ich den Geboten Christi und
-der Apostel, nicht zu schwören, gehorche."** Wenn aber er, ein
+Gefängnis sei; ich antwortete:
+**"Weil ich den Geboten Christi und der Apostel, nicht zu schwören, gehorche."**
+Wenn aber er, ein
 Doktor und Friedensrichter, mir beweisen könne, das Christus
 <!-- ./180-189/p_s184.jpg -->
 oder der Apostel den Christen, nachdem er ihnen verboten hatte,
@@ -603,81 +594,51 @@ zu schwören, es ihnen nachher wieder zu tun befahl, so wolle
 auch ich es tun. Ich Gab ihm die Bibel, damit er mir irgend
 ein solches Gebot zeige, wenn er könne. Er sagte: **"Ihr sollt
 ohne Heuchelei und heiliglich schwören (Jer. 4, 2)"**. **"Ja, ja,"** sagte
-ich, **"so hieß es zu Jeremias Zeiten, aber das war lange bevor
-Christus befahl: ihr sollt überhaupt nicht schwören (Matth. 5, 34).
-Aus dem alten Testament könnte ich ebenso viele Beispiele oder vielleicht
-noch mehr bringen, aber was nützen sie für den Beweis, das dass
-Schwören auch im neuen Testament erlaubt war, nachdem Christus
-und die Apostel es verboten? Übrigens: zu wem wird dort gesagt,
-sie sollten nicht schwören? zu den Heiden oder zu den Juden?"**
+ich,
+**"so hieß es zu Jeremias Zeiten, aber das war lange bevor Christus befahl: ihr sollt überhaupt nicht schwören (Matth. 5, 34). Aus dem alten Testament könnte ich ebenso viele Beispiele oder vielleicht noch mehr bringen, aber was nützen sie für den Beweis, das dass Schwören auch im neuen Testament erlaubt war, nachdem Christus und die Apostel es verboten? Übrigens: zu wem wird dort gesagt, sie sollten nicht schwören? zu den Heiden oder zu den Juden?"**
 Hierauf gab er keine Antwort. Aber einer der Priester sagte:
 **"zu den Juden,"** und Doktor Cradock gab es zu. **"Gut,"** sagte
-ich, **"aber wo hat Gott je den Heiden ein Gebot gegeben zu
-schwören? und ihr wisset ja, das wir von Natur Heiden sind."**
-**"Allerdings,"** sagte Doktor Cradock; **"zwar zur Zeit des
-Evangeliums musste alles aus zweier oder dreier Zeugen Mund bestätigt
-werden, aber geschworen wurde nicht"**. **"Warum also,"** fragte ich,
-**"zwingst du den Christen Eide ab gegen dein besseres Wissen?
-und warum exkommunizierst du die Freunde?"** (er hatte nämlich
-viele sowohl in York als auch in Lancashire exkommuniziert). Er
-sagte: **"weil sie nicht in die Kirche kamen."** **"So!"** sagte ich,
-**"vor mehr als zwanzig Jahren, als wir noch Knaben und Mädchen
-waren, da überließet ihr uns den Presbyterianern, den Independenten
-und Baptisten, und viele von diesen nahmen uns Hab und
-Gut und verfolgten uns, weil wir uns ihnen nicht anschließen
-wollten; damals waren wir noch jung und wussten wenig
-von euren Ansichten; hättet ihr nun die alten Leute, denen sie
-bekannt waren, bei euch behalten und eure Ansichten in Kraft
-erhalten wollen, so hättet ihr sollen entweder euch nicht von uns
-wenden, wie ihr getan, oder ihr hättet uns sollen eure Episteln,
-Kollekten, Homilien und Abendliturgien senden, wie Paulus ja
-auch den Heiligen geschrieben hatte, als er in der Gefangenschaft
-von ihnen getrennt gewesen war. Wir hätten allesamt können
-Türken oder Juden werden, was das, was wir in dieser Zeit von
-euch empfigen, anbelangt; und nun habt ihr uns, alt und jung,
-exkommuniziert, also aus eurer Kirche ausgestoßen, ehe ihr uns für
-dieselbe gewonnen habt. Ist es nicht ein Unsinn, uns auszuweisen,
+ich,
+**"aber wo hat Gott je den Heiden ein Gebot gegeben zu schwören? und ihr wisset ja, das wir von Natur Heiden sind."**
+**"Allerdings,"** sagte Doktor Cradock;
+**"zwar zur Zeit des Evangeliums musste alles aus zweier oder dreier Zeugen Mund bestätigt werden, aber geschworen wurde nicht"**.
+**"Warum also,"** fragte ich,
+**"zwingst du den Christen Eide ab gegen dein besseres Wissen? und warum exkommunizierst du die Freunde?"**
+(er hatte nämlich
+viele sowohl in York als auch in Lancashire exkommuniziert). Er sagte:
+**"weil sie nicht in die Kirche kamen."** **"So!"** sagte ich,
+**"vor mehr als zwanzig Jahren, als wir noch Knaben und Mädchen waren, da überließet ihr uns den Presbyterianern, den Independenten und Baptisten, und viele von diesen nahmen uns Hab und Gut und verfolgten uns, weil wir uns ihnen nicht anschließen wollten; damals waren wir noch jung und wussten wenig von euren Ansichten; hättet ihr nun die alten Leute, denen sie bekannt waren, bei euch behalten und eure Ansichten in Kraft erhalten wollen, so hättet ihr sollen entweder euch nicht von uns wenden, wie ihr getan, oder ihr hättet uns sollen eure Episteln, Kollekten, Homilien und Abendliturgien senden, wie Paulus ja auch den Heiligen geschrieben hatte, als er in der Gefangenschaft von ihnen getrennt gewesen war. Wir hätten allesamt können Türken oder Juden werden, was das, was wir in dieser Zeit von euch empfingen, anbelangt; und nun habt ihr uns, alt und jung, exkommuniziert, also aus eurer Kirche ausgestoßen, ehe ihr uns für dieselbe gewonnen habt. Ist es nicht ein Unsinn, uns auszuweisen,**
 <!-- ./180-189/p_s185.jpg -->
-ehe wir drin waren? Ja, wenn ihr uns für eure Kirche
-gewonnen hättet und wir ihr angehört hätten und dann etwa
-Unrechtes getan hätten, so wäre es einigermaßen begründet
-gewesen. Was nennst du übrigens **"Kirche?"** **"Nun,"** sagte er,
-**"das was du **"Turmhaus"** nennst."** Darauf fragte ich ihn, ob
-denn Christus sein Blut für das \textit{Turmhaus} vergossen habe. **"Und,"**
-sagte ich, **"wenn nun die Kirche die Braut Christi und Christus das
-Haupt der Kirche genannt wird, glaubst du denn, das \textit{Turmhaus}
-sei die Braut Christi und er das Haupt dieses alten Gebäudes?
-ist er nicht vielmehr das- Haupt der Gemeinde?"** (Eph. 5).
-**"Er ist das Haupt der Gemeinde,"** erwiderte er, **"und sie ist die
-Kirche."** **"Ihr habt also den Namen Kirche, welcher der Gemeinde
-zukommt, einem alten Hause gegeben,"** sagte ich, **"und habt die
-Leute gelehrt, solches zu glauben!"** Weiter fragte ich ihn, warum
+**ehe wir drin waren? Ja, wenn ihr uns für eure Kirche gewonnen hättet und wir ihr angehört hätten und dann etwa Unrechtes getan hätten, so wäre es einigermaßen begründet gewesen. Was nennst du übrigens 'Kirche?'**
+**"Nun,"** sagte er, **"das was du 'Turmhaus' nennst."** Darauf fragte ich ihn, ob
+denn Christus sein Blut für das **Turmhaus** vergossen habe. **"Und,"**
+sagte ich,
+**"wenn nun die Kirche die Braut Christi und Christus das Haupt der Kirche genannt wird, glaubst du denn, das 'Turmhaus' sei die Braut Christi und er das Haupt dieses alten Gebäudes? ist er nicht vielmehr das- Haupt der Gemeinde?"** (Eph. 5).
+**"Er ist das Haupt der Gemeinde,"** erwiderte er,
+**"und sie ist die Kirche."**
+**"Ihr habt also den Namen Kirche, welcher der Gemeinde zukommt, einem alten Hause gegeben,"**
+sagte ich, **"und habt die Leute gelehrt, solches zu glauben!"**
+Weiter fragte ich ihn, warum
 die Freunde verfolgt werden darum, das sie den Zehnten nicht
 geben? Ob Gott je den Heiden geboten habe, den Zehnten zu
 bezahlen? Ob Christus nicht die Zehnten aufgehoben habe, als
-er das Levitische Priestettum,
-das Zehnten nahm, aufhob? Und
+er das Levitische Priestettum, das Zehnten nahm, aufhob? Und
 ob Christus, als er seine Jünger aussandte zu predigen, ihnen
 nicht geboten habe, umsonst zu predigen? und ob nicht alle Diener
 Christi verpflichtet seien, dieses Gebot zu halten? Er sagte, er
 wolle hierüber nicht streiten; er schien überhaupt nicht gern bei
 diesem Gegenstand zu verharren, sondern ging bald zu einem
-andern über und sagte: **"Ihr verheiratet euch, aber man weiß
-nicht, wie ihr dabei verfahrt."** Ich riet ihm, zu kommen und
+andern über und sagte:
+**"Ihr verheiratet euch, aber man weiß nicht, wie ihr dabei verfahrt."**
+Ich riet ihm, zu kommen und
 selbst zu sehen. Er drohte, uns seine Macht fühlen zu lassen; ich
 riet ihm, zu bedenken, das er ein alter Mann sei, und fragte ihn,
 wo er von der Genesis bis zur Offenbarung irgendwo lese, das
 ein Priester jemand getraut habe; er solle mir ein solches Beispiel
 zeigen, wenn er wolle, das wir zu ihnen kommen sollten, um
-ums trauen zu lassen. **"Du hast ja,"** sagte ich, **"einen der Freunde
-zwei Jahre nach seinem Tode noch exkommuniziert
-wegen seiner Ehe; warum exkommunizierst du nicht auch Jsaak, Jakob, Boaö und
-Ruth? Warum machst du deine Macht nicht Lauch an diesen
-geltend? Denn es steht nirgends, das sie von einem Priester
-getraut worden seien, sondern sie nahmen einander in der
-Versammlung in Gegenwart Gottes und seiner Gemeinde; und so
-tun wir. Wir haben also die heiligen Männer und Frauen der
-Schrift auf unsrer Seite in dieser Sache."** Wir redeten lange
+ums trauen zu lassen. **"Du hast ja,"** sagte ich,
+**"einen der Freunde zwei Jahre nach seinem Tode noch exkommuniziert wegen seiner Ehe; warum exkommunizierst du nicht auch Jsaak, Jakob, Boaö und Ruth? Warum machst du deine Macht nicht Lauch an diesen geltend? Denn es steht nirgends, das sie von einem Priester getraut worden seien, sondern sie nahmen einander in der Versammlung in Gegenwart Gottes und seiner Gemeinde; und so tun wir. Wir haben also die heiligen Männer und Frauen der Schrift auf unsrer Seite in dieser Sache."**
+Wir redeten lange
 <!-- ./180-189/p_s186.jpg -->
 hin und her; als er aber sah, das er nichts über mich vermochte,
 ging er fort mit seinen Begleitern [...]
@@ -688,7 +649,7 @@ Newgate und andern Gefängnissen, wo die Krankheit (Pest) herrschte,
 und starben dort. Viele wurden auch verbannt und auf des
 Königs Befehl auf Schiffe gebracht. Oft wollten die Schiffsherren
 sie nicht aufnehmen und setzten sie wieder ans Land; doch gelangten
-viele nach Barbados\ort{Barbados}, Jamaika\ort{Jamaika} und Nevis,
+viele nach Barbados, Jamaika und Nevis,
 und der Herr segnete sie dort [...]
 
 Nachdem ich mehr als ein Jahr im Schlos zu Scarbro gefangen
@@ -696,15 +657,13 @@ gewesen war, schickte ich einen Brief an den König, in
 dem ich ihm von meiner Gefangenschaft berichtete und von der
 schlechten Behandlung, die ich während derselben zu erdulden
 hatte, und das man mir gesagt habe, niemand als er könne mich
-frei machen. Und John Whitehead
-begab sich zu Gsquire Marsh,
+frei machen. Und John Whitehead begab sich zu Gsquire Marsh,
 mit dem er befreundet war, um ihm von mir zu reden, und dieser
 versprach, das, wenn John Whitehead einen Bericht über meine
 Angelegenheit verfassen wolle, er denselben John Birkenhead, der
 über die Begnadigungsgesuche zu entscheiden hatte, einhändigen
 und sich um meine Freisprechung bemühen wolle. John
-Whitehead und Gllis Hookes
-verfassten nun einen Bericht über
+Whitehead und Gllis Hookes verfassten nun einen Bericht über
 meine Gefangennahme und meine Leiden während der Gefangenschaft
 und brachten ihn Marsh, der ihn John Birkenhead überbrachte
 und einen Befehl zu meiner Freisprechung erwirkte. In
@@ -732,21 +691,20 @@ wurden sie noch schlechter und hochmütiger. Ein Freund war nämlich
 getrieben worden, von Huntingdonshire herunter zu kommen, kurz
 vor der Feuersbrunst, und sein Geld herum zu streuen, sein Pferd
 frei in den Straßen herum zuführen, die Kniebänder aufzulösen,
-die Strümpfe herunter hängen zu lassen, das Wams aufzuknöpfen
-und den Leuten zu sagen: **"so werdet ihr herum laufen und euer
-Hab und Gut umherstreuen, halb nackt, wie Wahnsinnige; und so
-geschah es, als die Stadt brannte. So machte der Herr seine
-Propheten und Diener zu Werkzeugen seiner Kraft und gab
-ihnen Zeichen seines Gerichts und sandte sie, das Volk zu warnen;
-aber statt Buße zu tun, haben sie sie misshandelt und etliche
-gefangen genommen, unter der früheren Regierung sowohl als
-jetzt; aber der Herr ist gerecht, wohl dem, der seinen Worten
-gehorcht! Etliche trieb es, nackt in den Straßen umher zu laufen,
+die Strümpfe herunter hängen zu lassen, das Wams auf zuknöpfen
+und den Leuten zu sagen:
+**"so werdet ihr herum laufen und euer Hab und Gut umherstreuen, halb nackt, wie Wahnsinnige"**;
+und so geschah es, als die Stadt brannte. So machte der Herr seine Propheten
+und Diener zu Werkzeugen seiner Kraft und gab ihnen Zeichen seines Gerichts
+und sandte sie, das Volk zu warnen; aber statt Buße zu tun, haben sie sie
+misshandelt und etliche gefangen genommen, unter der früheren Regierung sowohl
+als jetzt; aber der Herr ist gerecht, wohl dem, der seinen Worten gehorcht!
+Etliche trieb es, nackt in den Straßen umher zu laufen,
 um zu zeigen, wie Gott ihnen ihre heuchlerische Frömmigkeit
-abreißabreißen werde und sie nackt und bloß machen werde. Aber
-das Vodas Volk hatte, statt in sich zu gehen, diese oft gegeißelt oder
-sonst mißhandelt oder gar gefangen genommen. Andere trieb es,
-in Sticken umhetzugehen und die Rache und Strafe Gottes wegen
+abreißen werde und sie nackt und bloß machen werde. Aber
+das Volk hatte, statt in sich zu gehen, diese oft geißelt oder
+sonst misshandelt oder gar gefangen genommen. Andere trieb es,
+in Sticken herumzugehen und die Rache und Strafe Gottes wegen
 des großen Hochmutes zu verkünden; aber wenige gaben darauf
 acht. In den Tagen der früheren Regierung machten die falschen,
 frömmlerischen Priester mehrere Petitionen gegen uns an Oliver
