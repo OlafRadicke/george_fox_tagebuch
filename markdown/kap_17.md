@@ -561,7 +561,7 @@ Während ich in Enfield wirkte, spürte ich einen Schaden,
 der öfters unter den Bekennern der Wahrheit vor kam; nämlich,
 wenn sie in ein anderes Land zogen, heirateten  sie unter Freunden,
 bei denen sie fremd waren, und von denen man nicht wusste, ob sie
-makellos : und ordentlich seien oder nicht. Und eine innere Stimme
+makellos: und ordentlich seien oder nicht. Und eine innere Stimme
 hieß mich ihnen folgende Verfahren zur Verhütung derartiger
 Missstände zu empfehlen:
 
