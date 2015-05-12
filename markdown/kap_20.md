@@ -39,7 +39,8 @@ In Slattenford in Wiltshire hatten wir eine schöne Versammlung, obgleich wir
 manchen Widerstand erfuhren von solchen, die sich den
 Frauenversammlungen widersetzten; der Herr trieb mich, dieselben den
 Freunden anzuempfehlen zu Nutz und Frommen der Kirche Christi:
-**"Gläubige Frauen, welche zum Glauben an die Wahrheit berufen sind und desselben köstlichen Glaubens teilhaftig gemacht sind, wie die Männer, und Miterben desselben ewigen Evangeliums des Lebens und Heils, sollen gleicherweise in den Besitz und Stand der Ordnungen des Evangeliums kommen und somit Mitgehilfen der Männer werden bei den Neugestaltungen im Dienst der Wahrheit in den Angelegenheiten der Kirche, wie sie es in den zeitlichen Dingen des täglichen Lebens sind, damit die ganze Hausgemeinde Gottes, sowohl, Männer wie Frauen, ihre Pflicht und Aufgabe im Hausstand Gottes kennen, einsehen und ausüben möchten, damit besser für die Armen gesorgt werde, die Jungen unterrichtet und in Gottes Wegen unterwiesen werden, die Wankelmütigen und Liederlichen zurechtgewiesen und getadelt werden in der Furcht Gottes, die Unbescholtenheit solcher, die sich verheiraten wollen, genauer und strenger untersucht werde in der Weisheit Gottes, und alle Glieder des geistigen Leibes, der Kirche, einander bewachen und helfen in der Liebe."**
+**"Gläubige Frauen, welche zum Glauben an die Wahrheit berufen sind und desselben köstlichen Glaubens teilhaftig gemacht sind, wie die Männer, und Miterben desselben ewigen Evangeliums des Lebens und Heils, sollen gleicherweise in den Besitz und Stand der Ordnungen des Evangeliums kommen und somit Mitgehilfen der Männer werden bei den Neugestaltungen im Dienst der Wahrheit in den Angelegenheiten der Kirche, wie sie es in den zeitlichen Dingen des täglichen Lebens sind, damit die ganze Hausgemeinde Gottes, sowohl, Männer wie Frauen, ihre Pflicht und Aufgabe im Hausstand Gottes kennen, einsehen und ausüben möchten, damit besser für die Armen gesorgt werde, die Jungen unterrichtet und in Gottes Wegen unterwiesen werden, die Wankelmütigen und Liederlichen zurechtgewiesen und getadelt werden in der Furcht Gottes, die Unbescholtenheit solcher, die sich verheiraten wollen, genauer und strenger untersucht werde in der Weisheit Gottes, und alle Glieder des geistigen Leibes, der Kirche, einander bewachen und helfen in
+der Liebe."**
 Aber nachdem diese
 Gegner sich lange in Hader und Zank ereifert hatten, warf der
 Herr einen ihrer Führer darnieder, so das er sich demütigte und
@@ -165,11 +166,8 @@ Anschauungen und Grundsätze dem König darzutun, nicht
 hauptsächlich um meiner eigenen Leiden willen, sondern damit er unsere
 Anschauungen und unsere Gemeinschaft besser verstehe.
 
-\brief{König}{
 > An den König!
-
-> \bigskip
-
+>
 > Der Ausgangspunkt der Quäker ist der Geist von Christus,
 > der für uns gestorben und um unsrer Gerechtigkeit willen auferweckt
 > worden ist, durch welchen wir wissen, das wir sein sind. Er
@@ -202,13 +200,13 @@ Anschauungen und unsere Gemeinschaft besser verstehe.
 
 > Wir können aus großer Gewissenhaftigkeit gegen die Gebote
 > Christi und seiner Apostel nicht schwören, denn es wird uns
-> geboten, in Matth. 5\bibel{Matth. 5} und Jak. 5\bibel{Jak. 5}
+> geboten, in Matth. 5 und Jak. 5
 > bei ja und nein zu bleiben und überhaupt nicht zu schwören,
 > weder beim Himmel, noch bei der Erde,
 > noch bei irgend sonst etwas, auf das wir nicht übles tun und in
-> Verdammnis fallen. Christus sagte: \zitat{Ihr habt gehört, das zu
-> den Alten gesagt ist, ihr sollt keinen falschen Eid tun und Gott
-> euren Eid halten} (Math. 5). Es waren dies wahre und feierliche
+> Verdammnis fallen. Christus sagte:
+> **"Ihr habt gehört, das zu den Alten gesagt ist, ihr sollt keinen falschen Eid tun und Gott euren Eid halten"**
+> (Math. 5). Es waren dies wahre und feierliche
 > Eide, und die, welche sie einst leisteten, hatten sie zu halten,
 > aber Christus und die Apostel verbieten sie zur Zeit des
 > Evangeliums so gut wie die falschen und unnützen Eide. Wenn wir irgend
@@ -230,10 +228,8 @@ Anschauungen und unsere Gemeinschaft besser verstehe.
 > Dies ist von einem, der dem König allezeit Glück und alles
 > Wohlergehen wünscht und allen seinen Untertanen, durch Jesus
 > Christus.
-> \bigskip
-> \begin{flushright}G. F.\end{flushright}
+> G. F.
 
-}
 <!-- ./140-149/p_s140.jpg
 % Hier ist ein Teil des Textet nach 230-239 verschoben worden
 % wegen Formatierung.
@@ -288,20 +284,19 @@ des 12. Monats ab, am 8. kamen wir in London an, und
 am 11. wurde ich vor die vier Richter von Kings Bench
 gebracht, wo Corbet meine Sache führte. Er brachte einen neuen
 Verteidigungsgrund vor, nämlich man dürfe niemand wegen eines
-Prämunire\footnote{Prämunire der tarm. techn. einer
-bestimmten Art von Verbrechen, z. B. das Verweigern des Huldigungseides,
-das bestimmte Strafen wie Entziehung des Grundbesitzes, oft auch
-Gefängnis u. a. zur Folge hatte. Vgl. Stephen, Englisches Strafrecht.}
-einsperren. Daraus erwiderte Richter Hale: \zitat{Mr.
-Corbet, diese Verteidigung hätten sie früher bringen sollen}, dieser
-erwiderte: **" Wir konnten keine Abschrift der Anklage bekommen."**
-Der Richter sagte: \zitat{Das hätten sie uns sagen sollen, dann
-hätten wir sie gezwungen, eine solche früher zu schicken.} [...]
-Corbet blieb dabei, das man nicht wegen eines Praemunire
+Prämunire[20.2] einsperren. Daraus erwiderte Richter Hale:
+**"Mr. Corbet, diese Verteidigung hätten sie früher bringen sollen"**,
+dieser erwiderte:
+**" Wir konnten keine Abschrift der Anklage bekommen."**
+Der Richter sagte:
+**"Das hätten sie uns sagen sollen, dann hätten wir sie gezwungen, eine solche früher zu schicken."**
+[...] Corbet blieb dabei, das man nicht wegen eines Praemunire
 jemand gefangen nehmen könne [...] **" Gut"**, sagte einer der
-Richter, \zitat{wir müssen Zeit haben in unsern Büchern nachzusehen,
-und die Statuten nachzuprüfen}. Somit wurde das Verhör auf
-den folgenden Tag Verschoben.
+Richter,
+**"wir müssen Zeit haben in unsern Büchern nachzusehen, und die Statuten nachzuprüfen"**.
+Somit wurde das Verhör auf den folgenden Tag Verschoben.
+
+[20.2]: "Prämunire der tarm. techn. einer bestimmten Art von Verbrechen, z. B. das Verweigern des Huldigungseides, das bestimmte Strafen wie Entziehung des Grundbesitzes, oft auch Gefängnis u. a. zur Folge hatte. Vgl. Stephen, Englisches Strafrecht."
 
 Am folgenden Tage ließen sie diesen Verteidigungsgrund
 lieber fallen und fingen gleich mit den Irrtümern in der Anklage
@@ -320,10 +315,9 @@ Viel mehr gute, und so erklärten er und die übrigen Richter mich
 Während meiner Gefangenschaft in Worcester hatte ich trotz
 meiner häufigen Krankheit, und trotzdem ich so oft nach London
 und wieder zurückgezerrt wurde, mehrere Bücher für den Druck
-geschrieben. Eines derselben war betitelt: \index[buch]{Eine Warnung an
-England}. Ein anderes war: \zitat{An die
-Juden, um zu beweisen, das der Messias gekommen ist}\index[buch]{An die
-Juden, um zu beweisen, das der Messias gekommen ist}.
+geschrieben. Eines derselben war betitelt:
+**"Eine Warnung an England"**. Ein anderes war:
+**"An die Juden, um zu beweisen, das der Messias gekommen ist"** .
 <!-- ./240-249/p_s243.jpg -->
 Ein anderes: **" Von der Inspiration, Offenbarung und Weissagung"**. Ein anderes:
 **" Gegen alles unnütze Disputieren."** Ein anderes:
