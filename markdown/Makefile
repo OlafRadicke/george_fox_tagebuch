@@ -1,3 +1,8 @@
+
+
+all: epub
+
+
 cleanepub:
 	[ -f ./g_fox_tagebuch.epub ] && ./g_fox_tagebuch.epub || echo "is clean"
 
