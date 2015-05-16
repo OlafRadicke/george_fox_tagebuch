@@ -1,6 +1,5 @@
 
 <!-- ./130-139/p_s134.jpg -->
-%%%%%%%%%%%%%%%%%%% Kapitel 12. %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 # Erste Jahresversammlung. Warnung an Cromwell vor der Königskrone. Trostbrief an dessen Tochter. Vorahnung vom Tode Cromwells und der kommenden Reaktion. #
 
