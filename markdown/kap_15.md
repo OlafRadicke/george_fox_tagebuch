@@ -1,5 +1,5 @@
 
-%%%%%%%%%%%%%%%%%%% Kapitel 15. %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- %%%%%%%%%%%%%%%%%%% Kapitel 15. %%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
 # Ein Gottesgericht. Verhaftung wegen angeblicher Verschwörung und schreckliche Gefangenschaft in Lancaster und Cearbo. Disput im Gefängnis mit Baptisten und andern. Fox steht den Brand von London voraus. #
 

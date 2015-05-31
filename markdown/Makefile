@@ -1,6 +1,6 @@
 
 
-all: epub
+all: epubsimple
 
 
 cleanepub:
@@ -47,7 +47,11 @@ epubsimple: cleanepub singledoc
         -o ./g_fox_tagebuch.epub \
         -t epub \
         -f markdown \
+        --number-sections \
+        --epub-chapter-level=1 \
         ./g_fox_tagebuch.tmp.md
+
+	ebook-viewer ./g_fox_tagebuch.epub
 
 html: cleanehtml
 	pandoc \

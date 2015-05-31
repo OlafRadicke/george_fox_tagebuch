@@ -119,12 +119,12 @@ um den Fall recht schwer scheinen zu lassen, eine große Geschichte
 gemacht, es seien Leute von London, von Cornwall, aus dem
 Norden und von Bristol im Hause gewesen, als man mich gefangen
 genommen habe; hieraus erklärte ich ihm, das das alles
-gewissermaßen [eine einzige Familie gewesen sei][10.2], indem niemand von
+gewissermaßen [eine einzige Familie gewesen sei][20.2], indem niemand von
 London dagewesen sei, als ich selber, niemand aus dem Norden als
 meine Frau und meine Töchter, niemand von Cornwall als mein
 Schwiegersohn.
 
-[10.2]: "Der Konventikel-Akt von 1664 sagt: 'jede Prioatandacht von mehr als fünf Personen außer der Familie, wobei nicht das Common-Prayer-Boot zugrunde gelegt wird, wird mit dreimonalichem Gefängnis, zum dritten mal mit Verbannung bestraft."
+[20.2]: "Der Konventikel-Akt von 1664 sagt: 'jede Prioatandacht von mehr als fünf Personen außer der Familie, wobei nicht das Common-Prayer-Boot zugrunde gelegt wird, wird mit dreimonalichem Gefängnis, zum dritten mal mit Verbannung bestraft."
 
 Als ich fertig geredet, stand der Vorsitzende, Simpson, ein
 einstiger Presbyterianer, auf und sagte: \zitat{Was Ihr da sagt, klingt
@@ -284,7 +284,7 @@ des 12. Monats ab, am 8. kamen wir in London an, und
 am 11. wurde ich vor die vier Richter von Kings Bench
 gebracht, wo Corbet meine Sache führte. Er brachte einen neuen
 Verteidigungsgrund vor, nämlich man dürfe niemand wegen eines
-Prämunire[20.2] einsperren. Daraus erwiderte Richter Hale:
+Prämunire[20.3] einsperren. Daraus erwiderte Richter Hale:
 **"Mr. Corbet, diese Verteidigung hätten sie früher bringen sollen"**,
 dieser erwiderte:
 **" Wir konnten keine Abschrift der Anklage bekommen."**
@@ -296,7 +296,7 @@ Richter,
 **"wir müssen Zeit haben in unsern Büchern nachzusehen, und die Statuten nachzuprüfen"**.
 Somit wurde das Verhör auf den folgenden Tag Verschoben.
 
-[20.2]: "Prämunire der tarm. techn. einer bestimmten Art von Verbrechen, z. B. das Verweigern des Huldigungseides, das bestimmte Strafen wie Entziehung des Grundbesitzes, oft auch Gefängnis u. a. zur Folge hatte. Vgl. Stephen, Englisches Strafrecht."
+[20.3]: "Prämunire der tarm. techn. einer bestimmten Art von Verbrechen, z. B. das Verweigern des Huldigungseides, das bestimmte Strafen wie Entziehung des Grundbesitzes, oft auch Gefängnis u. a. zur Folge hatte. Vgl. Stephen, Englisches Strafrecht."
 
 Am folgenden Tage ließen sie diesen Verteidigungsgrund
 lieber fallen und fingen gleich mit den Irrtümern in der Anklage

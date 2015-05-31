@@ -1,4 +1,4 @@
-%%%%%%%%%%%%%%%%%%% Kapitel 8. %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- %%%%%%%%%%%%%%%%%%% Kapitel 8. %%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 
 # Brief an den Papst. Die Studenten von Cambridge. Die Quaker in der Bibel. Wachsende Entfremdung von Cromwell. #
 
