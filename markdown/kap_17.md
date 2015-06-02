@@ -1,23 +1,23 @@
 
 # Reise nach Irland. Rückkehr und Heirat mit Margaret Fell. Ihre abermalige Gefangennahme. Schwere innere Anfechtungen. #
 
+## Fox setzt die Eucharistie (Konsekration) mit dem Baalskult gleich ##
+
 Der Herr trieb mich, nach Irland zu gehen um dort den
 Samen Gottes zu besuchen [...] Als wir auf dem Schiff
 waren, rief ich meinen Gefährten zu:
 **"Lasset uns fröhlich sein im Herrn, denn wir werden gute Winde haben!"**
-Viele waren
-krank während der Überfahrt, aber niemand von den Unsrigen.
+Viele waren krank während der Überfahrt, aber niemand von den Unsrigen.
 Der Kapitän und auch viele der Mitreisenden waren uns sehr
 zugetan, und da wir an einem Ersten Tage auf dem Wasser
 waren, trieb es mich, die Wahrheit unter ihnen zu verkünden,
 worauf der Kapitän zu den andern sagte:
 **"Das sind Dinge, von denen ihr noch nie in eurem Leben gehört habt"**.
-Vor Dublin
-nahmen wir ein Boot und fuhren ans Land, und mir schien, das
+Vor Dublin nahmen wir ein Boot und fuhren ans Land, und mir schien, das
 der Boden und die Luft von der Verdorbenheit dieser Nation
 übel rieche; wenigstens empfand ich einen ganz andern Geruch als
 in England, was ich den päpstlichen Gräueltaten, die hier
-begangen wurden, zuschrieb, und dem Blute, das hier vergossen
+begangen wurden, zu schrieb, und dem Blute, das hier vergossen
 worden war und nun Fäulnis ausströmte [...] Wir fanden
 nicht gleich Freunde und begaben uns darum nach einer Herberge
 und ließen welche aufsuchen und zu uns kommen. Sie waren
@@ -32,15 +32,17 @@ ich dies vernahm, lies ich einen von ihnen zu mir kommen, einen
 Schulmeister, aber er wollte nicht kommen. Darauf schickte ich
 an ihn, sowie an alle Mönche, Klosterbrüder, Priester und Jesuiten
 eine Aufforderung, ihren Gott und ihren Christus, die sie aus
-Brot und Wein gemacht,  zu erproben; aber ich konnte keine
+Brot und Wein gemacht, zu erproben; aber ich konnte keine
 Antwort von ihnen erlangen. Dann erklärte ich ihnen, sie seien
 <!-- ./200-209/p_s202.jpg -->
 ärger als die Baalzpriester:  denn die
 Baalzpriester hätten ihren hölzernen Gott erprobt, sie aber
-dürften nicht wagen, ihren Gott aus Brot und Wein\index{Gott
-aus Brot und Wein}  zu erproben, und die Baalzpriester und ihre
+dürften nicht wagen, ihren Gott aus Brot und Wein zu erproben,
+und die Baalzpriester und ihre
 Anhänger hätten ihren Gott nicht gegessen wie sie und nachher
 einen andern gemacht [...]
+
+## Die Behörden von Cork verfolgen Fox erfolglos ##
 
 Der damalige Bürgermeister von Cork war den Freunden
 und der Wahrheit übel gesinnt und hielt viele Freunde gefangen,
@@ -57,10 +59,10 @@ zu reiten, aber ich bat ihn, es niemand zu sagen. So ritt ich
 mit vielen Freunden von dannen; als wir uns der Stadt näherten,
 hätten sie mir gerne einen Weg hinten um die Stadt herum
 gezeigt, aber ich sagte ihnen, mein Weg gehe durch die Straßen.
-Ich nahm also einen von ihnen, er hieß Paul Morrice,  mit mir,
+Ich nahm also einen von ihnen, er hieß Paul Morrice, mit mir,
 um mir den Weg durch die Stadt zu zeigen und ritt hinein.
 Als wir über den Marktplatz ritten und am Hause des
-Bürgermeisters vorbei, sagte dieser, als er mich vorüberreiten sah:
+Bürgermeisters vorbei, sagte dieser, als er mich vorüber reiten sah:
 **"da geht George Fox vorbei"**, aber er hatte nicht Macht, mich
 anzuhalten. Als wir die Wachen und die Brücke passiert hatten,
 gingen wir zum Hause eines Freundes und stiegen ab. Hier
@@ -72,7 +74,8 @@ Stadt, um Unheil gegen mich anzustiften, und ich spürte auch,
 wie des Herrn Kraft diesen bösen Geist schlug. Andere Freunde,
 die nach und nach herein kamen, berichteten mir, das in der
 Stadt und unter den Behörden meine Anwesenheit bekannt geworden
-sei. Ich sagte: **"Last den Teufel sein Äußerstes tun"**.
+sei. Ich sagte:
+**"Last den Teufel sein Äußerstes tun"**.
 Nachdem die Freunde sich gegenseitig gestärkt hatten und wir
 Reisende uns auch gestärkt hatten, lies ich mein Pferd holen und
 ging mit einem Freunde, der Mich führte, meiner Wege. Aber
@@ -90,8 +93,12 @@ mich hatte, ehe ich ankam. Einer, der zu den Schlimmsten in
 der Behörde gehörte, und zugleich Priester und Friedensrichter
 war, erhielt eine Vollmacht vom Richter, mich zu verhaften; dieser
 Befehl erstreckte sich über seinen ganzen Bezirk, der mehr als
-hundert Meilen umfasste. Aber der Herr machte alle ihre
-Anschläge zu nichte und vereitelte alle ihre Vorhaben. Die treue
+hundert Meilen umfasste.
+
+## Streitgespräch über die Prädestinationslehre bei James Hutchinson ##
+
+Aber der Herr machte alle ihre
+Anschläge zunichte und vereitelte alle ihre Vorhaben. Die treue
 Hand seiner Vorsehung behütete mich vor allen ihren Fallstricken
 und gab uns manche gesegnete Gelegenheit, Freunde zu besuchen
 und die Wahrheit im Lande zu verbreiten. Die Versammlungen
@@ -107,67 +114,68 @@ miteinander in Singen  ausbrachen, und dem Herrn spielten in
 ihren Herzen!
 
 Viele angesehene Personen kamen ins Haus von James
-Hutchinson  in Jrland, um mit mir über Erwählung und Verwerfung zu
-reden. Ich sagte ihnen: **"Wenn ihr schon unsre Ansichten als
-verrückt verwerft: sie sind eben zu hoch für euch, ihr könnt sie
-mit eurer Weisheit nicht verstehen, darum will ich mich in dem,
-was ich sage, nach eurem Verständnis richten. Ihr sagt, Gott
-habe die meisten Menschen zur Hölle verdammt, und sie seien
-dazu verordnet von Anbeginn der Welt, und bringt als Beweis
-dafür den Judasbrief.  Ihr sagt, Esau  sei verworfen gewesen
-und die Ägypter und die Nachkommen des Ham. Aber Christus
-sagt seinen Jüngern: **"gehet hin und prediget allen Völkern"** und
+Hutchinson  in Irland, um mit mir über Erwählung und Verwerfung zu
+reden. Ich sagte ihnen:
+
+> Wenn ihr schon unsre Ansichten als verrückt verwerft: sie sind
+> eben zu hoch für euch, ihr könnt sie mit eurer Weisheit nicht verstehen,
+> darum will ich mich in dem, was ich sage, nach eurem Verständnis richten.
+> Ihr sagt, Gott habe die meisten Menschen zur Hölle verdammt, und sie seien
+> dazu verordnet von Anbeginn der Welt, und bringt als Beweis dafür den
+> Judasbrief. Ihr sagt, Esau  sei verworfen gewesen und die Ägypter und die
+> Nachkommen des Ham. Aber Christus sagt seinen Jüngern:
+> **"gehet hin und prediget allen Völkern' und**
 <!-- ./200-209/p_s204.jpg -->
-**"gehet hin in alle Lande."** Wenn sie nun zu allen Völkern gehen
-mussten, mussten sie denn dann nicht auch zu den Nachkommen
-Esaus und Hams gehen? Ist nicht Christus für alle gestorben,
-also auch für die Nachkommen Esaus, Hams und der Ägypter?
-Sagt nicht die Schrift, Gott will, das allen Menschen geholfen werde?
-Merket wohl: allen Menschen, also auch den Nachkommen Esaus
-und Hamtz. Sagt nicht Gott: **"Agypten mein Volk ?"**
-(Jes. 19,25) und, das er einen Altar in Agypten haben wolle?
-(Jes. 19,19). Waren nicht viele Christen früher in Agypten? Und berichtet
-nicht die Geschichte, das der Bischof von Alexandrien Papst
-gewesen ist? Und hat nicht Gott eine Kirche in Babylonien? Ich
-gebe zu: **"das Wort geschah zu Jakob und das Recht an Israel"**
-(Ps. 147,19) ; solches kam den andern Nationen nicht zu
-denn das Gesetz Gottes war nur Israel gegeben, das Evangelium
-jedoch sollte allen Völkern gepredigt werden und soll es noch.
-Für alle Menschen gilt die gute Botschaft des Friedens:
-**"wer da glaubet, der wird selig, wer aber nicht glaubt, ist schon gerichtet"**
-(Mark. 16,16). Die Verdammung  kommt also durch
-den Unglauben. Und wenn Judas von etlichen sagt, sie seien
-vor Zeiten zur Verdammung bestimmt, so sagt er nicht vor
-Anbeginn der Welt, sondern **"geschrieben vor Zeiten"**, was sich auf
-die Schrift Moses beziehen kann, in welcher von denen geschrieben
-steht, die Juda erwähnt, nämlich Kain, Korah, Bileam und die
-Engel, die ihr Fürstentum nicht behielten. Die Christen nun,
-welche solchem Wandel nachfolgen und abgefallen sind vom Stand
-der ersten Christenheit, waren und sind zur Verdammung bestimmt
-durch das Licht und die Wahrheit, davon sie abgefallen sind.
-Und obgleich der Apostel sagt:
-**"Gott liebte Jakob und haste Esau"** (Röm.9,13), so erinnert er
-doch die Gläubigen,
-**"wir waren alle Kinder des Zorns von Natur, gleich wie die andern"**
-(Eph. 2,3).
-Dies schließt auch den Stamm Jakobs ein, welchem der Apostel
-selber und alle gläubigen Juden angehörten. Die Juden wie die
-Heiden standen also unter der Sünde  und somit
-unter der Verdammung, damit Gott sich aller erbarme in Jesus Christus.
-Die Erwählung stehet bei Christus, und **"wer da glaubt, wird
-selig"** und **"wer nicht glaubt, ist schon verdammt"**. Jakob
-repräsentiert die zweite Geburt, die Gott liebt; und sowohl Juden
-wie Heiden müssen wiedergeboren  werden,
-ehe sie ins Reich Gottes  eingehen können. Wenn ihr wiedergeboren
-sein werdet, so werdet
+> **gehet hin in alle Lande."** Wenn sie nun zu allen Völkern gehen mussten,
+> mussten sie denn dann nicht auch zu den Nachkommen Esaus und Hams gehen? Ist
+> nicht Christus für alle gestorben, also auch für die Nachkommen Esaus, Hams
+> und der Ägypter? Sagt nicht die Schrift, Gott will, das allen Menschen
+> geholfen werde? Merket wohl: allen Menschen, also auch den Nachkommen Esaus
+> und Hamtz. Sagt nicht Gott: **"Ägypten mein Volk?"** (Jes. 19,25) und, das er
+> einen Altar in Ägypten haben wolle? (Jes. 19,19). Waren nicht viele Christen
+> früher in Ägypten? Und berichtet nicht die Geschichte, das der Bischof von
+> Alexandrien Papst gewesen ist? Und hat nicht Gott eine Kirche in Babylonien?
+> Ich gebe zu:
+> **"das Wort geschah zu Jakob und das Recht an Israel"** (Ps. 147,19); solches
+> kam den andern Nationen nicht zu denn das Gesetz Gottes war nur Israel
+> gegeben, das Evangelium jedoch sollte allen Völkern gepredigt werden und
+> soll es noch. Für alle Menschen gilt die gute Botschaft des Friedens:
+> **"wer da glaubet, der wird selig, wer aber nicht glaubt, ist schon gerichtet"**
+> (Mark. 16,16). Die Verdammung kommt also durch den Unglauben. Und wenn Judas
+> von etlichen sagt, sie seien vor Zeiten zur Verdammung bestimmt, so sagt er
+> nicht vor Anbeginn der Welt, sondern
+> **"geschrieben vor Zeiten"**, was sich auf die Schrift Moses beziehen kann,
+> in welcher von denen geschrieben steht, die Juda erwähnt, nämlich Kain,
+> Korah, Bileam und die Engel, die ihr Fürstentum nicht behielten. Die Christen
+> nun, welche solchem Wandel nachfolgen und abgefallen sind vom Stand
+> der ersten Christenheit, waren und sind zur Verdammung bestimmt
+> durch das Licht und die Wahrheit, davon sie abgefallen sind.
+> Und obgleich der Apostel sagt:
+> **"Gott liebte Jakob und haste Esau"** (Röm.9,13), so erinnert er
+> doch die Gläubigen,
+> **"wir waren alle Kinder des Zorns von Natur, gleich wie die andern"**
+> (Eph. 2,3). Dies schließt auch den Stamm Jakobs ein, welchem der Apostel
+> selber und alle gläubigen Juden angehörten. Die Juden wie die
+> Heiden standen also unter der Sünde  und somit
+> unter der Verdammung, damit Gott sich aller erbarme in Jesus Christus.
+> Die Erwählung stehet bei Christus, und
+> **"wer da glaubt, wird selig"** und
+> **"wer nicht glaubt, ist schon verdammt"**. Jakob
+> repräsentiert die zweite Geburt, die Gott liebt; und sowohl Juden
+> wie Heiden müssen wiedergeboren  werden, ehe sie ins Reich Gottes  eingehen
+> können. Wenn ihr wiedergeboren sein werdet, so werdet
 <!-- ./200-209/p_s205.jpg -->
-ihr verstehen, was Erwählung und Verwerfung bedeutet, denn
-die Grwählung stehet in Christus, dem Samen, der
-**"gewesen, ehe der Welt Grund gelegt war"**; die Verwerfung dagegen liegt
-im schlechten Samen, welcher erst nach der Erschaffung der Welt
-entstand. In dieser Weise, nur etwas ausführlicher, redete ich
+> ihr verstehen, was Erwählung und Verwerfung bedeutet, denn
+> die Erwählung stehet in Christus, dem Samen, der
+> **"gewesen, ehe der Welt Grund gelegt war"**; die Verwerfung dagegen liegt
+> im schlechten Samen, welcher erst nach der Erschaffung der Welt
+> entstand.
+
+In dieser Weise, nur etwas ausführlicher, redete ich
 mit diesen Leuten, und sie gestanden, das sie dergleichen noch
 nie gehört hätten.
+
+##  ##
 
 Nachdem ich in Irland umher gereist war und die Freunde
 in ihren Versammlungen besucht hatte, sowohl in geschäftlichen
