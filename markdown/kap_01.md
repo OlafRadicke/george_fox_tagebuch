@@ -5,11 +5,11 @@
 -->
 # Erweckung und Krisis bis zum Durchbruch. #
 
-
+## Kindheit und Jugend ##
 
 Auf das Jedermann wisse, was der Herr an mir getan, und
 sehe, wie Er mich durch mancherlei Prüfungen, Versuchungen und
-Trübsal führte, um mich für das Werk, für das; Er mich bestimmt
+Trübsal führte, um mich für das Werk, für das Er mich bestimmt
 hatte, vorzubereiten und auszurüsten, und dadurch getrieben
 werde, seine unendliche Güte und Weisheit anzubeten und
 zu preisen — so will ich kurz berichten, wie es in meiner Jugend
@@ -17,13 +17,12 @@ um mich stand, und wie das Werk des Herrn in mir angefangen
 und fortgesetzt wurde seit meiner Kindheit.
 
 
-Ich wurde geboren im Monat den man Juli [nennt][1.1] 1624, zu Drayton in-the-Clay,
+Ich wurde geboren im Monat den [man Juli nennt][1.1] 1624, zu Drayton in-the-Clay,
 in Leicestershire. Mein Vater hieß Christoph Fox; er war Weber von Beruf,
 ein ehrbarer Mann, und es war ein *Same von Gott* in ihm. Die Nachbarn
 nannten ihn: den *gerechten Chrtster*. Meine Mutter war eine
 rechtschaffene Frau; ihr Mädchenname war Mary Lago, aus der
 Familie der Lago und aus dem Geschlecht der Märtyrer.
-
 
 [1.1]: "Fox verwarf die üblichen Monatsbezeichnungen als heidnisch."
 
@@ -34,17 +33,15 @@ einen Abscheu davor in meinem Herzen verspürte und zu mir
 sagte: *Wenn ich einmal ein Mann sein werde, sicherlich werde
 ich nicht so leichtfertig tun.*
 
-Als ich elf Jahre alt war, wuste ich schon was rein und
+Als ich elf Jahre alt war, wusste ich schon was rein und
 recht ist; denn ich war als Kind gelehrt worden, wie man rein
 bleibt. Der Herr lehrte mich, treu zu sein in allen Dingen, sowohl
-innerlich gegen Gott als äuserlich gegen die Menschen; und das
-ich mich in allen Dingen an *ja* und *nein*
-halten solle; nicht
+innerlich gegen Gott als äußerlich gegen die Menschen; und das
+ich mich in allen Dingen an *ja* und *nein* halten solle; nicht
 wie die Kinder der Welt, die ihren Mund voll List und gleisnerischer
 Worte haben, sondern meine Worte sollen: wenig sein, *lieblich*
 <!--% \picinclude{./000-009/p_s002.jpg} -->
-*und mit Salz gewürzet* (Col. 4:6);
-und das ich nicht essen
+*und mit Salz gewürzet* (Col. 4:6); und das ich nicht essen
 und trinken solle, um mich wollüstig zu machen, sondern um der
 Gesundheit willen, jeder Ding dazu gebrauchend, wozu es
 bestimmt ist, zur Ehre dessen, der alles geschaffen hat [...]
@@ -64,7 +61,7 @@ bei meinen Bekannten: wenn George sagt *wahrlich*, so kann
 ihn nichts umstimmen. Wenn die Buben oder rohe Leute über
 mich lachten, kümmerte ich mich nicht um sie, sondern ging meiner
 Wege; aber gewöhnlich hatten mich die Leute gern wegen meiner
-Geradheit und Ehrlichkeit.
+Gradheit und Ehrlichkeit.
 
 
 [1.2]: "Fox bezeichnet mit 'Priester' die ordinierte Geistlichen."
@@ -88,7 +85,10 @@ einen Groschen vor sie aus den Tisch legte und sagte:
 aber ich ging in jener Nacht nicht zu Bett, denn ich konnte nicht
 schlafen; bald ging ich im Zimmer auf und ab, bald betete und
 <!-- % \picinclude{./000-009/p_s003.jpg} -->
-schrie ich zum Herrn, welcher also zu mir redete: **"Du siehst, wie junge Leute zusammengehen in Eitelkeit und alte Leute in die Erde. Du musst dich von ihnen abwenden und dich von ihnen, den jungen wie den alten, fern halten und ihnen allen ein Fremdling werden."**
+schrie ich zum Herrn, welcher also zu mir redete:
+**"Du siehst, wie junge Leute zusammengehen in Eitelkeit und alte Leute in die Erde. Du musst dich von ihnen abwenden und dich von ihnen, den jungen wie den alten, fern halten und ihnen allen ein Fremdling werden."**
+
+## Fox verlässt seine Familie ##
 
 Darauf, am 9. Tage des 7. Monats 1643 verließ ich nach Gottes Befehl meine
 Verwandtschaft und brach allen Umgang und alle Kameradschaft mit jung und alt
@@ -119,9 +119,10 @@ die Angst dauerte mehrere Jahre und ich hätte mich gerne davon
 frei gemacht. Ich ging zu manchem Priester, um Trost zu suchen,
 aber ich fand keinen bei ihnen.
 
+## Erster Aufenthalt in London ##
 
 Von Barnet ging ich nach London, wo ich eine Wohnung nahm,
-und dort war ich in grosem Elend und Jammer; denn ich sah
+und dort war ich in großem Elend und Jammer; denn ich sah
 das die großen *Frommen* der Stadt alle in den Banden der
 Finsternis waren. Ich hatte einen Oheim dort,
 einen Baptisten,
@@ -149,6 +150,9 @@ während mancher Nacht irrte ich einsam umher.
 
 
 [1.3]: "Es war der Anfang der Bürgerkriege."
+
+## Die Frage nach dem Sühnetod und andere Diskussionen ##
+
 
 Danach kam der Priester von Drayton, Nathanael
 Stevens, oft zu mir und ich ging oft zu ihm; und ein anderer Priester
@@ -191,7 +195,9 @@ missfallen hatten. Er redete mit seinen Dienstboten über meine
 Leiden und Bekümmernisse, und ich bereute, einem solchen meine
 Gesinnung aufgedeckt zu haben. Ich sah, das sie alle leidige
 Tröster (Hiob 16:2) waren, und sie machten meine Unruhe noch
-größer. Darauf hörte ich von einem Priester, der in der Nähe
+größer.
+
+Darauf hörte ich von einem Priester, der in der Nähe
 von Tamworth lebte und für einen erfahrenen Mann galt. Ich
 ging sieben Meilen weit zu ihm, aber ich fand, das er nur ein
 leeres, hohles Gefäß war. Auch von einem Dr. Cradock in Coventry
@@ -207,7 +213,11 @@ Flammen stünde, und unsere ganze Unterredung war gestört und
 ich ging in Bekümmernis hinweg, bekümmerter als ich gekommen
 war. Ich sah, das sie alle leidige Tröster waren und so viel
 wie nichts für mich, denn sie konnten sich nicht in meinen Zustand
-versetzen. Daraufhin ging ich zu einem, namens Macham, einem
+versetzen.
+
+## Fox begibt sich wegen seines seelischen Leiden zum Ader lassen ##
+
+Daraufhin ging ich zu einem, namens Macham, einem
 Priester von hohem Ansehen. Er verordnete mir Arznei und ich
 musste zu Ader lassen. Aber man konnte mir keinen Tropfen Blut
 entziehen, weder am Arm noch am Kopf, trotz aller Mühe, die
@@ -227,6 +237,8 @@ die Leute arm waren, gab ich ihnen Geld; ich besaß davon gerade
 so viel, das ich niemanden zur Last zu fallen brauchte und
 noch dem Dürftigen etwas spenden konnte.
 
+## Gott offenbart Fox was wer Gläubige sind ##
+
 Zu Anfang des Jahres 1646 als ich, auf dem Wege nach
 Coventry, mich den Toren der Stadt näherte, stieg die Frage in
 mir auf, wie man sagen könne: alle Christen seien Gläubige, sowohl
@@ -236,6 +248,8 @@ geboren und vom Tode zum Leben durchgedrungen (1. Joh. 3);
 nur solche seien wahre Gläubige; und wenn auch andere sagen,
 sie seien auch wahre Gläubige, so seien sie es doch nicht.
 
+## Dicht die Lehre (Theologie) lehrt Menschen, sondern die (göttliche) Salbung ##
+
 Ein andermal, als ich am Morgen eines Ersten Tages über
 ein Feld ging, offenbarte mir der Herr, das in Oxford oder Cambridge erzogen
 sein noch nicht genüge, um tüchtig und fähig zum
@@ -244,12 +258,19 @@ das war die allgemeine Meinung der Leute. Aber ich sah es
 vollständig ein, als der Herr es mir offenbarte und war überzeugt
 davon und pries die Güte Gottes, die mir solches an diesem
 Morgen geoffenbart hatte. Es griff das Amt des Priesters Stevens
-an, das: **"in Oxford oder Cambridge erzogen zu sein noch nicht genüge, um tüchtig und fähig zum Dienst Christi zu machen"**; es
-wurde mir klar, das das, was mir geoffenbart worden war, das
+an, das:
+**"in Oxford oder Cambridge erzogen zu sein noch nicht genüge, um tüchtig und fähig zum Dienst Christi zu machen"**;
+es wurde mir klar, das das, was mir geoffenbart worden war, das
 priesterliche Amt angreife. Meine Angehörigen waren sehr betrübt,
 das ich nicht mit ihnen kommen wollte, um den Priester zu hören.
 Ich ging eben lieber allein ins Freie mit einer Bibel. Ich fragte sie,
-ob nicht der Apostel zu den Gläubigen sage, **"sie bedürfen nicht, das sie jemand lehre, die Salbung lehre sie"** (1. Joh. 2). Aber wie wohl
+ob nicht der Apostel zu den Gläubigen sage,
+**"sie bedürfen nicht, das sie jemand lehre, die Salbung lehre sie"**
+(1. Joh. 2).
+
+## Fox fühlt sich zu keiner Gruppe dazugehörig ##
+
+Aber wie wohl
 sie wussten, das solches in der Schrift steht, und das es
 <!-- % \picinclude{./000-009/p_s007.jpg} -->
 wahr ist, waren sie doch betrübt, das ich mich in diesem Punkte
@@ -275,7 +296,10 @@ das er nicht in Tempeln mit Händen gemacht wohne (Art. 7:48),
 nicht einmal in demjenigen, den er einst zu bauen befohlen hatte,
 sintemal er ihm ein Ende gemacht hatte, sondern sein Volk sei
 sein Tempel, und da wohne er. Solches wurde mir geoffenbart,
-während ich durchs Feld zu den Meinigen ging. Als ich kam,
+während ich durchs Feld zu den Meinigen ging.
+
+
+Als ich kam,
 sagten sie mir, Priester Stevens sei dagewesen und habe gesagt,
 er sei besorgt um mich, weil ich neuen Lichtern nachgehe. Ich
 lächelte bei mir selber, im Gedanken was der Herr mir über ihn
@@ -284,7 +308,11 @@ Verwandten nichts davon. Denn obgleich sie den Priester durchschauten,
 gingen sie doch, ihn zu hören, und waren betrübt, das
 ich nicht auch ging. Aber ich kam ihnen mit Schriftstellen und
 zeigte ihnen, das es eine Salbung gibt im Menschen, die ihn
-lehrt, und das der Herr sein Volk selber lehren will. Ich hatte
+lehrt, und das der Herr sein Volk selber lehren will.
+
+## Fox und die Bedeutung der Offenbarungen/Apokalypse ##
+
+Ich hatte
 auch große Offenbarungen über das, was in der Apokalypse steht;
 wenn ich davon redete, so sagten die *Frommen* und die Priester,
 sie sei ein versiegeltes Buch, und wollten mich davon abbringen;
@@ -297,7 +325,10 @@ Ich traf mit Leuten zusammen, welche die Ansicht hatten,
 die Frauen hätten keine Seelen, **"nicht mehr als eine Gans"**,
 <!-- % \picinclude{./000-009/p_s008.jpg} -->
 setzten sie leichtfertig hinzu. Aber ich tadelte sie und sagte ihnen,
-das sei nicht recht, denn Maria sage: **"Meine Seele erhebet den Herrn und mein Geist freuet sich Gottes seines Heilandes"** (Luc. 1:47).
+das sei nicht recht, denn Maria sage:
+**"Meine Seele erhebet den Herrn und mein Geist freuet sich Gottes seines Heilandes"** (Luc. 1:47).
+
+## Fox über Traumdeutung ##
 
 Ein andermal traf ich solche, die Viel auf Träume gaben.
 Ich sagte ihnen, wenn sie nicht unterscheiden könnten zwischen
@@ -308,8 +339,8 @@ Mensch oft bei Nacht Einflüsterungen des Satan, und endlich
 spreche Gott zum Menschen im Traum. Schließlich ließen auch
 diese Leute von solchen Dingen ab und wurden [Freunde][1.6].
 
-[1.6]: "*Freunde* ist bis heute die Selbstbezeichnung der Quäker: Das Wort
-*Freund* ist also hier immer in diesem Sinn zu verstehen."
+[1.6]: "'Freunde' ist bis heute die Selbstbezeichnung der Quäker: Das Wort
+'Freund' ist also hier immer in diesem Sinn zu verstehen."
 
 Trotz vieler großer Offenbarungen, die ich hatte, kamen doch
 oft schwere Anfechtungen über mich, so das ich bei Tag wünschte,
@@ -321,7 +352,7 @@ andere: sie bezogen sich aber auch auf die Schrift, über die ich
 große Offenbarungen hatte, und die Anfechtungen, die über mich
 kamen, bezogen sich auch immer eine auf die andere.
 
-
+## Fox stößt auf gleich gesinnte ##
 Zu Anfang des Jahres 1647 hieß mich der Herr nach
 Derbshire gehen, wo ich mit freundlich gesinnten Leuten
 (engl. friendly people) zusammentraf und ich hatte
@@ -364,6 +395,8 @@ in dem ich war, nicht schildern kann, ebenso wenig kann ich die
 Barmherzigkeit beschreiben, die Gott in diesem Elend an mir getan
 hat [...]
 
+## Jesus offenbart sich Fox in der Abgeschiedenheit als die Tür zum Licht und zum Leben ##
+
 Nachdem ich die Offenbarung vom Herrn empfangen hatte,
 **"das in Oxford oder Cambridge erzogen zu sein noch nicht zum Dienst des Herrn befähige"**, achtete ich die Priester weniger und
 sah mehr auf die Dissenter; ich sah, das unter diesen einige
@@ -380,10 +413,10 @@ Und als ich das hörte, hüpfte mein
 Herz vor Freude. Dann zeigte mir der Herr, warum niemand
 auf der Welt mir in meinem damaligen Zustand helfen konnte,
 <!-- % \picinclude{./010-019/p_s010.jpg} -->
-
 nämlich damit ihm die Ehre allein gebühre. Alle sind mit
 Sünde und Unglauben behaftet, damit Christus, der erleuchtet
 und Gnade, Glauben und Kraft gibt, den Vorrang habe [...].
+
 Mein Verlangen nach dem Herrn wurde immer stärker und der
 Eifer nach der Erkenntnis Christi und Gottes, ohne jegliche Hilfe
 von Menschen oder Büchern. Denn obwohl ich die Schrift las,
@@ -395,6 +428,7 @@ weiter und lies mich seine ewige, unendliche Liebe sehen, die
 alles übertrifft, was die Menschen in ihrem natürlichen Zustand,
 oder durch Bücher oder die Geschichte erkennen können;
 und diese Liebe zeigte mir auch, wie ich selber war ohne ihn.
+
 Ich zog mich zurück von allen anderen, denn durch die Liebe
 Gottes sah ich deutlich, wie es um sie stand. Ich hatte keinen
 Umgang mit irgendjemand, Priester oder *Frommen*, oder
@@ -402,7 +436,9 @@ irgendwelchen Separatisten; sondern nur mit Christus, der der
 Schlüssel ist, und der mir die Tür zum Licht und zum Leben
 geöffnet hatte. Ich fürchtete mich vor allem Reden über irdische Dinge;
 denn ich sah nur Verderbliches darin, und wie das Leben von
-Verderben belastet war. Als ich selber in der Tiefe war und unter dem
+Verderben belastet war.
+
+Als ich selber in der Tiefe war und unter dem
 Druck, da glaubte ich nicht, das ich je wieder darüber Herr werden
 würde; meine Trübsal, Bekümmernis und Versuchung war so
 groß, das ich oft glaubte, verzweifeln zu müssen, so sehr ward
@@ -415,7 +451,9 @@ auftat als ich eingeschlossen war und weder Hoffnung noch Glauben
 hatte. Christus, der mich erleuchtet hatte, schenkte mir sein Licht,
 um daran zu glauben, er schenkte mir Hoffnung, die er selber in
 mir ausrichtete, und er gab mir seinen Geist und seine Gnade,
-die mir genügten in meiner Schwachheit. Also erhielt mich der
+die mir genügten in meiner Schwachheit.
+
+Also erhielt mich der
 Herr im tiefsten Elend und Jammer, die oft über mich kamen.
 Ich sand in mir zweierlei Durst: nach der Kreatur, um dort
 Hilfe und Kraft zu suchen, und nach Gott, dem Schöpfer, und
@@ -427,7 +465,9 @@ nütze gewesen; denn nichts konnte mich trösten, als die Kraft
 des. Herrn. Ich sah, das die Priester und die ,*Frommen*
 und überhaupt die Menschen hohl waren und ganz zufrieden
 in dem Zustand, der mich elend machte; und das sie das
-liebten, wovon ich gerne los geworden wäre. Aber der Herr,
+liebten, wovon ich gerne los geworden wäre.
+
+Aber der Herr,
 von welchem meine Hilfe kam, nahm mein Anliegen auf sich, und
 ich warf meine Sorgen auf ihn allein. Darum wartet alle
 geduldig aus den Herrn, in welchem Zustand ihr auch sein möget;
@@ -445,6 +485,8 @@ Schlange, dem Mörder, den Kopf zertrat. Dieses inwendige
 Leben sproste in mir empor, also das ich auf alle Einwände der
 Priester und der *Frommen* antworten konnte, und brachte mir
 Schriftworte ins Gedächtnis, um sie zu widerlegen.
+
+## todo ##
 
 Einmal sah ich die große Liebe Gottes und ich wurde mit
 Bewunderung über ihre Unendlichkeit erfüllt; ich sah, wer von
